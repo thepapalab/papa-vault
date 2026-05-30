@@ -11,3 +11,5 @@
 - Eurocodes + Belgian NBN annexes. Never assume a parameter — flag if missing.
 - Code output: engineering variable names, commented for teaching.
 - Calculation notes: French, natural prose, optimised for Word paste.
+  
+  Checking push

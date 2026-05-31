@@ -4,3 +4,4 @@
 .trash/
 .DS_Store
 Projects/
+.obsidian/plugins/obsidian-local-rest-api/data.json

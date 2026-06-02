@@ -1,0 +1,25 @@
+---
+name: Jeroen SALIMANS
+role: —
+company: TUC RAIL → Infrabel
+department: Project Delivery
+department_code: T-PJD
+email: Jeroen.SALIMANS@tucrail.be
+mobile: +32 497809560
+reports_to: [[Sara VAN LOOCK]]
+tags: [tpjd, project]
+---
+
+## Contact
+- **Email:** Jeroen.SALIMANS@tucrail.be
+- **Mobile:** +32 497809560
+- **Department:** Project Delivery (T-PJD)
+
+## Hierarchy
+- **Reports to:** [[Sara VAN LOOCK]]
+
+## Notes
+
+## Last Contact
+Date:
+Context:

@@ -1,0 +1,25 @@
+---
+name: Geoffrey HENKAERTS
+role: —
+company: TUC RAIL → Infrabel
+department: Lines & Integration
+department_code: T-LNI
+email: Geoffrey.HENKAERTS@tucrail.be
+mobile: +32 498291835
+reports_to: [[Sébastien WTORECK]]
+tags: [tlni, lines]
+---
+
+## Contact
+- **Email:** Geoffrey.HENKAERTS@tucrail.be
+- **Mobile:** +32 498291835
+- **Department:** Lines & Integration (T-LNI)
+
+## Hierarchy
+- **Reports to:** [[Sébastien WTORECK]]
+
+## Notes
+
+## Last Contact
+Date:
+Context:

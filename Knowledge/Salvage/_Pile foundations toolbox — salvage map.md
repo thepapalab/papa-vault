@@ -352,3 +352,43 @@ Everything else in batch 4 = alternates / bearing-engine references / revisions.
 > For the **catenary** specifically, the build is now simpler and more focused than the multi-step pile composition sketched in earlier addenda: **reproduce `Bovenleidingspaal` as the calc note**, validated against its solved cases, since it already integrates bearing + sliding + overturning + displacement for the actual foundation types used. The pile toolbox remains the fallback for pile-type catenary foundations and for all other (bridge/culvert) pile work.
 
 Links: [[_EC7 — Index]] · [[_Settlement & ground-improvement toolbox — salvage map]]
+
+
+---
+
+# Addendum — Batch 5: General shallow-foundation tool with rigorous slope (talud) influence (2026-06-01)
+
+**`Algemene_berekeningsfile_voor_funderingen_op_staal_met_invloed_van_talud_3.xlsx`**
+
+A general shallow-foundation bearing/stability tool with a **rigorous, geometry-based slope-reduction method** — more advanced than the other `fundering_op_staal` files, and the standalone talud-reduction engine in the same family as the catenary tool. **Solved** (real project: 101303 — Overdekte sleuf Watermael-Bosvoorde, "valse put middenkolom" — a **covered-trench / culvert central-column foundation**). Project type matters: a **culvert** foundation, so this tool is relevant to culvert and catenary work, and to footings near railway embankments generally.
+
+## What it does
+
+Bearing capacity + sliding + overturning of a shallow footing (prefab or cast-in-place), with the **influence of a nearby slope** treated rigorously. Distinctive vs the other shallow-foundation files:
+
+- **Three bearing methods side by side:** Eurocode 7 shallow (Annex D, D/B≈), **Brinch Hansen** (D/B<…), **Meyerhof** (deeper, D/B<5) — qult, Qu, and a utilisation ratio S for each, with NOK/OK verdicts.
+- **Rigorous slope (talud) reduction via the actual failure surface.** Instead of a tabulated reduction factor, it constructs the **breukfiguur** geometrically — a triangular wedge plus a **logarithmic spiral** (opening angle, radius vector, spiral) — for both the Hansen and Meyerhof mechanisms. When a slope truncates the spiral (distance from footing edge to crest + slope angle), the mobilisable passive zone shrinks and bearing is reduced accordingly. The two ~10,000-row sheets (`Gegevens Hanssen`, `Gegevens Meyerhof`) are the **computed slip-surface geometry tables** driving this (Kpmin/Kpmax; limitation in 1 or 2 directions).
+- **Stress distribution under the footing** (`Spanningsverdeling onder zool`): drukspanning left/right, effective ("meewerkende") width under eccentric load, point + distributed loads, moments about the toe, eccentricity → effective b′·l′.
+- **EC7 design approaches:** Classical, DA1 (1.35/1.5 loads), DA2 (γφ=γc=1.25 on soil) — global safety per approach. Fixed/mobile load split (vaste = mean of min/max; mobiele = half the range).
+- Sliding (glijden) and overturning (kantelen) equilibrium checks (attacking vs resisting forces/moments).
+- Water table, surcharge (nevenbelasting), 6 soil types, slope distance + angle inputs.
+
+## Catalogue placement — master table section K
+
+Add as the **most rigorous talud-reduction variant** of direct-foundation bearing:
+
+- **Generic shallow foundation, simple:** `fundering_op_staal-E25007` (rect/circ/punching/multi-layer) — primary for routine footings/rafts.
+- **Generic shallow foundation, near a slope (RIGOROUS):** `Algemene_berekeningsfile...talud_3` (THIS) — when a footing sits near an embankment crest and slope reduction governs. Geometry-based (log-spiral) reduction, three bearing methods.
+- **Bearing-method engines (alternates):** `Fundering_op_staal_7`, `fundering_op_staal_Hansen-Bowles`.
+- **EC7-DA structured (French):** `Fondations_directes`.
+- **Catenary mast (dedicated):** `Bovenleidingspaal_-_V1-2` — shares this talud-bearing family.
+
+> [!note] Relationship to the catenary tool
+> `Bovenleidingspaal` and this file share the **same talud-reduction approach** (Brinch Hansen failure-surface reduction near a slope, three bearing methods). This file is the more complete, standalone shallow-foundation+slope engine; the catenary tool wraps a similar engine with mast-specific load cases, sliding/overturning, and the displacement estimate. When building either notebook, the log-spiral slip-surface + talud-reduction logic can be developed once and shared conceptually.
+
+## Use / priority
+
+- **WILL use** for: footings and culvert/abutment foundations **near railway embankments** (the talud case), where slope reduction governs bearing — a common Infrabel situation. Real solved anchor present (proj. 101303, a culvert column foundation).
+- **Build-complexity flag:** the log-spiral failure-surface geometry and the two ~10,000-row lookup tables are the non-trivial part. The bearing formulas (EC7/Hansen/Meyerhof) are standard, but the **talud reduction via constructed slip surface** needs careful reproduction and validation against the solved case — analogous to the ULS-mobilisation caution on the catenary tool.
+
+Links: [[_EC7 — Index]] · [[_Settlement & ground-improvement toolbox — salvage map]]

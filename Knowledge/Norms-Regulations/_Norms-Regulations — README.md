@@ -14,7 +14,7 @@ A typical entry records: standard reference and title; the clause/table that mat
 ## Subfolders
 
 - **Eurocodes-NBN/** — EN 199x series + Belgian NBN ANB annexes. NDP values live here.
-- **Infrabel-PTR/** — Infrabel technical prescriptions. PTR CE01 (fyk ≤ 400 MPa) and related CE-series.
+- **Infrabel-PTR/** — Infrabel technical prescriptions.
 
 ---
 

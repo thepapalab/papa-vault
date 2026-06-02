@@ -26,10 +26,17 @@ Synthesised methods — one note per check type or method. Dense, curated, no fl
 
 *(Other Eurocode domains — EC2, EC0, EC1, EC3 — added as methodology notes are written.)*
 
+
+- **EC2 — Concrete** → [[_EC2 — Index]]
+  - [[M-N interaction diagram — methodology]] — *draft* (combined N+M, five-domain sweep, closed envelope; asymmetric-capable)
+
 ### Formulas
 Atomic, self-contained, cited formula units. One relationship per section: symbols defined, units stated, clause cited, Belgian-annex divergence flagged. Source of truth for notebook-building once `eurocode-lib` is walled off. **Algorithms do not go here — only formulas and short derivations** (see CLAUDE.md §6).
 
 - _(empty — populate by Eurocode: EC2/, EC7/, EC0/ …)_
+
+
+- **EC2** → [[EC2 — ULS material design values]] — *draft; α_cc open* (partial factors, f_cd, concrete strain limits, f_yd, E_s, constitutive laws)
 
 ### Norms-Regulations
 The *map* to normative sources — which clause, which annex, which Infrabel rule governs what, and where the PDF lives. Not a restatement of method.

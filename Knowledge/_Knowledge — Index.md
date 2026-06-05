@@ -41,7 +41,8 @@ Atomic, self-contained, cited formula units. One relationship per section: symbo
 ### Norms-Regulations
 The *map* to normative sources — which clause, which annex, which Infrabel rule governs what, and where the PDF lives. Not a restatement of method.
 
-- **Eurocodes-NBN** — _(populate)_
+- **Eurocodes-NBN**
+  - **EC2 (EN 1992-1-1:2004)** → [[EC2_index]] — Sections 2, 5, 9, 10, 12 (partial); see index for detail
 - **Infrabel-PTR** — PTR CE01 (fyk ≤ 400 MPa) and related. _(populate)_
 
 ### Worked-Examples

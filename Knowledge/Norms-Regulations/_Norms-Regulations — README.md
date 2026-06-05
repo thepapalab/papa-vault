@@ -14,7 +14,8 @@ A typical entry records: standard reference and title; the clause/table that mat
 ## Subfolders
 
 - **Eurocodes-NBN/** — EN 199x series + Belgian NBN ANB annexes. NDP values live here.
-- **Infrabel-PTR/** — Infrabel technical prescriptions.
+- **Infrabel-PTR/** — Infrabel technical prescriptions (PTR CE01 Fascicule 1, EN + FR splits).
+- **Concrete/** — FEBELCEM guidance bulletins on concrete specification (NBN EN 206 + NBN B 15-001). See [[_Concrete — README]].
 
 ---
 

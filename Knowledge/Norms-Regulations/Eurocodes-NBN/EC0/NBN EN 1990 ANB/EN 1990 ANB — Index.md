@@ -2,9 +2,9 @@
 title: EN 1990 ANB — Annexe Nationale Belge — Index
 type: index
 source: "NBN EN 1990 ANB:2021 — Eurocode 0 : Bases de calcul des structures — Annexe nationale belge, NBN, 23-03-2021 (remplace ANB:2013)"
-norms: [NBN EN 1990 ANB:2021, NBN EN 1990:2002, NBN EN 1990/A1:2006]
-authority: "Commission E250/E25001 — CSTC/SECO — Bureau de Normalisation (NBN)"
+norm: EN1990-ANB
 date: 2021-03
+status: en vigueur
 tags: [EN1990, ANB, belge, NDP, coefficients-partiels, coefficients-psi, classes-consequence, fiabilite, bâtiments, ponts]
 related: ["[[EN 1990 A1 — Index]]", "[[_Norms-Regulations — README]]", "[[PTR CE01 — Index — FR]]", "[[_Knowledge — Index]]"]
 created: 2026-06-05
@@ -98,4 +98,4 @@ Annexe nationale normative belge à l'EN 1990:2002 (Eurocode 0) et à son amende
 
 ---
 
-Liens : [[EN 1990 A1 — Index]] · [[PTR CE01 — Index — FR]] · [[_Norms-Regulations — README]] · [[_Knowledge — Index]]
+Liens : [[EN 1990 A1 — Index]] · [[PTR CE01 — Index — FR]] · [[_Norms-Regulations — README]] · [[_Knowledge — Index]] · [[CLAUDE]]

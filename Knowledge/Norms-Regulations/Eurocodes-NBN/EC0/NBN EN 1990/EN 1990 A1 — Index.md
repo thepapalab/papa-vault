@@ -2,9 +2,9 @@
 title: EN 1990 A1 — Annexe A2 Application aux ponts — Index
 type: index
 source: "NBN EN 1990/A1 — Eurocode : Bases de calcul des structures — Annexe A2 : Application aux ponts (+ AC:2010), NBN, mars 2006"
-norms: [EN 1990:2002/A1:2005, EN 1990:2002/A1:2005/AC:2010, NBN EN 1990/A1]
-authority: "CEN/TC 250 — Bureau de Normalisation (NBN)"
+norm: EN1990-A1
 date: 2006-03
+status: en vigueur
 tags: [EN1990, Eurocode, ponts, combinaisons-actions, ELU, ELS, ferroviaire, routier, passerelle, belge]
 related: ["[[_Norms-Regulations — README]]", "[[_Knowledge — Index]]", "[[PTR CE01 — Index — FR]]"]
 created: 2026-06-05
@@ -105,9 +105,9 @@ Amendement 1 à l'EN 1990:2002, introduisant l'**Annexe A2 (normative)** : règl
 
 ## Confort piétons — Passerelles (A2.4.3.2)
 
-| Direction | Limite |
-|-----------|--------|
-| Vibrations verticales | 0,7 m/s² |
+| Direction                        | Limite   |
+| -------------------------------- | -------- |
+| Vibrations verticales            | 0,7 m/s² |
 | Vibrations horizontales (normal) | 0,2 m/s² |
 | Conditions exceptionnelles foule | 0,4 m/s² |
 
@@ -115,4 +115,4 @@ Vérification requise si : f_fondamentale < 5 Hz (vertical) ou < 2,5 Hz (horizon
 
 ---
 
-Liens : [[_Norms-Regulations — README]] · [[PTR CE01 — Index — FR]] · [[_Knowledge — Index]]
+Liens : [[_Norms-Regulations — README]] · [[PTR CE01 — Index — FR]] · [[_Knowledge — Index]] · [[CLAUDE]]

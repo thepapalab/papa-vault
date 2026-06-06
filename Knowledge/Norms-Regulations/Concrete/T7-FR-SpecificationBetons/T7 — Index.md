@@ -6,7 +6,7 @@ norms: [NBN EN 206:2013+A1:2016, NBN B 15-001:2018]
 authority: "FEBELCEM — Ir J.-F. Denoël"
 date: 2020-01
 tags: [béton, durabilité, prescription, FEBELCEM, NBN, belge, T7, concrete]
-related: ["[[_Knowledge — Index]]"]
+related: ["[[_Norms-Regulations — README]]", "[[_Knowledge — Index]]"]
 created: 2026-06-05
 ---
 
@@ -73,4 +73,4 @@ Guide pratique FEBELCEM pour la prescription des bétons courants à performance
 
 ---
 
-Liens : [[_Knowledge — Index]] · [[T7 — 03 — Comment Prescrire]]
+Liens : [[_Norms-Regulations — README]] · [[_Knowledge — Index]] · [[CLAUDE]]

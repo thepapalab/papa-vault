@@ -1,11 +1,8 @@
 ---
 title: EN 1990 A1 — 04 — Corrigenda AC:2008 et AC:2010
-type: norm-guide
+type: norm-extract
 source: "EN 1990:2002/A1:2005/AC:2008 et EN 1990:2002/A1:2005/AC:2010 — Eurocode : Bases de calcul des structures, CEN, décembre 2008 et avril 2010"
-norms: [EN 1990:2002/A1:2005/AC:2008, EN 1990:2002/A1:2005/AC:2010]
-authority: "CEN — Comité Européen de Normalisation"
-date: 2010-04
-sections: [AC:2008, AC:2010]
+norm: EN1990-A1
 tags: [EN1990, corrigendum, modifications, ELU, ELS, coefficients-gamma, coefficients-psi, belge]
 related: ["[[EN 1990 A1 — Index]]", "[[EN 1990 A1 — 01 — A2.1-A2.2 — Domaine et Combinaisons]]", "[[EN 1990 A1 — 02 — A2.3 — États-Limites Ultimes]]"]
 created: 2026-06-05
@@ -176,4 +173,4 @@ Remplacer les Tableaux A1.2(A), A1.2(B) et A1.2(C) par les versions révisées :
 
 ---
 
-Liens : [[EN 1990 A1 — Index]] · [[EN 1990 A1 — 01 — A2.1-A2.2 — Domaine et Combinaisons]] · [[EN 1990 A1 — 02 — A2.3 — États-Limites Ultimes]]
+Liens : [[EN 1990 A1 — Index]] · [[EN 1990 A1 — 01 — A2.1-A2.2 — Domaine et Combinaisons]] · [[EN 1990 A1 — 02 — A2.3 — États-Limites Ultimes]] · [[_Knowledge — Index]] · [[CLAUDE]]

@@ -1,11 +1,8 @@
 ---
 title: EN 1990 ANB — 03 — Annexe A2 Ponts : ELU et ELS (valeurs normatives belges)
-type: norm-guide
+type: norm-extract
 source: "NBN EN 1990 ANB:2021 — Eurocode 0 : Bases de calcul des structures — Annexe nationale belge, NBN, 23-03-2021"
-norms: [NBN EN 1990 ANB:2021, NBN EN 1990/A1:2006, EN 1991-2, EN 1997]
-authority: "Commission E250/E25001 — CSTC/SECO — Bureau de Normalisation (NBN)"
-date: 2021-03
-sections: [A2.3, A2.3.1, A2.3.2, A2.4, A2.4.1, A2.4.2, A2.4.3, A2.4.4, A2.4.4.1, A2.4.4.2, A2.4.4.2.1, A2.4.4.2.2, A2.4.4.2.3, A2.4.4.2.4, A2.4.4.2.5, A2.4.4.3]
+norm: EN1990-ANB
 tags: [EN1990, ANB, ELU, ELS, coefficients-partiels, gamma, ponts-ferroviaires, déformation, gauche, flèche, accélération, confort, approche-1]
 related: ["[[EN 1990 ANB — Index]]", "[[EN 1990 ANB — 02 — A2 Ponts — Combinaisons et ψ]]", "[[EN 1990 ANB — 04 — Annexes B C D — Fiabilité et Classes]]", "[[EN 1990 A1 — 02 — A2.3 — États-Limites Ultimes]]", "[[EN 1990 A1 — 03 — A2.4 — États-Limites de Service]]", "[[PTR CE01 — Ch09 — ELS — FR]]"]
 created: 2026-06-05
@@ -192,4 +189,4 @@ Les valeurs minimales dans les cas non couverts par le Tableau A2.10 ANB sont fi
 
 ---
 
-Liens : [[EN 1990 ANB — Index]] · [[EN 1990 ANB — 02 — A2 Ponts — Combinaisons et ψ]] · [[EN 1990 ANB — 04 — Annexes B C D — Fiabilité et Classes]] · [[EN 1990 A1 — 02 — A2.3 — États-Limites Ultimes]] · [[EN 1990 A1 — 03 — A2.4 — États-Limites de Service]] · [[PTR CE01 — Ch09 — ELS — FR]]
+Liens : [[EN 1990 ANB — Index]] · [[EN 1990 ANB — 02 — A2 Ponts — Combinaisons et ψ]] · [[EN 1990 ANB — 04 — Annexes B C D — Fiabilité et Classes]] · [[EN 1990 A1 — 02 — A2.3 — États-Limites Ultimes]] · [[EN 1990 A1 — 03 — A2.4 — États-Limites de Service]] · [[PTR CE01 — Ch09 — ELS — FR]] · [[_Knowledge — Index]] · [[CLAUDE]]

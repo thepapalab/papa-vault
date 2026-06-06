@@ -1,0 +1,108 @@
+Annexe J
+(informative)
+Aide-mémoire pour la surveillance des travaux et le suivi du
+comportement des ouvrages
+J.1 Généralités
+(1) La liste qui suit contient les points les plus importants qu'il convient de prendre en compte
+au cours de la surveillance de l'exécution des travaux et du suivi du comportement de
+l'ouvrage terminé. L'importance des points variera selon le projet. La liste n'est pas
+exhaustive. Les points concernant des problèmes géotechniques ou des types de travaux
+spécifiques ont été traités dans les sections de cette norme.
+J.2 Surveillance de l'exécution
+J.2.1 Points généraux à contrôler
+(1) Vérification des conditions de terrain et de la localisation et de la disposition d'ensemble de
+l'ouvrage.
+(2) Écoulement de l'eau souterraine et régime des pressions interstitielles ; effets sur les
+nappes des opérations de pompage ; efficacité des mesures prises pour contrôler le débit
+d'infiltration ; processus d'érosion interne et phénomène de renard ; composition chimique de
+l'eau souterraine ; potentiel de corrosion.
+(3) Mouvements, plastification, stabilité des parois et de la base des excavations ; systèmes
+de support temporaire, effets sur les bâtiments et équipements avoisinants ; mesure des
+pressions du sol sur les ouvrages de soutènement ; mesure des variations de la pression
+interstitielle dues aux excavations ou au chargement.
+(4) Sécurité des ouvriers en tenant compte des états limites géotechniques.
+J.2.2 Écoulement de l'eau et pressions interstitielles
+(1) Aptitude du système à assurer le contrôle des pressions interstitielles dans tous les
+aquifères lorsque des surpressions pourraient affecter la stabilité des talus ou de la base des
+excavations, y compris les pressions artésiennes dans les nappes aquifères situées sous des
+excavations ; évacuation de l'eau extraite des systèmes de rabattement de nappe ;
+abaissement du niveau de la nappe dans toute l'excavation afin d'éviter les conditions de
+boulance, d'érosion interne et de remaniement des terrains par les équipements de
+construction ; déviation et enlèvement des eaux de pluie et autres eaux superficielles.
+(2) Fonctionnement effectif et efficace du système de rabattement de la nappe tout au long de
+l'exécution des travaux en tenant compte du colmatage des crépines des puits, de
+l'envasement des puits ou puisards, de l'abrasion dans les pompes, de l'obstruction des
+pompes.
+(3) Contrôle des rabattements de nappe afin d'empêcher des perturbations dans les ouvrages
+voisins ou les zones voisines ; observation des niveaux piézométriques ; efficacité,
+fonctionnement et entretien des systèmes de recharge d'eau, si nécessaire.
+(4) Tassement des ouvrages ou terrains avoisinants.
+(5) Efficacité des systèmes de drainage par forages subhorizontaux.
+117744
+
+J.3 Suivi du comportement
+(1) Tassements des bâtiments et autres ouvrages à des intervalles de temps réguliers, y
+compris ceux dus aux effets des vibrations et des sols métastables.
+(2) Déplacement latéral et distorsions, particulièrement ceux liés aux remblais et dépôts de
+matériaux ; ouvrages reposant sur le sol, tels que les bâtiments ou les grands réservoirs ;
+canaux d'excavations profondes.
+(3) Niveaux piézométriques sous les bâtiments ou dans les zones voisines, en particulier
+lorsqu’un drainage profond ou des systèmes permanents de rabattement de nappe sont
+installés ou lorsque des sous-sols profonds sont construits.
+(4) Déflexion ou déplacement des ouvrages de soutènement en tenant compte des charges
+normales appliquées par le remblai, des effets des dépôts de matériaux, des remblais et
+autres charges superficielles et des pressions d'eau.
+(5) Mesure de l'écoulement sortant des drains.
+(6) Problèmes particuliers :
+− Pour les ouvrages à hautes températures tels que les chaufferies, les conduites d'eau
+chaude: dessiccation des sols argileux et limoneux ; suivi des températures ;
+mouvements.
+− Pour les ouvrages à basses températures tels que les installations cryogéniques ou les
+zones réfrigérées : suivi des températures ; gel du sol ; soulèvement dû au gel ;
+déplacements, effets du dégel ultérieur.
+(7) Étanchéité à l'eau.
+(8) Mesures de vibrations.
+
+EUROPEAN STANDARD EN 1997-1:2004/AC
+NORME EUROPÉENNE
+February 2009
+Février 2009
+EUROPÄISCHE NORM
+Februar 2009
+ICS 93.020; 91.010.30
+English version
+Version Française
+Deutsche Fassung
+Eurocode 7: Geotechnical design - Part 1: General rules
+Eurocode 7: Calcul géotechnique - Partie 1: Eurocode 7 - Entwurf, Berechnung und
+Règles générales Bemessung in der Geotechnik - Teil 1:
+Allgemeine Regeln
+This corrigendum becomes effective on 18 February 2009 for incorporation in the three official
+language versions of the EN.
+Ce corrigendum prendra effet le 18 février 2009 pour incorporation dans les trois versions
+linguistiques officielles de la EN.
+Die Berichtigung tritt am 18.Februar 2009 zur Einarbeitung in die drei offiziellen Sprachfassungen der
+EN in Kraft.
+EUROPEAN COMMITTEE FOR STANDARDIZATION
+COMITÉ EUROPÉEN DE NORMALISATION
+EUROPÄISCHES KOMITEE FÜR NORMUNG
+Management Centre: Avenue Marnix 17, B-1000 Brussels
+© 2009 CEN All rights of exploitation in any form and by any means reserved worldwide for CEN national Members.
+Tous droits d'exploitation sous quelque forme et de quelque manière que ce soit réservés dans le monde entier aux
+membres nationaux du CEN.
+Alle Rechte der Verwertung, gleich in welcher Form und in welchem Verfahren, sind weltweit den nationalen Mitgliedern
+von CEN vorbehalten.
+Ref. No.:EN 1997-1:2004/AC:2009 D/E/F
+
+EN 1997-1:2004/C1
+November 2008
+English version
+Eurocode 7: Geotechnical design – Part 1: General rules
+Eurocode 7: Calcul géotechnique - Partie 1: Eurocode 7: Entwurf, Berechnung und
+Règles générales Bemessung in der Geotechnik - Teil 1: Allgemeine Regeln
+This corrigendum becomes effective on [day] [month] 2008 for incorporation in the three official language
+versions of the EN.
+Ce corrigendum prendra effet le [jour] [mois] 2008 pour incorporation dans les trois versions linguistiques
+officielles de la EN.
+Die Berichtigung tritt am [Tag] [Monat] 2008 zur Einarbeitung in die drei offiziellen Sprachfassungen der EN in
+Kraft.

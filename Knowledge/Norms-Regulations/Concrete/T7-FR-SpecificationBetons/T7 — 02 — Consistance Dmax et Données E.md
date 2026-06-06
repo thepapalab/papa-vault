@@ -1,6 +1,6 @@
 ---
 title: T7 — §1.4–1.6 Consistance, D_max et Données complémentaires E
-type: norm-guide
+type: norm-extract
 source: "T7 — Prescription des bétons selon NBN EN 206:2013+A1:2016 & NBN B 15-001:2018, FEBELCEM, Janvier 2020"
 norms: [NBN EN 206:2013+A1:2016, NBN B 15-001:2018]
 authority: "FEBELCEM — Ir J.-F. Denoël"
@@ -193,4 +193,4 @@ Les données complémentaires sont **facultatives** — à mentionner uniquement
 
 ---
 
-Liens : [[T7 — Index]] · [[T7 — 01 — Résistance et Durabilité]] · [[T7 — 03 — Comment Prescrire]]
+Liens : [[T7 — Index]] · [[T7 — 01 — Résistance et Durabilité]] · [[T7 — 03 — Comment Prescrire]] · [[_Knowledge — Index]] · [[CLAUDE]]

@@ -1,6 +1,6 @@
 ---
 title: T7 — §2 Comment prescrire un béton — Tableau 7 récapitulatif
-type: norm-guide
+type: norm-extract
 source: "T7 — Prescription des bétons selon NBN EN 206:2013+A1:2016 & NBN B 15-001:2018, FEBELCEM, Janvier 2020"
 norms: [NBN EN 206:2013+A1:2016, NBN B 15-001:2018]
 authority: "FEBELCEM — Ir J.-F. Denoël"
@@ -123,4 +123,4 @@ Choisir parmi la série de 13 valeurs normalisées (en mm) :
 
 ---
 
-Liens : [[T7 — Index]] · [[T7 — 02 — Consistance Dmax et Données E]] · [[T7 — 04 — Exemples]]
+Liens : [[T7 — Index]] · [[T7 — 02 — Consistance Dmax et Données E]] · [[T7 — 04 — Exemples]] · [[_Knowledge — Index]] · [[CLAUDE]]

@@ -1,0 +1,95 @@
+Annexe E
+(informative)
+Exemple de méthode semi-empirique pour l'estimation de la
+capacité portante
+(1) Afin d'estimer la valeur de calcul de la capacité portante d'une fondation reposant sur un
+sol, des essais en place tels que l'essai pressiométrique peuvent être utilisés.
+(2) Lorsque l'on utilise l'essai pressiométrique, la valeur de calcul R de la capacité portante
+d
+d'une fondation soumise à une charge verticale est liée à la pression limite du sol par la
+fonction linéaire suivante :
+R /A' = σ + k p* (E.1)
+d v;0 le
+où :
+k est le facteur de capacité portante ;
+σ est la contrainte totale verticale initiale ;
+v;0
+p* est la valeur de calcul de la pression limite nette équivalente (déduite de l’essai
+le
+pressiométrique)
+et les autres symboles sont définis dans l'article 1.6.
+(3) Les valeurs numériques du facteur de capacité portante varient entre 0,8 et 3 en fonction
+du type de sol, de la profondeur d'encastrement et de la forme de la fondation.
+(4) La pression limite nette équivalente (p* ) est déduite de la pression limite nette p*, qui est
+le l
+définie pour un essai pressiométrique comme la différence (p- p ) entre la pression limite p et
+l o l
+la pression horizontale des terres au repos, p au niveau de l'essai ; p peut être déterminé à
+o o
+partir du coefficient de pression des terres au repos K estimé et à partir des valeurs de la
+o
+contrainte verticale effective q' et de la pression interstitielle u, par la formule p = K q'+ u.
+o o
+
+Annexe F
+(informative)
+Exemples de méthodes d'évaluation du tassement
+F.1 Méthode des contraintes et déformations
+(1) Le tassement total d'une fondation reposant sur des sols cohérents ou non cohérents peut
+être évalué en utilisant la méthode de calcul en contraintes-déformations, comme indiqué ci-
+dessous :
+— on calcule la répartition des contraintes dans le sol due au chargement provenant de la
+fondation. Elle peut être établie à partir de la théorie de l'élasticité, en supposant
+généralement un sol homogène isotrope et une distribution linéaire de la pression de
+contact ;
+— on calcule la déformation dans le sol à partir des contraintes en utilisant des valeurs du
+module de raideur ou d'autres relations entre contraintes et déformations déterminées à
+partir d'essais en laboratoire (de préférence étalonnées par rapport à des essais sur le
+terrain) ou d'essais sur le terrain ;
+— on intègre les déformations verticales pour calculer les tassements. Pour utiliser la
+méthode des contraintes et déformations, il convient de choisir un nombre suffisant de
+points dans le sol au-dessous de la fondation et de calculer les contraintes et les
+déformations en ces points.
+F.2 Méthode élastique ajustée
+(1) Le tassement total d'une fondation reposant sur un sol cohérent ou non cohérent peut être
+évalué en utilisant la théorie de l'élasticité et une équation de la forme suivante :
+s = p b f / E (F.1)
+m
+où :
+E est la valeur de calcul du module d’élsticité ;
+m
+f est le coefficient de tassement ;
+p est la pression appliquée au sol, variant linéairement sur la base de la fondation ;
+et les autres symboles sont définis dans l'article 1.6
+(2) La valeur du coefficient de tassement f dépend de la forme et des dimensions de la
+surface de la fondation, de la variation de la raideur avec la profondeur, de l'épaisseur de la
+couche compressible, du coefficient de Poisson, de la répartition de la pression de contact et
+du point où le tassement est calculé.
+(3) Lorsque l'on ne dispose pas de valeurs de tassement utilisables, mesurées sur des
+ouvrages voisins semblables et dans des conditions semblables, la valeur de calcul du
+module d’Young drainé E de la couche qui se déforme en conditions drainées peut être m
+estimée à partir de résultats d'essais in situ ou en laboratoire.
+(4) Il convient d'utiliser la méthode élastique ajustée seulement quand les contraintes dans le
+sol sont telles qu'aucune plastification majeure ne se produit et quand la relation contrainte-
+tassement du sol peut être supposée linéaire. Une grande prudence est nécessaire lorsqu'on
+utilise la méthode élastique ajustée dans le cas de sols hétérogènes.
+
+F.3 Tassements sans drainage
+(1) Les composantes à court terme du tassement d'une fondation, qui se produisent sans
+drainage, peuvent être évaluées en utilisant, soit la méthode contraintes-déformations, soit la
+méthode élastique adaptée. Dans ce cas, il convient de représenter le comportement non
+drainé par des valeurs adaptées des constantes de raideur (telles que E ) et du coefficient
+m
+de Poisson.
+F.4 Tassements dus à la consolidation
+(1) Afin de calculer le tassement provoqué par la consolidation, on peut faire l'hypothèse
+d'une déformation unidimensionnelle confinée du sol et utiliser la courbe de compressibilité
+de l'essai oedométrique. L'addition des tassements sans drainage et de consolidation
+entraîne souvent une surestimation du tassement total et des corrections empiriques peuvent
+être appliquées.
+F.5 Évolution du tassement au cours du temps
+(1) Pour les sols cohérents, la vitesse du tassement de consolidation avant la fin de la
+consolidation primaire peut être estimée approximativement en utilisant les paramètres de
+consolidation obtenus au moyen d'un essai de compression. Toutefois, il est préférable
+d'estimer la vitesse du tassement de consolidation en utilisant les valeurs de perméabilité
+obtenues par des essais en place.

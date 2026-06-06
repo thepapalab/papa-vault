@@ -1,0 +1,225 @@
+Section 5 Remblais, rabattement de nappe, amélioration et
+renforcement des terrains
+5.1 Généralités
+(1)P Les dispositions de cette section doivent être appliquées lorsque l'on obtient un état
+adéquat du terrain par :
+— la mise en place d’un remblai constitué de sol naturel, de roche broyée ou désagrégée à
+l’explosif ou de certains déchets ;
+— le rabattement de la nappe ;
+— le traitement du terrain ;
+— le renforcement du terrain.
+NOTE 1 Les situations où du sol ou un matériau granulaire est mis en place pour la construction
+d'ouvrages de génie civil comprennent :
+— les remblais sous les fondations et les dalles de fondation ;
+— le remblaiement des excavations et derrière les ouvrages de soutènement ;
+— les remblaiements de grande surface, y compris les remblais hydrauliques, les remblais
+d'aménagement paysager et les terrils ou autres tas de débris ;
+— les remblais pour digues et réseaux de transport.
+NOTE 2 Le rabattement de la nappe dans le terrain peut être temporaire ou permanent.
+NOTE 3 Le terrain qui est traité pour améliorer ses propriétés peut être le terrain naturel ou un remblai.
+L'amélioration du terrain peut être temporaire ou permanente.
+(2)P Les procédures de calcul pour les ouvrages géotechniques qui comprennent des
+remblais, utilisent des rabattements de nappe, ou nécessitent l’amélioration ou le renforcement
+des terrains sont celles des Sections 6 à 12.
+5.2 Exigences fondamentales
+(1)P Le remblai, le terrain ayant subi un rabattement de nappe ou le terrain amélioré ou
+renforcé doit être capable de résister aux actions dues à son fonctionnement et à son
+environnement.
+(2)P Ces exigences fondamentales doivent être aussi vérifiées pour le terrain sur lequel le
+remblai est placé.
+5.3 Construction des remblais
+5.3.1 Principes
+(1)P Lorsque l’on prépare un projet de construction de remblai, la convenance du remblai doit
+être jugée sur
+— les possibilités de maniement du matériau,
+
+— l'obtention de propriétés géotechniques adéquates après compactage.
+(2) Il convient de tenir compte du transport et de la mise en place du matériau lors de la
+préparation du projet.
+5.3.2 Choix du matériau de remblai
+(1)P Les critères de sélection des matériaux en vue de leur utilisation comme matériau de
+remblai doivent être fondés sur l'obtention d'une résistance, rigidité, durabilité et perméabilité
+adéquates après le compactage. Ces critères doivent tenir compte des objectifs du remblai et
+des exigences de tout ouvrage reposant sur ce remblai.
+(2) Les matériaux de remblai convenables comprennent la plupart des matériaux granulaires
+naturels de granularité contrôlée et certains déchets tels que les résidus de houille triés, et les
+cendres volantes pulvérisées. Certains matériaux manufacturés comme les granulats légers
+peuvent également être utilisés dans certaines circonstances. Certains matériaux cohérents
+peuvent être convenables mais nécessitent des soins particuliers.
+(3)P Les aspects suivants doivent être pris en compte lors du choix d'un matériau de remblai :
+— la granularité ;
+— la résistance à l'écrasement ;
+— la compactibilité ;
+— la perméabilité ;
+— la plasticité ;
+— la résistance du terrain sous-jacent ;
+— la teneur en matières organiques ;
+— l'agressivité chimique ;
+— les effets de la pollution ;
+— la solubilité ;
+— la possibilité de subir des variations de volume (argiles gonflantes et matériaux
+affaissables) ;
+— les basses températures et la susceptibilité au gel ;
+— la résistance à l'altération ;
+— les effets de l'excavation, du transport et de la mise en place ;
+— la possibilité de cimentation du matériau après sa mise en place (par exemple, les laitiers
+de haut-fourneau).
+(4) Lorsque les matériaux locaux ne sont pas convenables comme matériau de remblai dans
+leur état naturel, il peut être nécessaire d'adopter l'une des procédures suivantes :
+— ajustement de la teneur en eau ;
+— mélange avec du ciment, de la chaux ou d'autres matériaux ;
+
+— concassage, tamisage ou lavage ;
+— protection au moyen de matériaux appropriés ;
+— utilisation des couches drainantes.
+(5) Les sols gelés, gonflants ou solubles ne devraient normalement pas être utilisés comme
+matériaux de remblai.
+(6)P Lorsque le matériau choisi contient des produits chimiques pouvant être agressifs ou
+polluants, les dispositions adéquates nécessaires doivent être prises pour empêcher les
+attaques sur les structures ou équipements de service et la pollution de l'eau souterraine. De
+grandes quantités de tels matériaux ne doivent être utilisées que dans les sites sous suivi
+permanent.
+(7)P En cas de doute, le matériau de remblai doit être testé à la source pour assurer qu’il est
+convenable pour l’application prévue. Le type, le nombre et la fréquence des essais doivent
+être définis en fonction du type et de l’hétérogénéité du matériau et de la nature du projet.
+(8) Pour la catégorie géotechnique 1, l'inspection visuelle du matériau peut souvent suffire.
+(9)P Le matériau utilisé pour un remblai devant satisfaire des conditions sévères de portance,
+tassement et stabilité ne doit pas contenir de quantité importante de matières étrangères telles
+que de la neige, de la glace ou de la tourbe.
+(10) Pour les remblais sans exigences spécifiques de portance, tassements ou stabilité, le
+matériau peut contenir des petites quantités de neige, glace ou tourbe.
+5.3.3 Choix des procédures de mise en place du remblai et de compactage
+(1)P Les critères de compactage doivent être établis pour chaque zone ou couche du remblai,
+en fonction de son usage et des performances exigées.
+(2)P Les procédures de mise en place et de compactage du matériau doivent être choisies de
+telle sorte que la stabilité du remblai soit assurée pendant toute l'exécution des travaux et que
+le sol naturel ne soit pas affecté de façon défavorable.
+(3)P La procédure de compactage pour le remblai doit être spécifiée en fonction du critère de
+compactage et des éléments suivants :
+— l'origine et la nature du matériau ;
+— la méthode de mise en place ;
+— la teneur en eau de mise en place et ses variations éventuelles ;
+— les épaisseurs, initiale et finale, de la couche rapportée ;
+— les conditions climatiques locales ;
+— l'uniformité du compactage ;
+— la nature du terrain sous-jacent.
+(4) Afin de développer une procédure appropriée pour le compactage, un essai en vraie
+grandeur doit être effectué avec le matériau et l'équipement de compactage prévus. Ceci
+permet de déterminer la procédure de compactage à suivre (méthode de mise en place,
+équipement de compactage, épaisseur des couches, nombre de passes, techniques de
+
+transport adéquates, quantité d'eau à ajouter). Un essai en vraie grandeur peut également être
+utilisé pour déterminer les critères de contrôle.
+(5) Lorsqu'il existe des risques de pluies au cours de la mise en place de matériaux cohérents,
+il convient de régler la surface du remblai à chaque étape, de telle sorte qu'elle puisse assurer
+un écoulement convenable.
+(6) La mise en place du remblai à des températures inférieures à zéro peut nécessiter le
+réchauffement du remblai qui sera mis en place et des mesures de protection contre le gel à la
+surface du remblai. Il convient d’évaluer la nécessité de ces mesures au cas par cas, en tenant
+compte de la qualité du matériau de remblai et du degré de compactage requis.
+(7)P Les remblais placés autour de fondations ou sous un dallage doivent être compactés de
+telle façon qu’il ne se produise pas de dommages dus aux tassements du terrain.
+(8) Il convient de placer le remblai à la surface d’un terrain non remanié et drainé. Il convient
+d’éviter tout mélange du remblai avec le terrain en utilisant une nappe filtrante de géotextile ou
+une couche de séparation filtrante.
+(9) Avant de placer du remblai sous l’eau, il convient d’enlever tous les matériaux mous par
+dragage ou par un autre moyen.
+5.3.4 Contrôle du remblai
+(1)P Les remblais doivent être contrôlés par des inspections ou des essais afin d'assurer que
+la nature du matériau de remblai, sa teneur en eau de mise en place et les procédures de
+compactage sont conformes aux prescriptions.
+(2) Il n’est pas nécessaire de faire des essais pour certaines combinaisons de matériaux et de
+procédures de compactage, si la procédure de compactage a été validée par un essai en vraie
+grandeur ou par une expérience comparable.
+(3) Il convient d'utiliser l'une des méthodes suivantes pour le contrôle du compactage :
+— mesure de la densité sèche et, si cela est requis par le projet, de la teneur en eau ;
+— mesure de propriétés comme par exemple la résistance à la pénétration ou la raideur. Ces
+mesures ne permettent pas toujours de déterminer si le compactage a été satisfaisant dans
+les sols cohérents.
+(4) Il convient de spécifier et de vérifier sur le chantier les densités minimales du remblai,
+exprimées par exemple en pourcentage de l’optimum Proctor.
+(5) Pour les remblais en enrochements et les remblais comportant une forte proportion de
+particules grossières, il convient de contrôler le compactage par des essais en place. L’essai
+Proctor n’est pas applicable dans ces matériaux.
+(6) Le contrôle sur chantier (voir la norme EN 1997-2) peut être réalisé par l’une des méthodes
+suivantes:
+— en vérifiant que le compactage a été réalisé conformément à la procédure déduite des
+essais en vraie grandeur ou d'expériences comparables ;
+— en vérifiant que le tassement provoqué par un passage supplémentaire de l'engin de
+compactage est inférieur à une valeur spécifiée ;
+— par des essais de plaque ;
+— par des méthodes sismiques ou dynamiques.
+
+(7)P Dans les cas où le surcompactage n'est pas admis, une valeur limite supérieure de
+compactage doit être spécifiée.
+(8) Le surcompactage peut provoquer les effets indésirables suivants :
+— le développement de feuilletage et de raideurs de sol importantes dans les talus ;
+— d'importantes pressions des terres sur les ouvrages enterrés et les ouvrages de
+soutènement ;
+— le broyage de matériaux tels que les roches tendres, les laitiers, les sables volcaniques
+utilisés comme matériaux légers de remblais.
+5.4 Rabattement de nappe
+(1)P Tout système permettant de retirer de l'eau du terrain ou de diminuer la pression de l'eau
+doit être fondé sur les résultats d'une reconnaissance géotechnique et hydrogéologique.
+(2) L'eau peut être retirée du terrain par drainage gravitaire, par pompage dans des puisards,
+des puits ou des forages filtrants ou par électro-osmose. Le système adopté dépendra :
+— de l'état actuel du terrain et de l'eau souterraine ;
+— des caractéristiques du projet : par exemple, la profondeur des excavations et l'importance
+du rabattement de la nappe.
+(3) Une partie du système de rabattement de la nappe peut être un système de puits de
+recharge situés à une certaine distance de l'excavation.
+(4) Il convient que le schéma de rabattement tienne compte des éléments suivants, lorsqu’ils
+sont pertinents :
+— dans le cas d’excavations, les côtés de l'excavation restent toujours stables sous l’effet du
+rabattement de la nappe et il ne se produit pas de soulèvement excessif ni de rupture de la
+base de l’excavation, par exemple à cause d’une pression excessive de l'eau au-dessous
+d'une couche moins perméable ;
+— le système adopté n’entraîne pas de tassements excessifs ou de dommages aux ouvrages
+avoisinants ;
+— le système adopté empêche une perte excessive de terrain par écoulement d'eau sur les
+côtés ou à la base de l'excavation ;
+— sauf dans le cas de matériaux à granulométrie assez uniforme, qui peuvent fonctionner
+eux-mêmes comme filtre, des filtres adéquats sont placés autour des puisards afin
+d'assurer qu'il n'y ait pas de quantité significative de sol transportée avec l'eau pompée ;
+— l'eau retirée d'une excavation est normalement déversée assez loin de la zone excavée ;
+— le système de rabattement de la nappe est conçu, adapté et installé afin de maintenir les
+niveaux d'eau et les pressions interstitielles prévus dans le calcul sans fluctuations
+importantes ;
+— une marge adéquate de capacité de pompage est prévue et une installation de réserve est
+disponible pour faciliter l'entretien en cas de panne ;
+— lorsque l'on permet à l'eau souterraine de revenir à son niveau initial, on doit prendre soin
+d'éviter les problèmes tels que l'affaissement des sols de structure sensible, par exemple
+les sables lâches ;
+
+— le système adopté ne doit pas entraîner un transport excessif d'eau polluée vers
+l'excavation ;
+— le système adopté ne doit pas entraîner une extraction excessive d'eau dans une zone de
+captage d'eau potable.
+(5)P L'efficacité du rabattement de nappe doit être vérifiée par la surveillance du niveau de
+l'eau souterraine, des pressions interstitielles et des mouvement du terrain, en fonction des
+nécessités. Les données réunies doivent être fréquemment examinées et interprétées afin de
+déterminer les effets du rabattement de la nappe sur l'état du terrain et sur le comportement
+des ouvrages avoisinants.
+(6)P Lorsque l'opération de pompage s'étend sur une longue période, il convient de vérifier la
+présence dans l'eau souterraine de sels et de gaz dissous qui peuvent provoquer soit, la
+corrosion des parois des puits soit, leur colmatage par la précipitation de sels.
+(7)P Les systèmes de rabattement de nappe sur de longues périodes doivent être conçus pour
+éviter leur colmatage par l’action de bactéries ou d’autres causes.
+5.5 Amélioration et renforcement du terrain
+(1)P Une reconnaissance géotechnique de l’état initial du site doit être réalisée avant de
+choisir ou d'utiliser une méthode quelconque d'amélioration ou de renforcement de terrain.
+(2)P La méthode d'amélioration du terrain pour une situation particulière doit être choisie en
+tenant compte des facteurs suivants, lorsqu’ils sont pertinents :
+— l'épaisseur et les propriétés des couches de terrain ou du matériau de remblai ;
+— l'intensité de la pression de l'eau dans les différentes couches ;
+— la nature, la dimension et la situation de l'ouvrage à construire sur le terrain ;
+— la prévention des dommages aux ouvrages et équipements de service avoisinants ;
+— la nature temporaire ou permanente de l'amélioration du terrain ;
+— en termes de déformations attendues, la relation entre la méthode d'amélioration du terrain
+et le phasage de l'exécution ;
+— les effets sur l'environnement, y compris la pollution par des produits toxiques ou les
+variations du niveau de l'eau souterraine ;
+— la détérioration à long terme des matériaux.
+(3)P L'efficacité de l'amélioration du terrain doit être vérifiée, par rapport aux critères
+d'acceptation, en déterminant les variations de propriétés appropriées du terrain sous l’effet du
+traitement.

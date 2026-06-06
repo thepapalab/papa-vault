@@ -1,11 +1,8 @@
 ---
 title: EN 1990 ANB — 00 — Avant-Propos National et Introduction
-type: norm-guide
+type: norm-extract
 source: "NBN EN 1990 ANB:2021 — Eurocode 0 : Bases de calcul des structures — Annexe nationale belge, NBN, 23-03-2021"
-norms: [NBN EN 1990 ANB:2021, NBN EN 1990:2002, NBN EN 1990/A1:2006]
-authority: "Commission E250/E25001 — CSTC/SECO — Bureau de Normalisation (NBN)"
-date: 2021-03
-sections: [Avant-propos, Introduction, NDP non fixés]
+norm: EN1990-ANB
 tags: [EN1990, ANB, belge, NDP, historique, synonymes]
 related: ["[[EN 1990 ANB — Index]]", "[[EN 1990 ANB — 01 — A1 Bâtiments — ψ et ELU]]"]
 created: 2026-06-05
@@ -95,4 +92,4 @@ La « durée d'utilisation de projet » est une notion associée à la conceptio
 
 ---
 
-Liens : [[EN 1990 ANB — Index]] · [[EN 1990 ANB — 01 — A1 Bâtiments — ψ et ELU]]
+Liens : [[EN 1990 ANB — Index]] · [[EN 1990 ANB — 01 — A1 Bâtiments — ψ et ELU]] · [[_Knowledge — Index]] · [[CLAUDE]]

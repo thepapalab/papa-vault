@@ -1,11 +1,8 @@
 ---
 title: EN 1990 ANB — 04 — Annexes B, C, D — Fiabilité structurale et Classes de conséquences
-type: norm-guide
+type: norm-extract
 source: "NBN EN 1990 ANB:2021 — Eurocode 0 : Bases de calcul des structures — Annexe nationale belge, NBN, 23-03-2021"
-norms: [NBN EN 1990 ANB:2021, NBN EN 1990:2002, EN 1991-1-7, EN 1998-1]
-authority: "Commission E250/E25001 — CSTC/SECO — Bureau de Normalisation (NBN)"
-date: 2021-03
-sections: [Annexe B, Annexe C, Annexe D]
+norm: EN1990-ANB
 tags: [EN1990, ANB, fiabilité, classes-conséquences, CC1, CC2, CC3, K_FI, ponts, bâtiments, structures-industrielles, belge]
 related: ["[[EN 1990 ANB — Index]]", "[[EN 1990 ANB — 03 — A2 Ponts — ELU et ELS]]", "[[PTR CE01 — Index — FR]]"]
 created: 2026-06-05
@@ -104,4 +101,4 @@ L'annexe D de l'EN 1990:2002 conserve en Belgique un **caractère informatif**.
 
 ---
 
-Liens : [[EN 1990 ANB — Index]] · [[EN 1990 ANB — 03 — A2 Ponts — ELU et ELS]] · [[PTR CE01 — Index — FR]]
+Liens : [[EN 1990 ANB — Index]] · [[EN 1990 ANB — 03 — A2 Ponts — ELU et ELS]] · [[PTR CE01 — Index — FR]] · [[_Knowledge — Index]] · [[CLAUDE]]

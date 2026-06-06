@@ -1,6 +1,6 @@
 ---
 title: T7 — §1.1–1.3 Résistance et Durabilité (Données de base A, B1, B2)
-type: norm-guide
+type: norm-extract
 source: "T7 — Prescription des bétons selon NBN EN 206:2013+A1:2016 & NBN B 15-001:2018, FEBELCEM, Janvier 2020"
 norms: [NBN EN 206:2013+A1:2016, NBN B 15-001:2018]
 authority: "FEBELCEM — Ir J.-F. Denoël"
@@ -139,4 +139,4 @@ Au-delà de **600 mg/l** de sulfates dans l'eau (ou 3 000 mg/kg dans le sol), un
 
 ---
 
-Liens : [[T7 — Index]] · [[T7 — 00 — Avant-Propos et Normes]] · [[T7 — 02 — Consistance Dmax et Données E]]
+Liens : [[T7 — Index]] · [[T7 — 00 — Avant-Propos et Normes]] · [[T7 — 02 — Consistance Dmax et Données E]] · [[_Knowledge — Index]] · [[CLAUDE]]

@@ -1,11 +1,8 @@
 ---
 title: EN 1990 A1 — 00 — Avant-Propos et Annexe Nationale
-type: norm-guide
+type: norm-extract
 source: "NBN EN 1990/A1 — Eurocode : Bases de calcul des structures — Annexe A2 : Application aux ponts (+ AC:2010), NBN, mars 2006"
-norms: [EN 1990:2002/A1:2005, NBN EN 1990/A1]
-authority: "CEN/TC 250 — Bureau de Normalisation (NBN)"
-date: 2006-03
-sections: [Avant-Propos, Annexe Nationale]
+norm: EN1990-A1
 tags: [EN1990, Eurocode, ponts, annexe-nationale, choix-nationaux, belge]
 related: ["[[EN 1990 A1 — Index]]", "[[EN 1990 A1 — 01 — A2.1-A2.2 — Domaine et Combinaisons]]"]
 created: 2026-06-05
@@ -83,4 +80,4 @@ Un choix national est autorisé dans l'annexe A2 de l'EN 1990 par les clauses su
 
 ---
 
-Liens : [[EN 1990 A1 — Index]] · [[EN 1990 A1 — 01 — A2.1-A2.2 — Domaine et Combinaisons]]
+Liens : [[EN 1990 A1 — Index]] · [[EN 1990 A1 — 01 — A2.1-A2.2 — Domaine et Combinaisons]] · [[_Knowledge — Index]] · [[CLAUDE]]

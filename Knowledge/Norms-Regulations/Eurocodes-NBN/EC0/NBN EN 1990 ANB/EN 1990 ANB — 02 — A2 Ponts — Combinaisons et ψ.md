@@ -1,11 +1,8 @@
 ---
 title: EN 1990 ANB — 02 — Annexe A2 Ponts : Combinaisons d'actions et ψ
-type: norm-guide
+type: norm-extract
 source: "NBN EN 1990 ANB:2021 — Eurocode 0 : Bases de calcul des structures — Annexe nationale belge, NBN, 23-03-2021"
-norms: [NBN EN 1990 ANB:2021, NBN EN 1990/A1:2006, EN 1991-2]
-authority: "Commission E250/E25001 — CSTC/SECO — Bureau de Normalisation (NBN)"
-date: 2021-03
-sections: [A2.1, A2.1.1, A2.2, A2.2.1, A2.2.2, A2.2.3, A2.2.4, A2.2.6]
+norm: EN1990-ANB
 tags: [EN1990, ANB, ponts, ferroviaire, routier, passerelle, coefficients-psi, combinaisons-actions, belge, vent]
 related: ["[[EN 1990 ANB — Index]]", "[[EN 1990 ANB — 01 — A1 Bâtiments — ψ et ELU]]", "[[EN 1990 ANB — 03 — A2 Ponts — ELU et ELS]]", "[[EN 1990 A1 — 01 — A2.1-A2.2 — Domaine et Combinaisons]]"]
 created: 2026-06-05
@@ -155,4 +152,4 @@ created: 2026-06-05
 
 ---
 
-Liens : [[EN 1990 ANB — Index]] · [[EN 1990 ANB — 01 — A1 Bâtiments — ψ et ELU]] · [[EN 1990 ANB — 03 — A2 Ponts — ELU et ELS]] · [[EN 1990 A1 — 01 — A2.1-A2.2 — Domaine et Combinaisons]]
+Liens : [[EN 1990 ANB — Index]] · [[EN 1990 ANB — 01 — A1 Bâtiments — ψ et ELU]] · [[EN 1990 ANB — 03 — A2 Ponts — ELU et ELS]] · [[EN 1990 A1 — 01 — A2.1-A2.2 — Domaine et Combinaisons]] · [[_Knowledge — Index]] · [[CLAUDE]]

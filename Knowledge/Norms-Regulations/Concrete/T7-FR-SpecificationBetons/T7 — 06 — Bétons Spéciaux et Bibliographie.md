@@ -1,6 +1,6 @@
 ---
 title: T7 — Bétons spéciaux, applications particulières et bibliographie
-type: norm-guide
+type: norm-extract
 source: "T7 — Prescription des bétons selon NBN EN 206:2013+A1:2016 & NBN B 15-001:2018, FEBELCEM, Janvier 2020"
 norms: [NBN EN 206:2013+A1:2016, NBN B 15-001:2018]
 authority: "FEBELCEM — Ir J.-F. Denoël"
@@ -76,4 +76,4 @@ Les bétons suivants ne relèvent **pas** de la NBN B 15-001:2018. Leurs spécif
 
 ---
 
-Liens : [[T7 — Index]] · [[T7 — 05 — Texte CdC et BENOR]]
+Liens : [[T7 — Index]] · [[T7 — 05 — Texte CdC et BENOR]] · [[_Knowledge — Index]] · [[CLAUDE]]

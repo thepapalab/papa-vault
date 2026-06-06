@@ -1,6 +1,6 @@
 ---
 title: T7 — §4 Texte descriptif pour Cahier des Charges et BENOR
-type: norm-guide
+type: norm-extract
 source: "T7 — Prescription des bétons selon NBN EN 206:2013+A1:2016 & NBN B 15-001:2018, FEBELCEM, Janvier 2020"
 norms: [NBN EN 206:2013+A1:2016, NBN B 15-001:2018]
 authority: "FEBELCEM — Ir J.-F. Denoël"
@@ -158,4 +158,4 @@ Un maintien prolongé peut être déclaré si le producteur en a apporté la pre
 
 ---
 
-Liens : [[T7 — Index]] · [[T7 — 04 — Exemples]] · [[T7 — 06 — Bétons Spéciaux et Bibliographie]]
+Liens : [[T7 — Index]] · [[T7 — 04 — Exemples]] · [[T7 — 06 — Bétons Spéciaux et Bibliographie]] · [[_Knowledge — Index]] · [[CLAUDE]]

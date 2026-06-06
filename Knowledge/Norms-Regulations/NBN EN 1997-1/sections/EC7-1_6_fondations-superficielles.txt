@@ -1,0 +1,358 @@
+Section 6 Fondations superficielles
+6.1 Généralités
+(1)P Les dispositions de cette section s’appliquent aux fondations superficielles, y compris les
+semelles isolées, les semelles filantes et les radiers.
+(2) Certaines de ces dispositions peuvent être appliquées aux fondations profondes comme
+les caissons.
+6.2 États limites
+(1)P Les états limites suivants doivent être considérés et une liste des états limites appropriés
+doit être établie :
+— instabilité d’ensemble ;
+— défaut de capacité portante, rupture par poinçonnement ;
+— rupture par glissement ;
+— rupture combinée dans le terrain et dans la structure ;
+— rupture de la structure du fait des mouvements de la fondation ;
+— tassements excessifs ;
+— soulèvement excessif sous l’effet du gonflement du sol, du gel ou d’autres causes ;
+— vibrations inadmissibles.
+6.3 Actions et situations de calcul
+(1)P Les situations de calcul doivent être choisies comme indiqué dans l'article 2.2.
+(2) Il convient de prendre en considération les actions listées dans 2.4.2(4)P lors du choix des
+états limites de calcul.
+(3) Lorsque la rigidité de la structure est importante, il convient d’analyser l’interaction de la
+structure et du terrain afin de déterminer la distribution des actions.
+6.4 Considérations relatives au calcul et à la construction
+(1)P Lors du choix de la profondeur d’une fondation superficielle, on doit prendre en compte
+les éléments suivants :
+— la possibilité d’atteindre une couche de capacité portante appropriée ;
+— la profondeur jusqu’à laquelle le retrait et le gonflement des sols argileux dus aux variations
+saisonnières du climat ou aux arbres ou arbustes peuvent provoquer des mouvements
+significatifs,
+— la profondeur jusqu’à laquelle des dommages dus au gel peuvent se produire ;
+— le niveau de la nappe dans le terrain et les problèmes qui pourraient être rencontrés s’il est
+nécessaire d’exécuter une excavation pour la fondation en dessous de ce niveau ;
+
+— les mouvements éventuels des terrains et les réductions de résistance de la couche
+porteuse provoqués par la circulation d’eau, les conditions climatiques ou les procédures
+de construction
+— les effets des excavations sur les fondations et structures avoisinantes ;
+— les excavations ultérieures prévues pour les équipements de service proches des
+fondations ;
+— les hautes ou basses températures transmises par le bâtiment;
+— les affouillements éventuels;
+— les effets des variations de la teneur en eau dues à de longues périodes de sécheresse et
+aux périodes de pluie qui les suivent sur les propriétés des sols instables dans les zones de
+climat aride ;
+— la présence de matériaux solubles tels que le calcaire, l’argilite, le gypse et les roches
+salines.
+(2) Les dommages dus au gel ne se produisent pas si :
+— le sol n’est pas sensible au gel ;
+— le niveau de fondation est plus bas que la profondeur de gel;
+— le gel est éliminé en isolant le sol.
+(3) La norme EN-ISO 13793 peut être appliquée pour définir les mesures de protection des
+fondations de bâtiments contre le gel.
+(4)P En plus du respect des exigences de comportement, il doit être tenu compte, lors du choix
+de la largeur de la fondation, de considérations pratiques liées à l’économie des travaux
+d’excavation, aux tolérances d’exécution, à l’espace nécessaire pour les travaux et aux
+dimensions du mur ou du pilier portés par la fondation.
+(5)P L’une des méthodes de calcul suivantes doit être utilisée pour les fondations
+superficielles :
+— une méthode directe dans laquelle des analyses séparées sont exécutées pour chaque état
+limite. Pour la vérification vis-à-vis d’un état limite ultime, le calcul devra représenter aussi
+fidèlement que possible le mécanisme de rupture envisagé. Pour la vérification d’un état
+limite de service, un calcul de tassement doit être effectué ;
+— une méthode indirecte fondée sur des expériences comparables et sur les résultats
+d’essais en place ou en laboratoire ou sur des observations, et choisie en relation avec les
+charges de service de façon à satisfaire les exigences de tous les états limites pertinents ;
+— une méthode prescriptive utilisant une valeur présumée de la capacité portante (voir
+l'article 2.5).
+(6) Il convient d’utiliser les modèles de calcul donnés dans les sections 6.5 et 6.6,
+respectivement, pour la justification aux états limites ultimes ou de service des fondations
+superficielles reposant sur des sols. Il convient d’utiliser conformément aux indications de
+l'article 6.7 les valeurs présumées des capacités portantes des fondations superficielles
+reposant sur du rocher.
+
+6.5 Calcul à l’état limite ultime
+6.5.1 Stabilité générale
+(1)P La stabilité d’ensemble, avec ou sans les fondations, doit être vérifiée en particulier dans
+les situations suivantes :
+— près de ou sur une pente naturelle ou créée par l’homme ;
+— près d’une excavation ou d’un ouvrage de soutènement,
+— près d’une rivière, d’un canal, d’un lac, d’un réservoir ou d’une côte ;
+— près de mines ou d’ouvrages enterrés.
+(2)P Dans de telles situations, il doit être démontré, en suivant les principes décrits dans la
+section 11, qu’une instabilité du massif de terrain contenant la fondation est suffisamment peu
+probable.
+6.5.2 Portance
+6.5.2.1 Généralités
+(1)P L’inégalité suivante doit être vérifiée pour tous les états limites ultimes :
+V ≤ R (6.1)
+d d
+(2)P R doit être calculé conformément à l'article 2.4.
+d
+(3)P V doit inclure le poids de la fondation, le poids des matériaux de remblai éventuels, et
+d
+toutes les pressions des terres, favorables ou défavorables. Les pressions d’eau qui ne sont
+pas dues à la charge appliquée au sol par la fondation doivent être comptées parmi les
+actions.
+6.5.2.2 Méthode analytique
+(1) Il convient d'utiliser une méthode analytique communément reconnue.
+NOTE La méthode de calcul analytique de la capacité portante donnée à titre d’exemple dans
+l’annexe D peut être utilisée
+(2)P Le calcul analytique des valeurs à court terme et à long terme de R doit être considéré,
+d
+en particulier dans les sols fins.
+(3)P Lorsque le massif de sol ou de roche qui porte la fondation présente une structure
+stratifiée ou discontinue bien définie, le mécanisme de rupture adopté pour le calcul et les
+paramètres de résistance et de déformabilité choisis doivent prendre en compte les
+caractéristiques structurelles du terrain.
+(4)P Pour la détermination de la capacité portante de calcul d’une fondation reposant sur un
+massif stratifié, dont les propriétés varient fortement d’une couche à l’autre, les valeurs de
+calcul des propriétés du terrain doivent être déterminées pour chaque couche.
+(5) Lorsqu’une formation résistante est recouverte par une formation plus molle, la capacité
+portante peut être calculée en utilisant les paramètres de résistance au cisaillement de la
+formation la plus molle. Dans la situation inverse, il convient de vérifier la stabilité par rapport à
+une rupture par poinçonnement.
+
+(6) Les méthodes analytiques sont souvent inapplicables dans les situations de calcul décrites
+aux paragraphes 6.5.2.2(3)P, 6.5.2.2(4)P et 6.5.2.2(5). Il convient alors d’appliquer des
+procédures numériques pour déterminer le mécanisme de rupture le plus défavorable.
+(7) Les calculs de stabilité d’ensemble décrits dans la section 11 peuvent être appliqués.
+6.5.2.3 Méthode semi-empirique
+(1) Il convient d'utiliser une méthode semi-empirique communément reconnue.
+NOTE La méthode semi-empirique d’estimation de la capacité portante d’après les résultats d’essais
+pressiométriques décrite à titre d’exemple dans l’annexe E est recommandée.
+6.5.2.4 Méthode prescriptive utilisant une valeur présumée de la portance
+(1) Il convient d'utiliser une méthode prescriptive communément reconnue, fondée sur une
+valeur présumée de la portance.
+NOTE La méthode donnée à titre d’exemple dans l’annexe G pour déterminer la capacité portante
+présumée des fondations superficielles sur rocher est recommandée. Lorsqu'une méthode de ce type est
+appliquée, il convient d’évaluer le résultat du calcul sur la base d’expériences comparables.
+6.5.3 Résistance au glissement
+(1)P Lorsque le chargement n’est pas normal à la base de la fondation, la fondation doit être
+justifiée par rapport à une rupture par glissement sur sa base.
+(2)P L’inégalité suivante doit être vérifiée :
+H ≤ R + R (6.2)
+d d p;d
+(3)P H doit inclure les valeurs de calcul de toutes les forces de poussée sur la fondation.
+d
+(4)P R doit être calculé conformément à l'article 2.4.
+d
+(5) Il convient de relier les valeurs de R et R à l’ordre de grandeur du mouvement attendu
+d p,d
+sous le chargement limite considéré. Pour les grands mouvements, il convient de considérer la
+pertinence possible d’un comportement post-pic. Il convient de choisir une valeur de R qui p,d
+reflète la vie probable de la structure.
+(6)P Pour les fondations situées dans la zone des mouvements saisonniers des sols argileux,
+la possibilité d’un retrait de l’argile qui la détache des bords verticaux de la fondation doit être
+considérée.
+(7)P La possibilité que le sol situé devant la fondation puisse être enlevé par l’érosion ou des
+activités humaines doit être considérée.
+(8)P En conditions drainées, la résistance de calcul R doit être calculée soit en appliquant des
+d
+facteurs partiels aux propriétés du sol soit en les appliquant à la résistance du sol, comme
+indiqué ci-après :
+R = V ' tan δ (6.3a)
+d d d
+ou
+R = (V ’ tan δ) / γ (6.3b)
+d d k R;h
+
+NOTE Dans les calculs où l’on applique des facteurs partiels aux actions, le facteur partiel pour les
+actions (γ) vaut 1,0 et V ’ = V ’ dans l’équation (6.3b).
+F d k
+(9)P Lors de la détermination de V ’ , on doit tenir compte de l’existence possible de relations
+d
+entre les actions H et V ’ .
+d d
+(10) L’angle de frottement de calcul δ peut être pris égal à la valeur de calcul de l’angle de
+d
+frottement interne à l’état critique ϕ’ pour les fondations en béton coulées en place et égal à
+crit
+2ϕ’ /3 pour les fondations préfabriquées lisses. Il convient de négliger la cohésion effective c’.
+crit
+(11)P En conditions non drainées, la portance de calcul R doit être calculée soit en appliquant
+d
+des facteurs partiels aux propriétés du sol soit en les appliquant à la résistance du sol, comme
+indiqué ci-après :
+R = A c (6.4a)
+d c u;d
+ou
+R = (A c ) / γ (6.4b)
+d c u;k R;h
+(12)P S’il est possible que de l’eau ou de l’air atteigne l’interface entre une fondation et le sol
+de fondation argileux non drainé qui la porte, la vérification suivante soit être faite :
+R ≤ 0,4 V (6.5)
+d d
+(13) La condition (6.5) peut être négligée dans le seul cas où la formation d’un vide entre la
+fondation et le terrain est empêchée par un phénomène de succion dans les zones où la
+pression de contact est négative.
+6.5.4 Charges fortement excentrées
+(1)P Des précautions spéciales doivent être prises lorsque l’excentricité de la charge dépasse
+un tiers de la largeur d’une semelle rectangulaire ou 60% du rayon d’une semelle circulaire.
+Ces précautions portent notamment sur :
+— la vérification détaillée des valeurs de calcul des actions, suivant les indications du 2.4.2 ;
+— la définition de la position du bord de la fondation en tenant compte des tolérances de
+construction.
+(2) À moins que des précautions spéciales ne soient prises pendant la construction, il convient
+de prendre en compte des tolérances atteignant 0,10 m.
+6.5.5 Rupture de la structure due au mouvement de la fondation
+(1)P Les déplacements différentiels verticaux et horizontaux de la fondation doivent être
+considérés afin de s’assurer qu’ils ne conduisent pas à un état limite ultime de la structure
+portée.
+(2) Une valeur présumée de la capacité portante peut être adoptée (voir l'article 2.5) si les
+déplacements ne provoquent pas d’état limite ultime de la structure.
+(3)P Si le terrain peut gonfler, le gonflement différentiel potentiel doit être estimé et les
+fondations et la structure doivent être conçus pour résister ou s’adapter à ces mouvements.
+
+6.6 Calcul à l’état limite de service
+6.6.1 Généralités
+(1)P Les déplacements provoqués par les actions appliquées aux fondations, comme celles
+listées au 2.4.2(4), doivent être pris en compte.
+(2)P Lorsque l’on évalue l’amplitude des déplacements d’une fondation, on doit tenir compte
+des expériences comparables, telles qu’elles sont définies au 1.5.2.2. Si nécessaire, des
+calculs de déplacements doivent aussi être exécutés.
+(3)P Pour les argiles molles, des calculs de tassements doivent être faits dans tous les cas.
+(4) Pour les fondations superficielles sur argiles raides et fermes, de catégories
+géotechniques 2 et 3, il convient en général de calculer le déplacement vertical (tassement).
+Des méthodes qui peuvent être utilisées pour calculer les tassements causés par les charges
+appliquées aux fondations sont données dans le 6.6.2.
+(5)P Les valeurs de calcul des charges à l’état limite de service doivent être utilisées pour le
+calcul des déplacements des fondations qui seront comparés aux critères d’aptitude au
+service.
+(6) Il convient de ne pas considérer comme précis les calculs de tassements. Ils donnent
+seulement une indication approchée.
+(7)P Les déplacements de la fondation doivent être considérés à la fois en termes de
+déplacement de l’ensemble de la fondation et en termes de déplacements différentiels des
+parties de la fondation.
+(8)P L’effet des fondations et remblais voisins doit être pris en compte lors du calcul de
+l’augmentation des contraintes dans le terrain et de son influence sur la compressibilité.
+(9)P L’intervalle des variations possibles des rotations relatives de la fondation doit être évalué
+et comparé avec les valeurs limites pertinentes des mouvements indiquées dans la
+section 2.4.9.
+6.6.2 Tassement
+(1)P Les calculs de tassements doivent porter sur les tassements immédiats et sur les
+tassements différés.
+(2) Il convient de considérer les trois composantes suivantes du tassement pour les sols
+partiellement ou totalement saturés :
+— s : tassement immédiat, provoqué, pour les sols saturés, par la déformation de cisaillement
+o
+à volume constant et, pour les sols partiellement saturés, à la fois par des déformations de
+cisaillement et une réduction de volume ;
+— s : tassement provoqué par la consolidation;
+— s : tassement dû au fluage. 2
+(3) Il convient d'utiliser des méthodes de calcul des tassements communément reconnues.
+NOTE Les méthodes données à titre d’exemple dans l’annexe F peuvent être appliquées au calcul des
+tassements s et s . o 1
+
+(4) Il convient d‘accorder une attention spéciale aux sols, comme les sols organiques et les
+argiles molles, dont le tassement peut se prolonger presque indéfiniment à cause du fluage.
+(5) Pour les couches de sols compressibles, la profondeur à considérer dans les calculs de
+tassements dépend de la forme et de la dimension de la fondation, des variations de la rigidité
+du sol avec la profondeur et de l’espacement des éléments de fondations.
+(6) Cette profondeur peut normalement être limitée à la profondeur où la contrainte effective
+verticale due à la charge appliquée à la fondation vaut 20% de la contrainte effective initiale
+due au poids des terres.
+(7) Dans beaucoup de cas, cette profondeur peut aussi être grossièrement estimée à une ou
+deux fois la largeur de la fondation, mais elle peut être réduite pour les radiers de fondation qui
+sont plus larges et faiblement chargés.
+NOTE Cette approche n’est pas applicable aux sols très mous.
+(8)P Tout tassement supplémentaire qui peut être créé par la densification du sol sous son
+propre poids doit être estimé.
+(9) Il convient de prendre en considération les éléments suivants :
+— les effets possibles du poids propre, des inondations et des vibrations sur les remblais et
+les sols affaissables ;
+— les effets des variations de contraintes dans les sables friables.
+(10)P Des modèles linéaires ou non linéaires de déformabilité du terrain doivent être adoptés,
+selon les cas.
+(11)P Afin d’assurer que l’état limite de service ne sera pas atteint, l’estimation des tassements
+différentiels et des rotations relatives doit prendre en compte à la fois la répartition des charges
+et la variabilité éventuelle du terrain.
+(12) Les calculs de tassements différentiels qui ne tiennent pas compte de la rigidité de la
+structure tendent à surestimer ces tassements. On peut effectuer une analyse de l’interaction
+sol-structure pour justifier des valeurs réduites des tassements différentiels.
+(13) Il convient de tenir compte du tassement différentiel provoqué par la variabilité du terrain,
+à moins qu’il ne soit empêché par la rigidité de la structure.
+(14) Pour les fondations superficielles reposant sur le terrain naturel, il convient de tenir
+compte du fait qu’un peu de tassement différentiel se produit normalement, même quand les
+calculs prédisent seulement un tassement uniforme.
+(15) Il convient d’estimer l’inclinaison d’une fondation soumise à une charge excentrée en
+admettant une distribution linéaire des pressions de contact et en calculant le tassement aux
+points d’angle de la fondation, en utilisant la distribution des contraintes verticales dans le
+terrain sous chaque point d’angle et les méthodes de calcul décrites ci-dessus.
+(16) Pour les structures courantes fondées sur des argiles, il convient de calculer le rapport de
+la capacité portante du sol pour sa résistance non drainée initiale à la charge de service (voir
+2.4.8(4)). Si ce rapport est inférieur à 3, il convient de toujours effectuer des calculs de
+tassements. Si ce rapport est inférieur à 2, il convient d’effectuer ces calculs en tenant compte
+des effets de la non linéarité de la rigidité du terrain.
+6.6.3 Soulèvement du sol
+(1)P Les causes de soulèvement suivantes doivent être différenciées :
+
+— la diminution de la contrainte effective ;
+— l’expansion volumique des sols partiellement saturés ;
+— le soulèvement dû au tassement d’une structure adjacente, dans un sol saturé qui se
+déforme à volume constant.
+(2)P Les calculs de soulèvement doivent inclure le soulèvement immédiat et le soulèvement
+différé.
+6.6.4 Analyse des vibrations
+(1) P Les fondations de structures soumises à des vibrations ou portant des charges vibrantes
+doivent être dimensionnées de telle façon que les vibrations ne provoquent pas de tassements
+excessifs.
+(2) Il convient de prendre des précautions pour s’assurer qu’il n’y aura pas de résonance entre
+la fréquence de la charge dynamique et une fréquence critique du système fondation-terrain et
+qu‘il n’y aura pas de liquéfaction dans le terrain.
+(3)P Les vibrations provoquées par les tremblements de terre doivent être prises en compte en
+utilisant la norme EN 1998.
+6.7 Fondations au rocher; considérations complémentaires pour le calcul
+(1)P Le calcul des fondations superficielles au rocher doit tenir compte des éléments suivants :
+— la déformabilité et la résistance du massif rocheux et le tassement admissible de l’ouvrage
+qu’il supporte ;
+— la présence de couches plus faibles, par exemple des structures de dissolution ou des
+zones de failles, au-dessous de la fondation,
+— la présence de joints de stratification ou d’autres discontinuités et leurs caractéristiques
+(par exemple, remplissage, continuité, largeur, espacement) ;
+— l’état d’altération, de décomposition et de fracturation de la roche ;
+— les perturbations de l état naturel de la roche dues à des travaux de construction au
+voisinage de la fondation (par exemple, travaux souterrains, talus d’excavation).
+(2) Les fondations superficielles au rocher peuvent normalement être calculées en utilisant la
+méthode des capacités portantes présumées. Pour les roches très résistantes, comme les
+roches ignées intactes, les roches gneissiques, les calcaires et les grès, la capacité portante
+présumée est limitée par la résistance à la compression de la fondation en béton.
+NOTE La méthode recommandée pour déterminer la capacité portante présumée des fondations
+superficielles au rocher est donnée dans l'annexe G.
+(3) Le tassement de la fondation peut être évalué à partir d’expériences comparables
+concernant la classification des massifs rocheux.
+6.8 Calcul de la structure des fondations superficielles
+(1)P La rupture de la structure d’une fondation superficielle doit être évitée conformément aux
+indications du 2.4.6.4.
+
+(2) La pression de contact sous une fondation rigide peut être supposée linéaire. Une analyse
+plus détaillée de l’interaction sol-structure peut être utilisée pour justifier un dimensionnement
+plus économique.
+(3) La distribution de la pression de contact sous une fondation flexible peut être obtenue en
+modélisant la fondation comme une poutre ou un radier reposant sur un milieu continu ou sur
+une série de ressorts, dotés de rigidités et de résistances appropriées.
+(4)P L’aptitude au service des semelles filantes ou des radiers doit être vérifiée en utilisant le
+chargement de l’état limite de service et une distribution des pressions de contact
+correspondant aux déformations de la fondation et du terrain.
+(5) Dans les situations de calcul où des forces concentrées sont appliquées sur une semelle
+filante ou un radier, les forces et les moments fléchissants dans la structure peuvent être
+déterminés en utilisant un modèle de coefficient de réaction pour le terrain, supposé élastique
+linéaire. Les modules de réaction peuvent être évalués par une analyse de tassements avec
+une estimation appropriée de la distribution des pressions de contact. Les modules peuvent
+être ajustés de telle sorte que les pressions de contact calculées ne dépassent pas les valeurs
+pour lesquelles un comportement linéaire peut être admis.
+(6) Il convient de calculer les tassements total et différentiels de la structure globale
+conformément aux indications du 6.6.2. Les modèles aux modules de réaction sont souvent
+inadaptés pour ces calculs. Il convient d’utiliser des méthodes plus précises, comme des
+calculs par éléments finis, lorsque l’interaction terrain-structure a un effet dominant.
+6.9 Préparation du sol d’assise
+(1)P Le sol d’assise de la fondation doit être préparé avec grand soin. Les racines, obstacles
+et poches de sol mou doivent être enlevés sans perturber le sol. Tous les trous restants seront
+remplis de sol (ou d’un autre matériau) afin de reproduire la rigidité du sol non remanié.
+(2) Dans les sols sensibles au remaniement, comme les argiles, il convient de spécifier la
+séquence des excavations nécessaires pour la fondation superficielle de façon à minimiser
+cette perturbation. Généralement, il est suffisant de réaliser une excavation par tranches
+horizontales. Dans les cas où l’on doit maîtriser le gonflement, il convient de réaliser
+l’excavation en tranchées alternées, le béton étant coulé dans chaque tranchée avant
+l’excavation des tranchées intermédiaires.

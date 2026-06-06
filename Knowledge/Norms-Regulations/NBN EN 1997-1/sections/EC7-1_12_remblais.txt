@@ -1,0 +1,170 @@
+Section 12 Remblais
+12.1 Généralités
+(1)P Les dispositions de cette section s’appliquent aux remblais de petits barrages et
+d’infrastructures.
+(2) Pour la mise en place et la compactage des matériaux de remblai, il convient d’appliquer
+les dispositions de la section 5.
+12.2 États limites
+(1)P Une liste des états limites à vérifier dans le calcul du remblai doit être établie.
+(2) Il convient de vérifier les états limites suivants :
+— instabilité générale du site ;
+— rupture dans la pente ou la crête du remblai ;
+— rupture par érosion interne ;
+— rupture pas érosion de surface ou affouillement ;
+— déformations du remblai le rendant inapte au service, par exemple tassements excessifs ou
+fissures ;
+— tassements ou mouvements de fluage provoquant des dommages ou la mise hors service
+de structures ou réseaux voisins ;
+— déformations excessives dans les zones de transition, par exemple pour le remblai d’accès
+à la culée d’un pont ;
+— mise hors service de zones dédiées à la circulation à cause de phénomènes climatiques
+comme le gel et le dégel ou une extrême sécheresse ;
+— fluage des pentes pendant la période de gel et dégel;
+— dégradation des matériaux des couches support de chaussée à cause des fortes charges
+de circulation ;
+— déformations provoquées par les actions hydrauliques ;
+— modifications des conditions d’environnement comme la pollution des eaux superficielles ou
+souterraines, le bruit ou les vibrations.
+12.3 Actions et situations de calcul
+(1) Lors du choix des actions pour le calcul des états limites, il convient de considérer la liste
+de l' alinéa 2.4.2(4).
+(2) Lorsque l’on établit les actions que le remblai impose aux structures adjacentes ou à une
+partie renforcée du terrain, il est recommandé de tenir compte des différences de rigidité.
+(3)P Les situations de calcul doivent être choisies conformément aux indications de l'article
+2.2.
+
+(4)P De plus, les situations de calcul spéciales suivantes doivent être prises en compte,
+lorsque c’est approprié:
+— les effets du processus de construction, comme la réalisation d’excavations à proximité du
+remblai, les vibrations dues aux tirs d’explosifs, au battage des pieux ou aux équipements
+lourds ;
+— les effets des structures dont la construction est prévue sur ou à côté du remblai ;
+— les effets d’érosion dus au déversement, à la glace, aux vagues et à la pluie sur les talus et
+la crête ;
+— les effets de la température, comme le retrait.
+(5)P Le niveau de calcul de l’eau libre sur le talus aval du remblai et le niveau de calcul de
+l’eau dans le terrain ou leur combinaison doivent être déduits des données hydrologiques
+disponibles pour donner les conditions les plus défavorables qui puissent se produire dans la
+situation de calcul considérée. La possibilité d’une rupture des drains, des filtres et des
+étanchéités doit être considérée.
+(6) Pour les remblais côtiers, il convient de considérer les conditions hydrauliques les plus
+défavorables. Ce sont normalement l’écoulement permanent pour le niveau le plus élevé de la
+nappe et la baisse rapide du niveau de l’eau libre.
+(7)P Lors de l’établissement des valeurs de calcul des pression interstitielles, on doit prendre
+en compte l’intervalle des variations possibles de l’anisotropie et de l’hétérogénéité du sol.
+(8)P Lorsque l’on calcule le remblai par rapport au tassement, la diminution des contraintes
+effectives dans le terrain du fait de l’enfoncement dans l’eau de la croûte sèche ou du remblai
+doit être prise en compte.
+12.4 Considérations relatives au calcul et à la construction
+(1)P Les remblais doivent être calculés en tenant compte de l’expérience acquise sur des
+remblais construits sur des sols semblables et faits d’un matériau de remblai semblable.
+(2)P Lorsque l’on évalue le niveau de fondation d’un remblai, on doit tenir compte des points
+suivant, lorsqu’ils s’appliquent :
+— atteindre une couche portante adéquate ou appliquer des mesures de stabilisation lorsque
+cela n’est pas possible ;
+— fournir une protection suffisante contre les effets négatifs du climat sur la capacité portante
+du terrain ;
+— le niveau de la nappe et le drainage du remblai ;
+— éviter les effets adverses sur les structures et les réseaux adjacents ;
+— atteindre des couches dont la perméabilité est suffisamment faible.
+(3) Il convient que le calcul des remblais assure que :
+— la capacité portante du sol est satisfaisante ;
+— le drainage des différentes couches de remblai est satisfaisant;
+— la perméabilité du matériau de remblai dans les barrages est aussi faible que requis:
+
+— des filtres ou géosynthétiques sont spécifiés quand c’est nécessaire pour satisfaire les
+critères de filtre ;
+— le matériau de remblai est spécifié conformément aux critères du 5.3.2.
+(4)P Pour les remblais sur des terrains de faible résistance et forte compressibilité, le
+processus de construction doit être spécifié de façon à assurer que la capacité portante ne soit
+pas dépassée et que des tassements ou mouvements excessifs ne se produisent pas pendant
+la construction (voir 5.3.3(2)P).
+(5) Lorsqu’un remblai sur sol compressible est édifié par couches, il convient de spécifier
+l’exécution de mesures piézométriques pour assurer que les pressions interstitielles se sont
+dissipées suffisamment avant de placer la couche suivante.
+(6)P Pour les remblais retenant de l’eau à différents niveaux, le niveau de fondation doit être
+choisi en tenant compte de la perméabilité du terrain ou des mesures doivent être prises pour
+rendre la structure imperméable.
+(7) Si l’on spécifie une amélioration du terrain, il convient de calculer le volume de terrain à
+améliorer avec une extension suffisante pour éviter des déformations nuisibles.
+(8) Lorsque l’on détermine le poids du remblai à partir du poids volumique du matériau de
+remblai (voir 3.3.3), il faut veiller à intégrer les particules de remblai de dimensions supérieures
+à 20 mm à 60 mm dans les essais de densité. Ils sont souvent exclus et cela peut avoir un
+effet considérable sur le poids volumique.
+(9)P Les surfaces des talus de remblai exposées à l’érosion doivent être protégées. Si le
+remblai a des banquettes, un système de drainage doit être spécifié pour ces banquettes.
+(10) Il est recommandé de protéger les talus pendant la construction du remblai et de les
+planter ensuite, lorsque c’est approprié.
+(11) Pour les remblais supportant du trafic, il convient d’éviter la formation de verglas sur la
+chaussée. La capacité thermique de la chaussée sur une couche isolante ou un remblai léger
+peut être assez forte pour l’éviter.
+(12) Il convient de limiter à un niveau approprié la pénétration du gel à la crête d’un barrage en
+terre.
+(13) Il convient, lors du calcul des talus de remblai, de tenir compte des mouvements de fluage
+qui peuvent se produire dans les talus pendant les périodes de gel et dégel, indépendamment
+de la stabilité des talus en conditions sèches. Ceci est particulièrement important dans les
+zones de transition, par exemple au niveau des culées de ponts.
+12.5 Calcul aux états limites ultimes
+(1)P Lorsque l’on analyse la stabilité d’une partie ou de la totalité d’un remblai, on doit tenir
+compte de tous les modes de rupture possibles, comme indiqué dans la section 11.
+(2) Comme les remblais sont souvent construits en plusieurs phases avec des conditions de
+chargement différentes, il convient de faire l’analyse et de donner les dispositions
+correspondantes dans le rapport de calcul géotechnique.
+(3)P Si l’on utilise des matériaux de remblai légers, comme le polystyrène expansé, l’argile
+expansée ou le béton cellulaire, la possibilité d’un soulèvement par poussée d’Archimède doit
+être considérée (voir section 10).
+(4)P Tout calcul de remblai contenant des matériaux différents doit adopter des valeurs de
+résistance déterminées pour des valeurs compatibles des déformations des matériaux.
+
+(5) Lorsqu’une route ou un cours d’eau traverse un remblai, il convient d’accorder une
+attention particulière à l’interaction des différents éléments de structure.
+(6) Lorsque l’on analyse la stabilité d’un terrain amélioré, il convient de considérer les effets du
+processus d’amélioration, par exemple le remaniement des argiles molles sensibles. Comme
+l’effet de l’amélioration dépend du temps, il ne devrait pas être pris en compte avant qu’un état
+stabilisé n’ait été atteint.
+(7)P Pour éviter les états limites ultimes provoqués par l’érosion superficielle, l’érosion interne
+ou la pression hydraulique, les dispositions des sections 10 et 11 doivent être remplies.
+12.6 Calcul aux états limites de service
+(1)P Le calcul doit montrer que la déformation du remblai ne provoquera pas d’états limites de
+service dans les remblais ou dans les structures, routes ou réseaux situés sur, dans ou près
+du remblai.
+(2) Il convient de calculer le tassement d’un remblai sur sol compressible en suivant les
+principes du 6.6.1. Il convient d’accorder une attention spéciale à l’évolution au cours du temps
+des tassements, sous l’effet de la consolidation et des tassements secondaires.
+(3) Il convient de prendre en compte la possibilité de déformations dues aux changements des
+conditions de nappe.
+(4) Dans les cas où les déformations sont difficiles à prévoir il convient de considérer les
+méthodes de préchargement ou d’essai en vraie grandeur, notamment dans les cas où l’on
+doit éviter des états limites de service.
+12.7 Surveillance
+(1)P La surveillance des remblais doit suivre les dispositions de la section 4.
+(2) Il convient de prévoir une surveillance des remblais dans les situations suivantes :
+— lorsque l’on utilise la méthode observationnelle (voir 2.7) ;
+— lorsque la stabilité d’un remblai servant de barrage dépend largement de la distribution des
+pressions interstitielles dans et sous le remblai ;
+— lorsque des enregistrements des effets polluants du remblai ou de la circulation sont
+requis ;
+— lorsque le contrôle des effets négatifs du remblai sur des structures ou des réseaux est
+requis ;
+— lorsque l’érosion superficielle présente un risque considérable.
+(3)P Dans les cas où un programme de surveillance est requis, le concepteur doit le présenter
+dans le rapport de calcul géotechnique (voir 2.8). Il doit être spécifié que les observations
+faites doivent être évaluées et suivies d’actions si nécessaire.
+(4) Il convient qu’un programme de surveillance d’un remblai comprenne les enregistrements
+suivants :
+— des mesures de pressions interstitielles dans et sous le remblai ;
+— des mesures de tassements sous la totalité ou une partie du remblai et des structures
+soumises à son influence ;
+
+— des mesures de déplacements horizontaux ;
+— des vérifications des paramètres de résistance du matériau de remblai pendant la
+construction ;
+— des analyses chimiques avant, pendant et après la construction, si un contrôle de pollution
+est requis ;
+— des observations sur la protection contre l’érosion ;
+— des contrôles de perméabilité du matériau de remblai et du sol de fondation pendant la
+construction ;
+— la profondeur de pénétration du gel à la crête du remblai.
+(5) Il convient de suivre et contrôler la construction des remblais sur sol mou et de faible
+perméabilité au moyen de mesures de pressions interstitielles dans les couches molles et de
+mesures de tassement du remblai.

@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "4"
 chapter: "4"
 tags: [EC1-1-4, vitesse-vent, pression-dynamique, rugosité, orographie, turbulence]
-language: fr
-jupyter_ref: "EC1-1-4/4"
 created: 2026-06-05
 ---
 
@@ -117,4 +115,4 @@ NOTE 3 Le facteur 7 dans (4.8) est fondé sur un facteur de pointe de **3,5**, c
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_3_modelisation]] · [[EC1-1-4_5_actions-vent]] · [[EC1-1-4_A_effets-terrain]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_3_modelisation]] · [[EC1-1-4_5_actions-vent]] · [[_Knowledge — Index]] · [[CLAUDE]]

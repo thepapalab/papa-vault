@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "7b"
 chapter: "7"
 tags: [EC1-1-4, toitures-isolees, acroteres, clotures, panneaux]
-language: fr
-jupyter_ref: "EC1-1-4/7b"
 created: 2026-06-05
 ---
 
@@ -88,4 +86,4 @@ Pour les panneaux avec une excentricité de la force latérale : l'excentricité
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_7a_generalites-batiments]] · [[EC1-1-4_7c_elements-structuraux]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_7a_generalites-batiments]] · [[EC1-1-4_7c_elements-structuraux]] · [[_Knowledge — Index]] · [[CLAUDE]]

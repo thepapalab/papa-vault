@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "7a"
 chapter: "7"
 tags: [EC1-1-4, coefficients-pression, batiments, toitures, murs-verticaux]
-language: fr
-jupyter_ref: "EC1-1-4/7a"
 created: 2026-06-05
 ---
 
@@ -142,4 +140,4 @@ NOTE 1, 2 NDP.
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_5_actions-vent]] · [[EC1-1-4_6_coefficient-cscd]] · [[EC1-1-4_7b_toitures-isolees-murs]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_6_coefficient-cscd]] · [[EC1-1-4_7b_toitures-isolees-murs]] · [[_Knowledge — Index]] · [[CLAUDE]]

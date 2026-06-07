@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "A"
 chapter: "A"
 tags: [EC1-1-4, terrain, orographie, rugosité, hauteur-deplacement, changement-rugosite]
-language: fr
-jupyter_ref: "EC1-1-4/A"
 created: 2026-06-05
 ---
 
@@ -58,4 +56,4 @@ Cette hauteur `h_dis` est soustraite de la hauteur `z` dans les expressions de `
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_4_vitesse-pression]] · [[EC1-1-4_B_procedure1-cscd]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_8_actions-ponts]] · [[EC1-1-4_B_procedure1-cscd]] · [[_Knowledge — Index]] · [[CLAUDE]]

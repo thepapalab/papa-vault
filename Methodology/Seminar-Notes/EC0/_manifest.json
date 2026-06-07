@@ -1,0 +1,29 @@
+﻿{
+    "output_dir":  "C:\\Users\\n_pap\\Documents\\PapaLab\\Papa_Vault\\Methodology\\Seminar-Notes\\EC0",
+    "pdfs":  [
+                 {
+                     "md5":  "ffe2e19b",
+                     "scaffold":  "_scaffold/en-1990-vaseis-schediasmoy-ton-feroyson-kataskey.txt",
+                     "output_md":  "en-1990-vaseis-schediasmoy-ton-feroyson-kataskey.md",
+                     "duplicate_of":  null,
+                     "assets_dir":  "_assets/en-1990-vaseis-schediasmoy-ton-feroyson-kataskey",
+                     "status":  "done",
+                     "pages":  51,
+                     "stem":  "en-1990-vaseis-schediasmoy-ton-feroyson-kataskey",
+                     "file":  "ΕΝ 1990 Βάσεις σχεδιασμού των φερουσών κατασκευών.pdf"
+                 },
+                 {
+                     "md5":  "c93d1611",
+                     "scaffold":  "_scaffold/en-1990-vaseis-schediasmoy-en-1991-draseis-stis-.txt",
+                     "output_md":  "en-1990-vaseis-schediasmoy-en-1991-draseis-stis-.md",
+                     "duplicate_of":  null,
+                     "assets_dir":  "_assets/en-1990-vaseis-schediasmoy-en-1991-draseis-stis-",
+                     "status":  "done (EC0 p1-60 transcribed; EC1 p62-181 deferred to EC1 folder)",
+                     "pages":  181,
+                     "stem":  "en-1990-vaseis-schediasmoy-en-1991-draseis-stis-",
+                     "file":  "ΕΝ 1990 Βάσεις σχεδιασμού, ΕΝ 1991 Δράσεις στις φέρουσες κατασκευές.pdf"
+                 }
+             ],
+    "folder":  "EC1 - Βάσεις σχεδιασμού και Γενικές δράσεις",
+    "note":  "EC0 PDFs extracted from EC1 source folder; remaining EC1 PDFs stay under Seminar-Notes/EC1"
+}

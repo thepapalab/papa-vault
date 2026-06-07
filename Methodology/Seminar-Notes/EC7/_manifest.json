@@ -1,0 +1,61 @@
+{
+  "folder": "EC7 - Γεωτεχνικός Σχεδιασμός",
+  "output_dir": "C:\\Users\\n_pap\\Documents\\PapaLab\\Papa_Vault\\Methodology\\Seminar-Notes\\EC7",
+  "pdfs": [
+    {
+      "file": "Ευρωκώδικας 7, μέρος 1ο Γεωτεχνικός σχεδιασμός δομή, αρχές και επιπτώσεις.pdf",
+      "md5": "bd771e1b5df67dd9d54bcb2baba8b8e2",
+      "pages": 62,
+      "stem": "eyrokodikas-7-meros-1o-geotechnikos-schediasmos-",
+      "duplicate_of": null,
+      "assets_dir": "_assets/eyrokodikas-7-meros-1o-geotechnikos-schediasmos-",
+      "scaffold": "_scaffold/eyrokodikas-7-meros-1o-geotechnikos-schediasmos-.txt",
+      "output_md": "eyrokodikas-7-meros-1o-geotechnikos-schediasmos-.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "Εφαρμογές του Ευρωκώδικα 7 (ΕΝ 1997) σε θέματα σχεδιασμού γεωτεχνικών έργων 2.pdf",
+      "md5": "dcdf8037b0a32a68d49b3aae0fbb3c47",
+      "pages": 104,
+      "stem": "efarmoges-toy-eyrokodika-7-en-1997-se-themata-sc",
+      "duplicate_of": null,
+      "assets_dir": "_assets/efarmoges-toy-eyrokodika-7-en-1997-se-themata-sc",
+      "scaffold": "_scaffold/efarmoges-toy-eyrokodika-7-en-1997-se-themata-sc.txt",
+      "output_md": "efarmoges-toy-eyrokodika-7-en-1997-se-themata-sc.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "Εφαρμογές του Ευρωκώδικα 7 (ΕΝ 1997) σε θέματα σχεδιασμού γεωτεχνικών έργων.pdf",
+      "md5": "76953d8c2b474995530ef5fbc644f30f",
+      "pages": 62,
+      "stem": "efarmoges-toy-eyrokodika-7-en-1997-se-themata-sc",
+      "duplicate_of": null,
+      "assets_dir": "_assets/efarmoges-toy-eyrokodika-7-en-1997-se-themata-sc",
+      "scaffold": "_scaffold/efarmoges-toy-eyrokodika-7-en-1997-se-themata-sc.txt",
+      "output_md": "efarmoges-toy-eyrokodika-7-en-1997-se-themata-sc.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "Σημειώσεις για τον Ευρωκώδικα 7 (ΕΝ 1997).pdf",
+      "md5": "e37b0607470221434faddb4b79ed5268",
+      "pages": 164,
+      "stem": "simeioseis-gia-ton-eyrokodika-7-en-1997-notes",
+      "duplicate_of": null,
+      "assets_dir": "_assets/simeioseis-gia-ton-eyrokodika-7-en-1997-notes",
+      "scaffold": "_scaffold/simeioseis-gia-ton-eyrokodika-7-en-1997-notes.txt",
+      "output_md": "simeioseis-gia-ton-eyrokodika-7-en-1997-notes.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "Σχεδιασμός θεμελιώσεων με πασσάλους με βάση τον Ευρωκώδικα 7.1.pdf",
+      "md5": "8e356a76a1fad4db7f6341cc92c61b3e",
+      "pages": 45,
+      "stem": "schediasmos-themelioseon-me-passaloys-me-vasi-to",
+      "duplicate_of": null,
+      "assets_dir": "_assets/schediasmos-themelioseon-me-passaloys-me-vasi-to",
+      "scaffold": "_scaffold/schediasmos-themelioseon-me-passaloys-me-vasi-to.txt",
+      "output_md": "schediasmos-themelioseon-me-passaloys-me-vasi-to.md",
+      "status": "assets_ready"
+    }
+  ]
+}

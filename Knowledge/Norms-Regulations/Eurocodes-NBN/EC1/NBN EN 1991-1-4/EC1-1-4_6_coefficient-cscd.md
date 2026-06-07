@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "6"
 chapter: "6"
 tags: [EC1-1-4, coefficient-structural, cscd, reponse-dynamique, aptitude-service]
-language: fr
-jupyter_ref: "EC1-1-4/6"
 created: 2026-06-05
 ---
 
@@ -76,4 +74,4 @@ NOTE 3 NDP — La procédure pour `k_p`, `B` et `R` est donnée dans l'ANB. Proc
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_5_actions-vent]] · [[EC1-1-4_7a_generalites-batiments]] · [[EC1-1-4_8_actions-ponts]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_5_actions-vent]] · [[EC1-1-4_7a_generalites-batiments]] · [[_Knowledge — Index]] · [[CLAUDE]]

@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "1"
 chapter: "1"
 tags: [EC1-1-4, domaine-application, references, definitions, symboles, vent]
-language: fr
-jupyter_ref: "EC1-1-4/1"
 created: 2026-06-05
 ---
 
@@ -107,4 +105,4 @@ NOTE NDP — L'Annexe Nationale peut donner des indications sur l'utilisation de
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_2_situations-projet]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_00_avant-propos]] · [[EC1-1-4_2_situations-projet]] · [[_Knowledge — Index]] · [[CLAUDE]]

@@ -23,26 +23,26 @@ Actions du vent naturel sur les bâtiments, ouvrages de génie civil et ponts. S
 
 | Fichier | Section | Titre |
 |---------|---------|-------|
-| [[EC1-1-4_00_avant-propos]] | 00 | Avant-propos |
-| [[EC1-1-4_1_generalites]] | 1 | Généralités |
-| [[EC1-1-4_2_situations-projet]] | 2 | Situations de projet |
-| [[EC1-1-4_3_modelisation]] | 3 | Modélisation des actions du vent |
-| [[EC1-1-4_4_vitesse-pression]] | 4 | Vitesse du vent et pression dynamique |
-| [[EC1-1-4_5_actions-vent]] | 5 | Actions du vent |
-| [[EC1-1-4_6_coefficient-cscd]] | 6 | Coefficient structural c_s·c_d |
-| [[EC1-1-4_7a_generalites-batiments]] | 7a | Coefficients de pression — Généralités et bâtiments |
-| [[EC1-1-4_7b_toitures-isolees-murs]] | 7b | Coefficients de pression — Toitures isolées et murs |
-| [[EC1-1-4_7c_elements-structuraux]] | 7c | Coefficients de pression — Éléments structuraux |
-| [[EC1-1-4_8_actions-ponts]] | **8** | **Actions du vent sur les ponts** ← principal pour railway |
-| [[EC1-1-4_A_effets-terrain]] | A | Annexe A — Effets du terrain (informative) |
-| [[EC1-1-4_B_procedure1-cscd]] | B | Annexe B — Procédure 1 c_s·c_d (informative) |
-| [[EC1-1-4_C_procedure2-cscd]] | C | Annexe C — Procédure 2 c_s·c_d (informative) |
-| [[EC1-1-4_D_valeurs-cscd]] | D | Annexe D — Valeurs c_s·c_d (informative) |
-| [[EC1-1-4_Ea_detachement-tourbillonnaire]] | Ea | Annexe E.1 — Détachement tourbillonnaire (informative) |
-| [[EC1-1-4_Eb_galop-divergence-flottement]] | Eb | Annexe E.2–E.4 — Galop, Divergence, Flottement (informative) |
-| [[EC1-1-4_F_dynamique]] | F | Annexe F — Caractéristiques dynamiques (informative) |
-| [[EC1-1-4_Bibliographie]] | — | Bibliographie |
-| [[EC1-1-4_AC-2010]] | AC | Amendement AC:2010 |
+| [[EC1-1-4_00_avant-propos]] | 00 | Avant propos |
+| [[EC1-1-4_1_generalites]] | 1 | Generalites |
+| [[EC1-1-4_2_situations-projet]] | 2 | Situations projet |
+| [[EC1-1-4_3_modelisation]] | 3 | Modelisation |
+| [[EC1-1-4_4_vitesse-pression]] | 4 | Vitesse pression |
+| [[EC1-1-4_5_actions-vent]] | 5 | Actions vent |
+| [[EC1-1-4_6_coefficient-cscd]] | 6 | Coefficient cscd |
+| [[EC1-1-4_7a_generalites-batiments]] | 7a | Generalites batiments |
+| [[EC1-1-4_7b_toitures-isolees-murs]] | 7b | Toitures isolees murs |
+| [[EC1-1-4_7c_elements-structuraux]] | 7c | Elements structuraux |
+| [[EC1-1-4_8_actions-ponts]] | 8 | Actions ponts |
+| [[EC1-1-4_A_effets-terrain]] | A | Effets terrain |
+| [[EC1-1-4_B_procedure1-cscd]] | B | Procedure1 cscd |
+| [[EC1-1-4_C_procedure2-cscd]] | C | Procedure2 cscd |
+| [[EC1-1-4_D_valeurs-cscd]] | D | Valeurs cscd |
+| [[EC1-1-4_Ea_detachement-tourbillonnaire]] | Ea | Detachement tourbillonnaire |
+| [[EC1-1-4_Eb_galop-divergence-flottement]] | Eb | Galop divergence flottement |
+| [[EC1-1-4_F_dynamique]] | F | Dynamique |
+| [[EC1-1-4_Bibliographie]] |  | Bibliographie |
+| [[EC1-1-4_AC-2010]] |  | Ac 2010 |
 
 ## Paramètres clés (EN — valeurs recommandées)
 

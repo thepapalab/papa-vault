@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "00"
 chapter: "00"
 tags: [EC1-1-4, avant-propos, eurocode-1, vent, historique-eurocodes]
-language: fr
-jupyter_ref: "EC1-1-4/00"
 created: 2026-06-05
 ---
 
@@ -42,4 +40,4 @@ Les articles suivants comportent des choix nationaux autorisés (valeurs fixées
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[_Norms-Regulations — README]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_1_generalites]] · [[_Knowledge — Index]] · [[CLAUDE]]

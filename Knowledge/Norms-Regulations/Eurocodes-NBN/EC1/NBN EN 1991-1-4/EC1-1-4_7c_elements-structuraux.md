@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "7c"
 chapter: "7"
 tags: [EC1-1-4, elements-structuraux, cylindres, treillis, drapeaux, elancement]
-language: fr
-jupyter_ref: "EC1-1-4/7c"
 created: 2026-06-05
 ---
 
@@ -138,4 +136,4 @@ NOTE 1, 2 NDP — Les valeurs de ψ_λ peuvent être définies dans l'ANB.
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_7b_toitures-isolees-murs]] · [[EC1-1-4_8_actions-ponts]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_7b_toitures-isolees-murs]] · [[EC1-1-4_8_actions-ponts]] · [[_Knowledge — Index]] · [[CLAUDE]]

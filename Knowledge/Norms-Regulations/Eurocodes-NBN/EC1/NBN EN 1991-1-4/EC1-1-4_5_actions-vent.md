@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "5"
 chapter: "5"
 tags: [EC1-1-4, pression-aerodynamique, forces-vent, surfaces]
-language: fr
-jupyter_ref: "EC1-1-4/5"
 created: 2026-06-05
 ---
 
@@ -75,4 +73,4 @@ NOTE 2 NDP — La prise en compte du manque de corrélation au-delà des murs ve
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_4_vitesse-pression]] · [[EC1-1-4_6_coefficient-cscd]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_4_vitesse-pression]] · [[EC1-1-4_6_coefficient-cscd]] · [[_Knowledge — Index]] · [[CLAUDE]]

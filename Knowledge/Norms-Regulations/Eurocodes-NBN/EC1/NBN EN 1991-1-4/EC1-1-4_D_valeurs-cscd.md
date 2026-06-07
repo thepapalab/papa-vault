@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "D"
 chapter: "D"
 tags: [EC1-1-4, cscd, types-structures, valeurs, abaques]
-language: fr
-jupyter_ref: "EC1-1-4/D"
 created: 2026-06-05
 ---
 
@@ -44,4 +42,4 @@ Cette annexe est utile pour les structures plus élancées ou de géométrie par
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_C_procedure2-cscd]] · [[EC1-1-4_6_coefficient-cscd]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_C_procedure2-cscd]] · [[EC1-1-4_Ea_detachement-tourbillonnaire]] · [[_Knowledge — Index]] · [[CLAUDE]]

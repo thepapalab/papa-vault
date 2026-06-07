@@ -1,0 +1,83 @@
+{
+  "folder": "EC2 - Κατασκευές από Οπλισμένο Σκυρόδεμα",
+  "output_dir": "C:\\Users\\n_pap\\Documents\\PapaLab\\Papa_Vault\\Methodology\\EC2-Concrete\\Seminar-Notes-Penelis",
+  "pdfs": [
+    {
+      "file": "Μέρος 1-1 Γενικοί κανόνες και κανόνες για κτίρια (κεφ. 1-5).pdf",
+      "md5": "206b5cc8ce6f69e3f9e7cb0dfd92e76c",
+      "pages": 31,
+      "stem": "ch1-5",
+      "duplicate_of": null,
+      "assets_dir": "_assets/ch1-5",
+      "scaffold": "_scaffold/ch1-5.txt",
+      "output_md": "ch1-5.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "Μέρος 1-1 Γενικοί κανόνες και κανόνες για κτίρια (κεφ. 1-5, σημειώσεις).pdf",
+      "md5": "94fd16f0f20df6785aa99aa556176d7b",
+      "pages": 75,
+      "stem": "ch1-5-notes",
+      "duplicate_of": null,
+      "assets_dir": "_assets/ch1-5-notes",
+      "scaffold": "_scaffold/ch1-5-notes.txt",
+      "output_md": "ch1-5-notes.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "Μέρος 1-1 Γενικοί κανόνες και κανόνες για κτίρια (κεφ. 6).pdf",
+      "md5": "ffb18bcf9e0291d33839512c9b8fa5d1",
+      "pages": 29,
+      "stem": "ch6",
+      "duplicate_of": null,
+      "assets_dir": "_assets/ch6",
+      "scaffold": "_scaffold/ch6.txt",
+      "output_md": "ch6.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "Μέρος 1-1 Γενικοί κανόνες και κανόνες για κτίρια (κεφ. 7).pdf",
+      "md5": "0ed80ffad5f7286fdc00db489a3e4a95",
+      "pages": 15,
+      "stem": "ch7",
+      "duplicate_of": null,
+      "assets_dir": "_assets/ch7",
+      "scaffold": "_scaffold/ch7.txt",
+      "output_md": "ch7.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "Μέρος 1-1 Γενικοί κανόνες και κανόνες για κτίρια (κεφ. 7, σημειώσεις).pdf",
+      "md5": "d636abd0489c3935743a4c18e71b0dff",
+      "pages": 55,
+      "stem": "ch7-notes",
+      "duplicate_of": null,
+      "assets_dir": "_assets/ch7-notes",
+      "scaffold": "_scaffold/ch7-notes.txt",
+      "output_md": "ch7-notes.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "Μέρος 1-1 Γενικοί κανόνες και κανόνες για κτίρια (κεφ. 8-9).pdf",
+      "md5": "d636abd0489c3935743a4c18e71b0dff",
+      "pages": 55,
+      "stem": "ch8-9",
+      "duplicate_of": "ch7-notes",
+      "assets_dir": "_assets/ch8-9",
+      "scaffold": "_scaffold/ch8-9.txt",
+      "output_md": "ch8-9.md",
+      "status": "duplicate"
+    },
+    {
+      "file": "Μέρος 2 Γέφυρες από σκυρόδεμα – Σχεδιασμός και κατασκευαστικές.pdf",
+      "md5": "d76a904338cfeb32147cf08b88a6a862",
+      "pages": 2,
+      "stem": "part2-bridges",
+      "duplicate_of": null,
+      "assets_dir": "_assets/part2-bridges",
+      "scaffold": "_scaffold/part2-bridges.txt",
+      "output_md": "part2-bridges.md",
+      "status": "assets_ready"
+    }
+  ]
+}

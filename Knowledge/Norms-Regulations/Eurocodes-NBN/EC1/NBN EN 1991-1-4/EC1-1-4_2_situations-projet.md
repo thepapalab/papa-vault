@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "2"
 chapter: "2"
 tags: [EC1-1-4, situations-projet, durabilite, executions, vent]
-language: fr
-jupyter_ref: "EC1-1-4/2"
 created: 2026-06-05
 ---
 
@@ -26,4 +24,4 @@ NOTE Le nombre de cycles de chargement peut être obtenu à partir des Annexes B
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_1_generalites]] · [[EC1-1-4_3_modelisation]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_1_generalites]] · [[EC1-1-4_3_modelisation]] · [[_Knowledge — Index]] · [[CLAUDE]]

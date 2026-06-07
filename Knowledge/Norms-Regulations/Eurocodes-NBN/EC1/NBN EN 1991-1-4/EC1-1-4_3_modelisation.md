@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "3"
 chapter: "3"
 tags: [EC1-1-4, modelisation, classification, valeurs-caracteristiques]
-language: fr
-jupyter_ref: "EC1-1-4/3"
 created: 2026-06-05
 ---
 
@@ -42,4 +40,4 @@ NOTE L'Annexe E donne des recommandations simplifiées concernant la réponse a�
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_2_situations-projet]] · [[EC1-1-4_4_vitesse-pression]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_2_situations-projet]] · [[EC1-1-4_4_vitesse-pression]] · [[_Knowledge — Index]] · [[CLAUDE]]

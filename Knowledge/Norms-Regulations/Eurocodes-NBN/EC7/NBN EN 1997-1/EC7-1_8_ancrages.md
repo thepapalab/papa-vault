@@ -1,0 +1,241 @@
+---
+title: "NBN EN 1997-1:2005 — Ancrages"
+type: norm-extract
+source: "NBN EN 1997-1:2005"
+norm: EC7-1
+section: "8"
+chapter: "Ancrages"
+tags: [EC7-1, eurocode-7, geotechnique, Ancrages]
+related: ["[[EC7-1_index]]", "[[EC7-1_7b_fondations-pieux-calcul]]", "[[EC7-1_9_soutenement]]", "[[_Knowledge — Index]]"]
+created: 2026-06-06
+---
+
+# NBN EN 1997-1:2005 — Ancrages
+
+Section 8 Ancrages
+8.1 Généralités
+8.1.1 Domaine d’application
+(1)P Cette section s’applique au calcul des ancrages temporaires ou permanents utilisés pour :
+— pour retenir un ouvrage de soutènement ;
+— pour assurer la stabilité de pentes, déblais ou tunnels;
+— pour résister aux forces de soulèvement des structures,
+en transmettant une force de traction à une couche de sol ou de roche résistante.
+(2)P Cette section s’applique aux types d’ancrages suivants :
+— les ancrages pré-contraints constitués d’une tête d’ancrage, d'une longueur libre de tirant et
+d'une longueur d'ancrage fixe, scellée par injection ;
+— les ancrages non précontraints, constitués d’une tête d'ancrage, d'une longueur libre
+d'ancrage et d'un dispositif d’encastrement, tel qu’une longueur d’ancrage fixe scellée par
+injection, un corps mort, une ancre vissée ou un boulon pour rocher.
+(3) Cette section ne s’applique pas au clouage des sols.
+(4)P Le calcul des ancrages comprenant des pieux en traction doit être effectué en appliquant
+les règles de la section 7.
+8.1.2 Définitions
+8.1.2.1
+ancrage permanent
+ancrage dont la durée de vie de calcul est supérieure à deux ans
+NOTE définition prise dans la norme EN 1537:1999
+8.1.2.2
+ancrage temporaire
+ancrage dont la durée de vie de calcul est inférieure à deux ans
+NOTE définition prise dans la norme EN 1537:1999
+8.1.2.3
+essai de réception
+essai de mise en tension in situ pour confirmer que chacun des ancrages peut supporter la
+charge calculée dans le projet.
+8.1.2.4
+essai de contrôle
+essai de mise en tension in situ pour vérifier qu’un système d'ancrage particulier est adapté
+aux conditions particulières des terrains
+NOTE définition prise dans la norme EN 1537:1999
+
+8.1.2.5
+essai préalable
+essai de mise en tension effectué pour établir la résistance ultime d’un ancrage à l’interface
+coulis/terrain et pour déterminer ses caractéristiques de traction de service sur le terrain
+NOTE définition prise dans la norme EN 1537:1999
+8.1.2.6
+longueur de scellement d’un ancrage
+longueur sur laquelle l’ancrage est scellé au terrain par un coulis de scellement
+8.2.1.7
+longueur libre de l’armature
+longueur de l’armature entre la tête d’ancrage et l’extrémité la plus proche de la partie scellée
+NOTE définition prise dans la norme EN 1537:1999
+8.1.2.8
+longueur de scellement de l’armature
+longueur d’armature directement scellée au coulis et apte à transmettre les forces de traction
+appliquées
+NOTE définition prise dans la norme EN 1537:1999
+8.2 États limites
+(1)P Les états limites suivants doivent être pris en compte pour les ancrages, à la fois
+individuellement et en combinaison :
+— la rupture de la structure de l’armature ou de la tête d’ancrage, sous l’effet des contraintes
+appliquées ;
+— la distorsion ou la corrosion de la tête d’ancrage ;
+— pour les ancrages scellés, la rupture à l’interface entre le volume de coulis et le terrain ;
+— pour les ancrages scellés, la rupture de la liaison entre l’acier de l’armature et le coulis de
+scellement ;
+— pour les ancrages par corps morts, la rupture par insuffisance de la résistance du corps
+mort ;
+— la perte de la force d’ancrage en cas de déplacements excessifs de la tête d’ancrage ou de
+fluage et relaxation.
+— la rupture ou une déformation excessive de parties de la structure sous l’effet de la force
+d’ancrage appliquée ;
+— la perte d’équilibre global du terrain retenu et de l’ouvrage de soutènement ;
+— interaction de groupes d’ancrages avec le terrain et les structures voisines.
+8.3 Situations et actions de calcul
+(1)P Lorsque l’on sélectionne les situations de calcul, on doit prendre en considération les
+éléments suivants :
+— toutes les circonstances qui se produisent pendant la construction de la structure.
+
+— toutes les circonstances anticipées pendant la durée de vie de calcul de la structure ;
+— tous les états limites pertinents de la liste établie à l'article 8.2 et leurs combinaisons ;
+— le niveau anticipé des eaux interstitielles et des pressions d’eau dans les aquifères
+confinés ;
+— les conséquences de la rupture d’un ancrage ;
+— la possibilité que les forces appliquées à l’ancrage pendant l’application de la précontrainte
+(charge d’ancrage) soient supérieures aux forces nécessaires au calcul de la structure.
+(2)P La force d’ancrage P doit être traitée comme une action défavorable pour le calcul de
+l’ancrage.
+8.4 Considérations sur le calcul et la construction
+(1)P Le calcul des ancrages et les spécifications pour leur exécution doivent prendre en
+compte les effets défavorables des contraintes de traction transmises au terrain au delà de
+cette limite.
+(2)P La zone du terrain dans laquelle les forces de traction doivent être transférées doit être
+incluse dans les reconnaissances.
+(3)P Pour les ancrages précontraints, la tête d’ancrage doit permettre à l’armature ou à la
+barre d’être mise en tension, soumise à la traction d’épreuve et bloquée et, si le projet le
+demande, relâchée, détendue puis remise en tension.
+(4)P Pour tous les types d’ancrages, la tête d’ancrage doit être calculée pour tolérer des
+déviations angulaires de la force d’ancrage, en tenant compte du article 6.3 de la norme
+EN 1537:1999 et pouvoir supporter les déformations qui peuvent se produire pendant la durée
+de vie de la structure.
+(5)P Lorsque différents matériaux sont combinés dans un ancrage, leur résistance de calcul
+doit être évaluée en tenant compte de la compatibilité de leur comportement en déformations.
+(6)P Comme l’effet des systèmes d’ancrage dépend de la longueur libre des armatures, les
+exigences suivantes doivent être remplies :
+— la force d’ancrage doit agir dans le terrain à une distance suffisamment grande du volume
+retenu pour que la stabilité de ce volume ne soit pas affectée ;
+— la force d’ancrage doit agir dans le terrain à une distance suffisamment grande des
+fondations existantes pour ne pas avoir d’effets défavorables sur elles ;
+— des mesures doivent être prises pour éviter des interactions défavorables entre les
+longueurs de scellement des armatures des ancrages qui passent près les uns des autres.
+(7) Il convient d’éviter les interactions défavorables entre les longueurs de scellement des
+armatures des ancrages en gardant, lorsque c’est possible, un intervalle d’au moins 1,5m
+entre elles.
+(8)P On ne doit utiliser que les systèmes d’ancrages qui ont fait l’objet d’essais préalables (voir
+la norme 1537:1999) ou pour lesquels des expériences comparables favorables en termes de
+comportement et de durabilité ont été rapportées.
+(9)P La direction de l’armature doit normalement être telle qu’elle subisse une auto-contrainte
+sous les déformations dues aux mécanismes potentiels de rupture. Lorsque cela n’est pas
+possible, les effets défavorables seront pris en compte dans le calcul.
+
+(10)P Pour les ancrages scellés et les ancrages vissés, la valeur caractéristique de la
+résistance à l’arrachement , R , doit être déterminée sur la base d’essais de contrôle,
+a;k
+conformément à l'article 8.7 ou sur la base d’expériences comparables. La valeur de calcul de
+la résistance doit être vérifiée par des essais de réception après l’exécution des travaux.
+(11)P Le comportement de la longueur libre de l’armature des ancrages précontraints dans les
+terrains doit être vérifié conformément aux indications de la norme EN 1537:1999.
+(12)P Une force de blocage suffisante doit être utilisée pour assurer que la résistance de
+l’ancrage aux états limites de service sera mobilisée avec des déplacements tolérables de la
+tête.
+(13)P La protection contre la corrosion des ancrages précontraints doit vérifier les indications
+du article 6.9 de la norme EN 1537:1999.
+(14)P La protection contre la corrosion des ancrages ayant une armature en acier doit être
+calculée en tenant compte de l’agressivité de l’environnement du terrain.
+(15) Il convient de spécifier des moyens adaptés, comme l’utilisation d’une barrière de
+protection ou d’une épaisseur d’acier sacrifiée, pour protéger si nécessaire les armatures
+d’acier contre la corrosion.
+8.5 Calcul à l’état limite ultime
+8.5.1 Calcul de l’ancrage
+(1)P La valeur de calcul, R , de la résistance à l’arrachement, R , d’un ancrage doit vérifier la
+a;d a
+condition limite suivante :
+P ≤ R (8.1)
+d a;d
+(2) Les valeurs de calcul de la résistance à l’arrachement peuvent être déterminées à partir
+des résultats des essais effectués sur les ancrages ou par le calcul.
+8.5.2 Valeurs de calcul de la résistance à l’arrachement déduites des résultats
+d’essais
+(1)P La valeur de calcul de la résistance à l’arrachement doit être déduite de la valeur
+caractéristique en utilisant l’équation :
+R = R /γ (8.2)
+a;d a;k a
+NOTE Le facteur partiel γ tient compte des déviations défavorables de la force d’ancrage transmise au
+a
+terrain.
+(2)P Les facteurs partiels γ définis dans la clause A.3.3.4(1)P doivent être utilisés dans
+a
+l’équation (8.2).
+NOTE La valeur du facteur partiel peut être fixée dans l’annexe nationale. Les valeurs recommandées
+pour les situations persistante ou transitoires sont données dans le tableau A.12.
+(3) Il convient de relier la valeur caractéristique aux essais de contrôle en appliquant un facteur
+de corrélation ξ.
+a
+NOTE L' alinéna 8.5.2(3) se réfère aux types d’ancrages qui ne pas contrôlés individuellement par des
+essais de réception. Si l’on utilise un facteur de corrélation ξ ce facteur doit être soit basé sur
+a
+l’expérience soit fourni dans l’annexe nationale.
+
+8.5.3 Valeur de calcul de la résistance à la traction déterminées par le calcul
+(1)P La valeur de calcul de la résistance à l‘arrachement doit être évaluée conformément aux
+principes des paragraphes 2.4.7 et 2.4.8, lorsqu’ils s’appliquent.
+8.5.4 Valeur de calcul de la résistance de la structure de l’ancrage
+(1)P Le calcul de la structure de l’ancrage doit satisfaire l’inégalité suivante :
+R ≤ R (8.3) a;d t;d
+(2)P La résistance du matériau des ancrages, R , doit être calculée conformément aux
+t;d
+normes EN 1992, EN 1993, EN 1537:1999, lorsque c’est pertinent.
+(3)P Si les ancrages sont soumis à des essais de contrôle, R , doit tenir compte de la traction
+t;d
+d’épreuve (voir le aricle 9.5 de la norme EN 1537:1999).
+8.5.5 Valeur de calcul de la charge d’ancrage
+(1)P La valeur de calcul de la charge d’ancrage, P , doit être déduite du calcul de la structure d
+soutenue, comme valeur maximale de :
+— la force à l’état limite ultime appliquée par la structure soutenue,
+— la force à l’état limite de service appliquée à la structure soutenue.
+8.6 Calcul à l’état limite de service
+(1)P Pour la vérification d’un état limite de service dans la structure, l’ancrage sera regardé
+comme un ressort.
+(2)P Pour les ancrages précontraints (par exemple les ancrages scellés) le ressort doit être
+considéré comme élastique et précontraint.
+(3) La combinaison la plus défavorable de la raideur d’ancrage minimale ou maximale et de la
+précontrainte minimale ou maximale doit être choisie lorsque l’on analyse la situation de calcul
+indiquée dans la clause 8.6(2)P.
+(4) Il convient d’appliquer un facteur de modèle à la force à l’état limite de service pour assurer
+que la résistance de l’ancrage est suffisamment sécuritaire.
+NOTE La valeur du facteur de modèle peut être fixée dans l’annexe nationale.
+(5) Lorsque l’on considère un ancrage non précontraint comme un ressort (non précontraint), il
+convient de choisir sa raideur pour assurer la compatibilité des déplacements calculés de la
+structure retenue avec les déplacements et l’allongement de l’ancrage.
+(6) Il convient de tenir compte des effets des déformations imposées aux fondations
+adjacentes par la force de précontrainte des ancrages.
+8.7 Essais de contrôle
+(1)P Des essais de contrôle doivent être spécifiés pour les ancrages scellés, les ancrages
+vissés et les boulons dans le rocher. L’exécution de l’essai doit être conforme aux indications
+de la norme EN 1537:1999.
+
+(2) Il convient d’exécuter au moins trois essais de contrôle pour chaque état distinct du terrain
+et de la structure afin de déterminer les résistances caractéristiques de l’ancre.
+(3)P La charge d’épreuve, P , d’un essai de contrôle sur ancrage scellé doit être conforme aux
+p
+indications de la norme EN 1537:1999.
+(4) En attendant qu’un essai spécifique soit disponible, il convient que les essais de contrôle
+pour les ancrages vissés et les boulons pour rocher soient réalisés en suivant la même
+procédure que celle indiquée dans la norme EN 1537 :1999 pour les ancrages scellés.
+8.8 Essais de réception
+(1)P On doit spécifier dans le projet que tous les ancrages scellés doivent être soumis à des
+essais de réception avant de bloquer leur tête et avant qu’ils ne deviennent opérationnels.
+(2)P La procédure pour les essais de réception doit suivre les règles données dans la norme
+EN 1537:1999 pour les ancrages scellés.
+(3) Si des groupes d’ancrages se croisent avec des longueurs de scellement d’armature
+inférieures à 1,5 m, il convient de réaliser des essais de contrôle aléatoire après la fin des
+opérations de blocage.
+8.9 Surveillance de l’exécution et suivi
+(1)P La surveillance de l’exécution et le suivi doivent suivre les règles données dans la section
+4 de cette norme et les paragraphes 9.10 et 9.11 de la norme EN 1537:1999, lorsque c’est
+approprié.
+
+---
+
+Liens : [[EC7-1_index]] · [[EC7-1_7b_fondations-pieux-calcul]] · [[EC7-1_9_soutenement]] · [[_Knowledge — Index]] · [[CLAUDE]]

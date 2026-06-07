@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "8"
 chapter: "8"
 tags: [EC1-1-4, ponts, tabliers, piles, coefficients-force, direction-vent, ferroviaire]
-language: fr
-jupyter_ref: "EC1-1-4/8"
 created: 2026-06-05
 ---
 
@@ -127,4 +125,4 @@ NOTE 2 NDP — Procédure recommandée : supprimer la charge de calcul du vent s
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_6_coefficient-cscd]] · [[EC1-1-4_7c_elements-structuraux]] · [[EC1-1-4_A_effets-terrain]] · [[PTR CE01 — Ch03 — Actions — FR]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_7c_elements-structuraux]] · [[EC1-1-4_A_effets-terrain]] · [[_Knowledge — Index]] · [[CLAUDE]]

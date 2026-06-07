@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "C"
 chapter: "C"
 tags: [EC1-1-4, cscd, procedure-2, coefficient-structural]
-language: fr
-jupyter_ref: "EC1-1-4/C"
 created: 2026-06-05
 ---
 
@@ -38,4 +36,4 @@ Les deux procédures conduisent à des valeurs de `c_s·c_d` très proches pour 
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_B_procedure1-cscd]] · [[EC1-1-4_D_valeurs-cscd]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_B_procedure1-cscd]] · [[EC1-1-4_D_valeurs-cscd]] · [[_Knowledge — Index]] · [[CLAUDE]]

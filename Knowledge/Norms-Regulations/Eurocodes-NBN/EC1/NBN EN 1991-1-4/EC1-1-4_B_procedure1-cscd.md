@@ -5,8 +5,6 @@ norm: EC1-1-4
 section: "B"
 chapter: "B"
 tags: [EC1-1-4, cscd, procedure-1, calcul-dynamique, coefficient-structural]
-language: fr
-jupyter_ref: "EC1-1-4/B"
 created: 2026-06-05
 ---
 
@@ -89,4 +87,4 @@ Le déplacement maximal dans la direction du vent et l'écart type de l'accélé
 
 ---
 
-Liens : [[EC1-1-4_index]] · [[EC1-1-4_6_coefficient-cscd]] · [[EC1-1-4_C_procedure2-cscd]]
+Liens : [[EC1-1-4_index]] · [[EC1-1-4_A_effets-terrain]] · [[EC1-1-4_C_procedure2-cscd]] · [[_Knowledge — Index]] · [[CLAUDE]]

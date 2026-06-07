@@ -1,0 +1,94 @@
+{
+  "folder": "EC1 - Βάσεις σχεδιασμού και Γενικές δράσεις",
+  "output_dir": "C:\\Users\\n_pap\\Documents\\PapaLab\\Papa_Vault\\Methodology\\Seminar-Notes\\EC1",
+  "pdfs": [
+    {
+      "file": "03a-VASSART-EC-FireDesign-WS.pdf",
+      "md5": "6b24f93b3262dbcb52f8004c18ac5e79",
+      "pages": 142,
+      "stem": "03a-vassart-ec-firedesign-ws",
+      "duplicate_of": null,
+      "assets_dir": "_assets/03a-vassart-ec-firedesign-ws",
+      "scaffold": "_scaffold/03a-vassart-ec-firedesign-ws.txt",
+      "output_md": "03a-vassart-ec-firedesign-ws.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "ΕΝ 1990 Βάσεις σχεδιασμού των φερουσών κατασκευών.pdf",
+      "md5": "ffe2e19b4fc0319d9d5db45716d0c85e",
+      "pages": 51,
+      "stem": "en-1990-vaseis-schediasmoy-ton-feroyson-kataskey",
+      "duplicate_of": null,
+      "assets_dir": "_assets/en-1990-vaseis-schediasmoy-ton-feroyson-kataskey",
+      "scaffold": "_scaffold/en-1990-vaseis-schediasmoy-ton-feroyson-kataskey.txt",
+      "output_md": "en-1990-vaseis-schediasmoy-ton-feroyson-kataskey.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "ΕΝ 1990 Βάσεις σχεδιασμού, ΕΝ 1991 Δράσεις στις φέρουσες κατασκευές.pdf",
+      "md5": "c93d1611a263178d7c741d779629c26d",
+      "pages": 181,
+      "stem": "en-1990-vaseis-schediasmoy-en-1991-draseis-stis-",
+      "duplicate_of": null,
+      "assets_dir": "_assets/en-1990-vaseis-schediasmoy-en-1991-draseis-stis-",
+      "scaffold": "_scaffold/en-1990-vaseis-schediasmoy-en-1991-draseis-stis-.txt",
+      "output_md": "en-1990-vaseis-schediasmoy-en-1991-draseis-stis-.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "ΕΝ 1991-1-1 Γενικές δράσεις – Δράσεις κατά τη διάρκεια της κατασκευής.pdf",
+      "md5": "5e04b1e70ec5d333b065ac50a55a8f54",
+      "pages": 20,
+      "stem": "en-1991-1-1-genikes-draseis-draseis-kata-ti-diar",
+      "duplicate_of": null,
+      "assets_dir": "_assets/en-1991-1-1-genikes-draseis-draseis-kata-ti-diar",
+      "scaffold": "_scaffold/en-1991-1-1-genikes-draseis-draseis-kata-ti-diar.txt",
+      "output_md": "en-1991-1-1-genikes-draseis-draseis-kata-ti-diar.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "ΕΝ 1991-1-3 Γενικές δράσεις – Φορτία χιονιού.pdf",
+      "md5": "de2254c093ee4eff705cefc7369a15ff",
+      "pages": 16,
+      "stem": "en-1991-1-3-genikes-draseis-fortia-chionioy",
+      "duplicate_of": null,
+      "assets_dir": "_assets/en-1991-1-3-genikes-draseis-fortia-chionioy",
+      "scaffold": "_scaffold/en-1991-1-3-genikes-draseis-fortia-chionioy.txt",
+      "output_md": "en-1991-1-3-genikes-draseis-fortia-chionioy.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "ΕΝ 1991-1-4 Γενικές δράσεις – Δράσεις ανέμου.pdf",
+      "md5": "084d725dd7ee47be089ea66daca3a88f",
+      "pages": 22,
+      "stem": "en-1991-1-4-genikes-draseis-draseis-anemoy",
+      "duplicate_of": null,
+      "assets_dir": "_assets/en-1991-1-4-genikes-draseis-draseis-anemoy",
+      "scaffold": "_scaffold/en-1991-1-4-genikes-draseis-draseis-anemoy.txt",
+      "output_md": "en-1991-1-4-genikes-draseis-draseis-anemoy.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "ΕΝ 1991-1-5 Γενικές δράσεις – Θερμικές δράσεις.pdf",
+      "md5": "354b733bcf25fad195b44f8a1013bdb0",
+      "pages": 13,
+      "stem": "en-1991-1-5-genikes-draseis-thermikes-draseis",
+      "duplicate_of": null,
+      "assets_dir": "_assets/en-1991-1-5-genikes-draseis-thermikes-draseis",
+      "scaffold": "_scaffold/en-1991-1-5-genikes-draseis-thermikes-draseis.txt",
+      "output_md": "en-1991-1-5-genikes-draseis-thermikes-draseis.md",
+      "status": "assets_ready"
+    },
+    {
+      "file": "ΕΝ 1991-1-6 Γενικές δράσεις – Δράσεις κατά τη διάρκεια της κατασκευής.pdf",
+      "md5": "c94fda0caffbb3b19a8ea9c1689abd59",
+      "pages": 17,
+      "stem": "en-1991-1-6-genikes-draseis-draseis-kata-ti-diar",
+      "duplicate_of": null,
+      "assets_dir": "_assets/en-1991-1-6-genikes-draseis-draseis-kata-ti-diar",
+      "scaffold": "_scaffold/en-1991-1-6-genikes-draseis-draseis-kata-ti-diar.txt",
+      "output_md": "en-1991-1-6-genikes-draseis-draseis-kata-ti-diar.md",
+      "status": "assets_ready"
+    }
+  ]
+}

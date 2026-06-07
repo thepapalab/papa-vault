@@ -1,0 +1,3245 @@
+=== p001 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+1 
+ 
+EN  1991-1-2 
+ 
+ Basic design methods 
+ Worked examples  
+ 
+ 
+ 
+  
+ 
+Prof. VASSART Olivier 
+ 
+Chairman of the CEN/TC250 EC1/ Fire E.G. 
+ArcelorMittal R&D  
+ 
+email: olivier.vassart@arcelormittal.com 
+ 
+ 
+ 
+
+=== p002 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+2 
+Basic design methods of EN1991-1-2 
+ 
+Fire part of Eurocode 1 
+
+=== p003 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+3 
+Fire parts of Eurocodes 2 to 6 and 9 
+ 
+Following common layout to provide design rules for fire 
+resistance of various types of structures: 
+- General  
+Scope, application field, definitions, symbols and units 
+- Basic principles  
+Performances requirements, design values of material properties 
+and assessment approaches 
+- Material properties  
+Mechanical and thermal properties at elevated temperatures 
+- Assessment methods for fire resistance 
+- Constructional details 
+- Annexes  
+Additional information: common case - more detailed design rules 
+3 
+
+=== p004 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+4 
+Fire resistance - European classes 
+ 
+According to European standard, 3 criteria to define the fire 
+resistance: 
+ 
+ R  
+– load bearing function 
+ E 
+– integrity separating function 
+  I  
+– thermal insulating separation function 
+Above criteria may be required individually or in combination: 
+•separating only: integrity (criterion E) and, when requested, insulation 
+(criterion I) 
+•load bearing only: mechanical resistance (criterion R) 
+•separating and load bearing: criteria R, E and, when requested I 
+Fire resistance is defined in terms of time as follows: 
+•
+Relevant time of fire exposure during which the corresponding fire 
+resistance function of a structure is maintained despite fire actions 
+4 
+
+=== p005 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+5 
+Fire resistance - European classes 
+ 
+R – load bearing function 
+ 
+Capacity of a structure to maintain its required mechanical resistance in 
+case of fire 
+ 
+Mechanical loading 
+5 
+
+=== p006 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+6 
+Fire resistance - European classes 
+ 
+E – integrity separating function 
+ 
+Capacity of a structure to maintain its required integrity separating 
+function to hot gases in case of fire 
+ 
+With or without additional 
+mechanical loading 
+200, 300, 
+400°C, … 
+(no limitation) 
+hot gas 
+heat 
+6 
+
+=== p007 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+7 
+Fire resistance - European classes 
+ 
+With or without 
+additional 
+mechanical 
+loading 
+Average temperature rise 
+≤140 K (under standard fire) 
+Maximum temperature rise  
+≤ 180 K (under standard fire) 
+hot gas 
+heat 
+I – thermal insulation separating function 
+ 
+Capacity of a structure to maintain its required thermal insulation 
+separating function in case of fire 
+ 
+7 
+
+=== p008 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+8 
+8 
+4:  Thermal 
+ 
+response 
+time 
+R 
+5:Mechanical  
+    response 
+6: Possible  
+    collapse 
+Resistance to Fire - Chain of Events 
+time 
+Θ 
+2: Thermal action 3: Mechanical actions 
+Loads 
+Steel 
+columns 
+1: Ignition 
+8 
+
+=== p009 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+9 
+9 
+Structural Fire Safety Engineering  
+vs. Classification 
+Prescriptive 
+Performance based 
+9 
+
+=== p010 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+10 
+Structural Fire Safety Engineering  
+vs. Classification 
+P 
+Normalised fire 
+Time 
+Displacement  
+P 
+Objective of the classification 
+Describe the Thermal and mechanical 
+behaviour of structures  subjected to fire 
+ 
+Means 
+10 
+
+=== p011 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+11 
+11 
+Structural Fire Safety Engineering  
+vs. Classification 
+Prescriptive 
+Performance based 
+11 
+
+=== p012 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+12 
+12 
+Actions on Structures Exposed to Fire 
+EN 1991-1-2 - Prescriptive Rules 
+Prescriptive Rules 
+ 
+(Thermal Actions given  
+by Nominal Fire) 
+Performance-Based Code 
+ 
+(Physically based Thermal Actions) 
+Design Procedures 
+
+=== p013 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+13 
+Nominal Temperature-Time Curve 
+*) Advanced Fire Models 
+- Two-Zone Model 
+- Combined Two-Zones and One-Zone fire 
+   
+- One-Zone Model 
+- CFD 
+- Parametric Fire 
+Localised Fire 
+Fully Engulfed Compartment 
+θ (x, y, z, t) 
+θ (t) uniform  
+in the compartment 
+Standard temperature-, External fire - & 
+Hydrocarbon fire curve 
+- HESKESTADT 
+- HASEMI 
+No data needed 
+Rate of heat release 
+Fire surface 
+Boundary properties 
+Opening area 
+Ceiling height 
+ 
+ 
++ 
+Exact geometry 
+*) Nominal temperature-time curve 
+*) Simplified Fire Models 
+
+=== p014 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+14 
+14 
+Prescriptive Fire Regulations Defining 
+ISO Curve Requirements 
+* does not consider the PRE-FLASHOVER PHASE 
+* Does not depend on FIRE LOAD and 
+VENTILATION CONDITIONS 
+ 
+0 
+200 
+400 
+600 
+800 
+1000 
+1200 
+0 
+30 
+60 
+θ [°C] 
+90 
+120 
+180 
+ISO-834 Curve (EN1364 -1) 
+Time [min] 
+ISO 
+ISO 
+ISO 
+ISO 
+ISO 
+ISO 
+ISO 
+ISO 
+The ISO curve 
+* Has to be considered in the WHOLE compartment, even if 
+the compartment is huge 
+* Never goes DOWN 
+1110 
+945 
+1006 
+1049 
+842 
+T = 20 + 345 log (8 t + 1) 
+
+=== p015 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+15 
+15 
+Temperature 
+Cooling …. 
+ ISO834 standard fire curve 
+Ignition - Smouldering 
+ Pre- Flashover 
+Heating 
+ Post- Flashover 
+ 1000-1200°C 
+ Natural fire curve  
+Time 
+Flashover 
+Stages of a Natural Fire and the  
+Standard Fire Curve 
+
+=== p016 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+16 
+16 
+Prescriptive Rules 
+ 
+(Thermal Actions given  
+by Nominal Fire) 
+Performance-Based Code 
+ 
+(Physically based Thermal Actions) 
+Actions on Structures Exposed to Fire 
+EN 1991-1-2 - Performance Based Code 
+Design Procedures 
+
+=== p017 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+17 
+• Some National Fire Regulations  
+   include now alternative requirements 
+   based on Natural Fire 
+ Implemented in:  
+• EN 1991-1-2 
+0 
+200 
+400 
+600 
+800 
+1000 
+1200 
+0 
+30 
+60 
+90 
+θ  [°C] 
+120 
+180 
+Time [min] 
+Natural Fire Safety Concept 
+17 
+
+=== p018 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+18 
+18 
+NFSC Valorisation Project 
+
+=== p019 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+19 
+Natural Fire Model 
+*) Advanced Fire Models 
+- Two-Zone Model 
+- Combined Two-Zones and One-Zone fire 
+   
+- One-Zone Model 
+- CFD 
+- Parametric Fire 
+Localised Fire 
+Fully Engulfed Compartment 
+θ (x, y, z, t) 
+θ (t) uniform  
+in the compartment 
+Standard temperature-, External fire - & 
+Hydrocarbon fire curve 
+- HESKESTADT 
+- HASEMI 
+No data needed 
+Rate of heat release 
+Fire surface 
+Boundary properties 
+Opening area 
+Ceiling height 
+ 
+ 
++ 
+Exact geometry 
+*) Nominal temperature-time curve 
+*) Simplified Fire Models 
+19 
+
+=== p020 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+20 
+20 
+List of needed Physical Parameters 
+for Natural Fire Model  
+ Boundary properties 
+ Ceiling height 
+ Opening Area 
+ Fire surface 
+ Rate of heat release 
+Geometry 
+Fire 
+
+=== p021 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+21 
+21 
+Characteristics of the Fire 
+Compartment 
+Fire resistant enclosures 
+defining the fire compartment 
+according to the national 
+regulations 
+Material properties of 
+enclosures: c, ρ, λ 
+Definition of Openings 
+
+=== p022 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+22 
+22 
+  
+Occupancy 
+Fire Growth 
+Rate 
+  RHR f 
+[kW/m²] 
+  Fire Load  q f,k 
+  80%  fractile 
+[MJ/m²] 
+Dwelling 
+Medium 
+250 
+948 
+Hospital  (room) 
+Medium 
+250 
+280 
+Hotel  (room) 
+Medium 
+250 
+377 
+Library 
+Fast 
+500 
+1824 
+Office 
+Medium 
+250 
+511 
+School 
+Medium 
+250 
+347 
+Shopping Centre 
+Fast 
+250 
+730 
+Theatre  (movie/cinema) 
+Fast 
+500 
+365 
+  Transport  (public space) 
+Slow 
+250 
+122 
+Characteristic of the Fire 
+for Different Buildings 
+
+=== p023 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+23 
+23 
+  
+Fire Load Density 
+1,90 
+2,00 
+2,13 
+Danger of 
+Fire Activation 
+Compartment 
+floor area Af  [m²] 
+1,50 
+1,10 
+25 
+250 
+2500 
+5000 
+10000 
+δq1 
+0,78 
+1,00 
+1,22 
+1,44 
+1,66 
+Danger of 
+Fire Activation 
+δq2 
+Examples 
+of 
+Occupancies 
+Art gallery, museum, 
+swimming pool   
+Residence, hotel, office 
+Manufactory for machinery 
+& engines 
+Chemical laboratory, 
+Painting workshop 
+Manufactory of fireworks 
+or paints 
+Automatic 
+Water 
+Extinguishing 
+System 
+Independent 
+Water 
+Supplies 
+Automatic fire 
+Detection 
+& Alarm 
+by 
+Heat 
+by 
+Smoke 
+Automatic 
+Alarm 
+Transmission 
+to 
+Fire Brigade 
+Function of Active Fire Safety Measures 
+δni 
+0 
+1 
+2 
+Automatic Fire Suppression 
+Automatic Fire Detection 
+δ n1 
+δ n2 
+δ n3 
+δ n4 
+δ n5 
+0,61 
+0,87 or 0,73 
+0,87 
+1,0 0,87 0,7 
+Work 
+Fire 
+Brigade 
+Off Site 
+Fire 
+Brigade 
+Safe 
+Access 
+Routes 
+Fire 
+Fighting 
+Devices 
+Smoke 
+Exhaust 
+System 
+δ n10 
+Manual Fire Suppression 
+δ n6 
+δ n7 
+δ n8 
+δ n9 
+0,61    or    0,78 
+0,9 or 1 
+1,5 
+1,0 
+1,5 
+1,0 
+1,5 
+k
+f
+ni
+q
+q
+d
+f
+q
+m
+q
+,
+2
+1
+,
+.
+.
+.
+.
+∏
+=
+δ
+δ
+δ
+
+=== p024 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+24 
+24 
+Rate of Heat Release Curve 
+Stationary State and Decay Phase 
+RHR [MW] 
+Time [min] 
+0 
+tdecay 
+Decay phase 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+t [min] 
+x RHR 
+A f 
+f 
+x RHR f 
+A f 
+COMPARTMENT FIRE 
+Ventilation Controlled Fire  
+RHR [MW] 
+Steady state 
+70% (qf,d • Afi) 
+Decay Phase 
+0 
+1 
+2 
+3 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+0 
+5 
+10 
+15 
+20 
+t [min] 
+RHR [MW] 
+75''  
+Fast (FGR) 
+Medium (FGR) 
+Fire Growth Rate = FGR 
+Slow (FGR)  
+Ultra- 
+Fast 
+(FGR) 
+150''  
+600''  
+300''  
+Growing phase 
+
+=== p025 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+25 
+Natural Simplified Fire Model 
+*) Advanced Fire Models 
+- Two-Zone Model 
+- Combined Two-Zones and One-Zone fire 
+   
+- One-Zone Model 
+- CFD 
+- Parametric Fire 
+Localised Fire 
+Fully Engulfed Compartment 
+θ (x, y, z, t) 
+θ (t) uniform  
+in the compartment 
+Standard temperature-, External fire - & 
+Hydrocarbon fire curve 
+- HESKESTADT 
+- HASEMI 
+No data needed 
+Rate of heat release 
+Fire surface 
+Boundary properties 
+Opening area 
+Ceiling height 
+ 
+ 
++ 
+Exact geometry 
+*) Nominal temperature-time curve 
+*) Simplified Fire Models 
+25 
+
+=== p026 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+26 
+FULLY ENGULFED 
+ COMPARTMENT 
+θ  (t) uniform in the compartment 
+LOCALISED FIRE 
+θ  (x, y, z, t) 
+Simplified Fire Models Localised Fire 
+26 
+
+=== p027 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+27 
+Real Localised Fire Test 
+27 
+
+=== p028 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+28 
+Annex C of EN 1991-1-2: 
+• Flame is not impacting the ceiling of a compartment (Lf < H)  
+• Fires in open air 
+The flame length Lf of a 
+localised fire is given by : 
+Flame axis 
+L 
+z 
+D 
+f 
+H 
+Θ(z) = 20 + 0,25 (0,8 Qc)2/3 (z-z0)-5/3 ≤ 900°C 
+Lf = -1,02 D + 0,0148 Q2/5 
+Localised Fire: HESKESTAD Method 
+28 
+
+=== p029 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+29 
+Annex C of EN 1991-1-2: 
+• Flame is impacting the ceiling (Lf > H) 
+Y = Height of the      
+free zone 
+concrete slab 
+θ g 
+θ 
+x 
+= Air Temperature  
+   at Beam Level 
+Calculated by CaPaFi 
+Localised Fire: HASEMI Method 
+beam 
+29 
+
+=== p030 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+30 
+FULLY ENGULFED 
+ COMPARTMENT 
+θ  (t) uniform in the compartment 
+LOCALISED FIRE 
+θ  (x, y, z, t) 
+Simplified Fire Models 
+Fully Engulfed Compartment 
+30 
+
+=== p031 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+31 
+Real Fire Test Simulating 
+an Office Building 
+Fully engulfed fire 
+31 
+
+=== p032 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+32 
+Demonstration test : set-up 
+Fire load with real 
+office furniture 
+Openings with normal 
+glazed windows 
+Real Fire Test Simulating 
+an Office Building 
+
+=== p033 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+33 
+Early stage of fire 
+Fully developed fire 
+Real Fire Test Simulating 
+an Office Building 
+
+=== p034 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+34 
+0 
+100 
+200 
+300 
+400 
+500 
+600 
+700 
+0 
+10 
+20 
+30 
+40 
+50 
+60 
+70 
+80 
+90 
+100 
+Time (min) 
+Vertical 
+displacement (mm) 
+0 
+200 
+400 
+600 
+800 
+1000 
+1200 
+Temperature (°C) 
+Maximum vertical 
+displacement 
+Steel 
+temperature 
+Real Fire Test Simulating 
+an Office Building 
+34 
+
+=== p035 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+35 
+Annex A of EN 1991-1-2 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+1000
+1100
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+110
+120
+time [min]
+O = 0.04 m ½
+O = 0.06 m ½
+O = 0.10 m ½
+O = 0.14 m ½
+O = 0.20 m ½
+Iso-Curve
+Fully Engulfed Compartment   
+Annex A: Parametric Fire 
+Temperature [°C] 
+For a given b, qfd, At & Af 
+35 
+
+=== p036 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+36 
+Natural Advanced Fire Model 
+*) Advanced Fire Models 
+- Two-Zone Model 
+- Combined Two-Zones and One-Zone fire 
+   
+- One-Zone Model 
+- CFD 
+- Parametric Fire 
+Localised Fire 
+Fully Engulfed Compartment 
+θ (x, y, z, t) 
+θ (t) uniform  
+in the compartment 
+Standard temperature-, External fire - & 
+Hydrocarbon fire curve 
+- HESKESTADT 
+- HASEMI 
+No data needed 
+Rate of heat release 
+Fire surface 
+Boundary properties 
+Opening area 
+Ceiling height 
+ 
+ 
++ 
+Exact geometry 
+*) Nominal temperature-time curve 
+*) Simplified Fire Models 
+36 
+
+=== p037 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+37 
+Advanced fire Models 
+LOCALISED FIRE 
+LOCALISED FIRE 
+FULLY ENGULFED 
+ COMPARTMENT 
+The Fire stays localised 
+The Fire switch to a  
+fully engulfed fire 
+37 
+
+=== p038 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+38 
+38 
+ 
+ 
+  
+Advanced fire Models 
+
+=== p039 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+39 
+39 
+ 
+ 
+Ignition 
+
+=== p040 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+40 
+40 
+ 
+ 
+T 
+Localised Fire 
+
+=== p041 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+41 
+41 
+ 
+ 
+T 
+Growing of Localised Fire 
+
+=== p042 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+42 
+42 
+ 
+ 
+T 
+→ 
+Q 
+mp 
+H 
+ZS 
+ZP 
+0 
+Lower layer 
+Upper layer 
+mOUT,U 
+mIN,L 
+mIN,L 
+QC 
+QR 
+mU , TU, VU,  
+EU, ρU 
+ mL , TL, VL,  
+ EL, ρL 
+p 
+Z 
+Localised Fire 
+Ozone Software Model 
+Theory of two zones models 
+
+=== p043 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+43 
+43 
+ 
+ 
+T 
+2  1 zone: if one of the following criteria is reached 
+Thot gases> 500 oC 
+Combustible material in the smoke and Tsmoke> 300 oC 
+Localised fire> 25 % of the compartment’s surface 
+Smoke height > 80 % of the total height of the compartment 
+Theory of two zones models 
+
+=== p044 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+44 
+44 
+Generalised Fire 
+Ozone Software Model 
+H 
+ZP 
+0 
+mOUT 
+mOUT,L 
+mIN,L 
+QC 
+QR 
+ m, T, V,  
+ E, ρ(Z) 
+p = f(Z) 
+Fire: RHR,  
+       combustion products 
+QC+R,O 
+Z 
+Theory of two zones models 
+
+=== p045 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+45 
+Large Compartment Test  
+Fire Load 
+45 
+
+=== p046 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+46 
+Large Compartment Test  
+External Flaming During the Test 
+46 
+
+=== p047 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+47 
+Large Compartment Test  
+After the Test 
+47 
+
+=== p048 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+48 
+Two Zone Calculation 
+Software “OZone V2.2” 
+48 
+
+=== p049 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+49 
+49 
+Software “OZone V2.2” 
+Definition of the Compartment 
+
+=== p050 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+50 
+50 
+Software “OZone V2.2” 
+Definition of the boundaries 
+
+=== p051 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+51 
+51 
+Software “OZone V2.2” 
+Definition of the fire 
+
+=== p052 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+52 
+Software “OZone V2.2” 
+Criteria 2 zones – 1 zone 
+52 
+
+=== p053 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+53 
+OZone results : 
+Input and Computed RHR 
+53 
+
+=== p054 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+54 
+θHot 
+θCold 
+OZone results : 
+Gas Temperatures 
+54 
+
+=== p055 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+55 
+OZone results : 
+Smoke Layer Thickness 
+55 
+
+=== p056 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+56 
+56 
+
+=== p057 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+57 
+57 
+
+=== p058 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+58 
+58 
+
+=== p059 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+59 
+Compartment Fire test 
+59 
+
+=== p060 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+60 
+60 
+Calibration of Software OZone: 
+Gas Temp 
+  
+  
+0  
+200  
+400  
+600  
+800  
+1000  
+1200  
+1400  
+0  
+200  
+400  
+600  
+800  
+1000  
+1200  
+1400  
+TEST [°C]  
+OZone [°C]   
+MAXIMUM AIR T EMPERATURE   
+OZone  
+MAXIMUM AIR T EMPERATURE   
+IN THE COMPARTMENT 
+  
+
+=== p061 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+61 
+61 
+  
+0 
+200 
+400 
+600 
+800 
+1000 
+1200 
+1400 
+0 
+200 
+400 
+600 
+800 
+1000 
+1200 
+1400 
+TEST [°C] 
+OZone [°C] 
+UNPROTECTED STEEL TEMPERATURE 
+Calibration of Software OZone: 
+Steel Temp 
+
+=== p062 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+62 
+62 
+Comparison BRE Test 4 - OZone Design fire 
+0 
+100 
+200 
+300 
+400 
+500 
+600 
+700 
+800 
+900 
+1000 
+1100 
+1200 
+1300 
+1400 
+0 
+600 
+1200 
+1800 
+2400 
+3000 
+3600 
+4200 
+4800 
+5400 
+6000 
+6600 
+7200 
+Time [sec] 
+Gas Temp [°C]] 
+OZone Office Fast 
+OZone Office Medium 
+Test Average 
+Test Max 
+Test Min 
+qf,d =511MJ/m2 
+RHRf = 250kW/m2 
+Calibration of Software OZone: 
+OZone Vs Test 
+
+=== p063 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+63 
+63 
+15 m 
+9 m 
+Calibration of Software OZone: 
+OZone Vs Ulster Test 
+
+=== p064 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+64 
+Fire load energy density was700MJ/m2 
+The fire load can be achieved using 45 standard wooden cribs(1m x 1m x 
+0.5 m high), positioned evenly around the compartment(9.0m x 15.0m).  
+WOODEN CRIBS LOCATION
+Calibration of Software OZone: 
+OZone Vs Ulster Test 
+
+=== p065 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+65 
+65 
+Calibration of Software OZone: 
+OZone Vs Ulster Test 
+
+=== p066 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+66 
+Calibration of Software OZone: 
+OZone Vs Ulster Test 
+66 
+
+=== p067 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+67 
+Grid  
+definition 
+Computer Fluid Dynamics: 
+Software Sofie 
+67 
+
+=== p068 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+68 
+Sofie Results: Gas Temperatures 
+68 
+
+=== p069 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+69 
+Computer Fluid Dynamics: 
+Free Software FDS 
+69 
+
+=== p070 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+70 
+ Definition of the mesh 
+Computer Fluid Dynamics: 
+Free Software FDS 
+
+=== p071 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+71 
+Computer Fluid Dynamics: 
+Free Software FDS 
+71 
+
+=== p072 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+72 
+72 
+4:  Thermal 
+ 
+response 
+time 
+R 
+5:Mechanical  
+    response 
+6: 
+Possible  
+    collapse 
+Resistance to Fire - Chain of Events 
+time 
+Θ 
+2: Thermal action 3: Mechanical actions 
+Loads 
+Steel 
+columns 
+1: Ignition 
+
+=== p073 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+73 
+73 
+Basis of Design and 
+Actions on Structures 
+S 
+G 
+Q 
+Fire 
+W 
+A 
+C 
+T 
+I 
+O 
+N 
+S 
+Actions for temperature analysis 
+Thermal  Action 
+FIRE 
+Actions for structural analysis 
+Mechanical  Action 
+Dead Load           G 
+Imposed Load      Q 
+Snow                    S 
+Wind                    W 
+
+=== p074 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+74 
+74 
+Room temperature 
+∑ 
+γ 
+ψ 
++ 
+γ 
++ 
+γ 
+= 
+i 
+Q,i 
+0,i 
+1 
+Q,1 
+G 
+d 
+Q 
+Q 
+G 
+E 
+f.i. : Offices area with the imposed load Q, 
+ 
+the leading variable action 
+E d  = 1,35 G + 1,5 Q + 0,6 • 1,5 W + 0,5 • 1,5 S  
+Combination Rules for Mechanical Actions 
+EN 1990: Basis of Structural Design 
+i >1 
+
+=== p075 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+75 
+75 
+Fire conditions ≡ Accidental situation 
+f.i. : Offices area with the imposed load Q,  
+ 
+the leading variable action 
+E fi,d  = G + 0,3 Q 
+Offices area with the wind W, the leading variable action 
+E fi,d  = G + 0,0 W + 0,3 Q 
++ 
+ψ 
++ 
+= 
+1 
+fi,d 
+∑ ψ 
+i >1 
+i 
+1or2,i Q 
+Q 
+G 
+E 
+1or2,1 
+Combination Rules for Mechanical Actions 
+EN 1990: Basis of Structural Design 
+
+=== p076 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+76 
+76 
+Values of ψ factors for buildings 
+Action 
+ψ 0 
+1 
+2 
+Imposed loads in buildings, category (see EN 1991-1.1) 
+Category A : domestic, residential areas 
+Category B : office areas 
+Category C : congregation areas 
+Category D : shopping areas 
+Category E : storage areas 
+Category F : traffic area 
+vehicle weight  
+≤   30kN 
+Category G : traffic area, 
+30  kN < vehicle weight  ≤   160kN 
+0,7 
+0,7 
+0,7 
+0,7 
+1,0 
+0,7 
+0,7 
+0,5 
+0,5 
+0,7 
+0,7 
+0,9 
+0,7 
+0,5 
+0,3 
+0,3 
+0,6 
+0,6 
+0,8 
+0,6 
+0,3 
+Snow loads on buildings (see EN1991-1.3) 
+Finland, Iceland, Norway, Sweden 
+Remainder of CEN Member States, for sites located at altitude 
+H > 1000 m  a.s.l. 
+Remainder of CEN Member States, for sites located at altitude 
+H  ≤  1000 m  a.s.l. 
+0,70 
+0,70 
+0,50 
+0,50 
+0,50 
+0,20 
+0,20 
+0,20 
+0 
+Wind loads on buildings (see EN1991-1.4) 
+0,6 
+0,2 
+0 
+Temperature (non-fire) in buildings (see EN1991-1.5) 
+0,6 
+0,5 
+0 
+( Reference : EN1990 - February 2002) 
+Category H : roofs 
+0 
+0 
+0 
+ψ 
+ψ 
+
+=== p077 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+77 
+Worked examples of EN1991-1-2 
+ 
+Fire part of Eurocode 1 
+
+=== p078 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+78 
+The Building (R+5) 
+ 
+3.4m 
+14 m 
+30 m 
+78 
+
+=== p079 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+79 
+The Building (R+5) 
+ 
+What do we need for the calculation ? 
+ 
+ 
+ Size of the compartment 
+ Boundary properties 
+ Ceiling height 
+ Opening Area 
+ Fire surface 
+ Rate of heat release 
+Geometry 
+Fire 
+79 
+
+=== p080 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+80 
+Size of the compartment 
+ 
+1 
+A 
+C 
+14 m 
+6 
+30 m 
+80 
+
+=== p081 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+81 
+Ceiling height : 3.05 m 
+ 
+3.4m 
+14 m 
+30 m 
+81 
+
+=== p082 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+82 
+OZone Software 
+ 
+82 
+The Software Package that will be used to perform this 
+calculation is OZone. 
+This Software package has been developed by the University 
+of Liège (Cadorin-Franssen) and is available for free 
+download on: 
+http://www.argenco.ulg.ac.be/logiciel.php 
+http://www.arcelormittal.com/sections 
+ 
+ 
+ 
+ 
+
+=== p083 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+83 
+OZone Software 
+ 
+83 
+
+=== p084 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+84 
+OZone Software 
+ 
+84 
+
+=== p085 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+85 
+Boundaries 
+ 
+85 
+Typical floor will be chosen: 
+ 
+- Exterior walls : 20 cm of normal concrete 
+ 
+- Slab : 15 cm of Normal concrete 
+ 
+- Ceiling : 15 cm of normal concrete 
+ 
+ 
+ 
+ 
+ 
+
+=== p086 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+86 
+Boundaries 
+ 
+86 
+
+=== p087 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+87 
+Boundaries 
+ 
+87 
+
+=== p088 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+88 
+Opening Factors 
+ 
+88 
+This point is one critical point. 
+ 
+ 
+The Eurocode is not providing the scenario that must be 
+chosen to take into account the openings. 
+ 
+Openings can be doors, windows and general « porosity » of 
+the building. 
+ 
+If no opening is taken into account from the beginning of the 
+fire, the amount of oxygen in the compartment will be too 
+small and the fire will not develop. 
+ 
+ 
+ 
+
+=== p089 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+89 
+Opening Factors 
+ 
+89 
+Here are some information to help for definition of the 
+scenario for the breaking of the windows: 
+ 
+In the literature, it can be found that: 
+ 
+-Normal glazing will start to break with a ∆T of 40°C on the 
+glass 
+ 
+-Tempered glazing will start to break with a ∆T of 120°C on 
+the glass 
+ 
+-Tempered glazing with reinforcement will start to break with a 
+∆T of 120°C on the glass (The reinforcement will melt at 
+300°C) 
+ 
+
+=== p090 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+90 
+Opening Factors 
+ 
+90 
+Luxembourgish authorities have realized a guide that needs 
+to be followed when FSE is used. This guide will become 
+official soon. But here is some extract for the non fire resistant 
+glazing: 
+ 
+-Scenario 1 : 90% of the glazing is open since the beginning 
+ 
+-Scenario 2:  
+ 
+-Simple glazing :  
+100°C : 50% and 250°C: 90% 
+ 
+-Double glazing:   
+200°C : 50% and 400°C: 90% 
+ 
+-Triple glazing:   
+300°C : 50% and 500°C: 90% 
+ 
+
+=== p091 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+91 
+Opening Factors 
+ 
+91 
+Assumptions for the façade: 
+ 
+-Ex. 1: 0.8m open all around the building 
+ 
+-Ex. 2: 1.5m open all around the building 
+ 
+-Ex. 3: full glazing Façade 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+=== p092 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+92 
+Opening Factors Ex.1 
+ 
+92 
+
+=== p093 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+93 
+Opening Factors 
+ 
+93 
+
+=== p094 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+94 
+Opening Factors 
+ 
+94 
+
+=== p095 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+95 
+Definition of the fire 
+ 
+95 
+  
+Occupancy 
+Fire Growth 
+Rate 
+  RHR f 
+[kW/m²] 
+  Fire Load  q f,k 
+  80%  fractile 
+[MJ/m²] 
+Dwelling 
+Medium 
+250 
+948 
+Hospital  (room) 
+Medium 
+250 
+280 
+Hotel  (room) 
+Medium 
+250 
+377 
+Library 
+Fast 
+500 
+1824 
+Office 
+Medium 
+250 
+511 
+School 
+Medium 
+250 
+347 
+Shopping Centre 
+Fast 
+250 
+730 
+Theatre  (movie/cinema) 
+Fast 
+500 
+365 
+  Transport  (public space) 
+Slow 
+250 
+122 
+
+=== p096 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+96 
+Definition of the fire 
+ 
+96 
+  
+Occupancy 
+Fire Growth 
+Rate 
+  RHR f 
+[kW/m²] 
+  Fire Load  q f,k 
+  80%  fractile 
+[MJ/m²] 
+Dwelling 
+Medium 
+250 
+948 
+Hospital  (room) 
+Medium 
+250 
+280 
+Hotel  (room) 
+Medium 
+250 
+377 
+Library 
+Fast 
+500 
+1824 
+Office 
+Medium 
+250 
+511 
+School 
+Medium 
+250 
+347 
+Shopping Centre 
+Fast 
+250 
+730 
+Theatre  (movie/cinema) 
+Fast 
+500 
+365 
+  Transport  (public space) 
+Slow 
+250 
+122 
+
+=== p097 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+97 
+97 
+  
+1,90 
+2,00 
+2,13 
+Danger of 
+Fire Activation 
+Compartment 
+floor area Af  [m²] 
+1,50 
+1,10 
+25 
+250 
+2500 
+5000 
+10000 
+δq1 
+0,78 
+1,00 
+1,22 
+1,44 
+1,66 
+Danger of 
+Fire Activation 
+δq2 
+Examples 
+of 
+Occupancies 
+Art gallery, museum, 
+swimming pool   
+Residence, hotel, office 
+Manufactory for machinery 
+& engines 
+Chemical laboratory, 
+Painting workshop 
+Manufactory of fireworks 
+or paints 
+Automatic 
+Water 
+Extinguishing 
+System 
+Independent 
+Water 
+Supplies 
+Automatic fire 
+Detection 
+& Alarm 
+by 
+Heat 
+by 
+Smoke 
+Automatic 
+Alarm 
+Transmission 
+to 
+Fire Brigade 
+Function of Active Fire Safety Measures 
+δni 
+0 
+1 
+2 
+Automatic Fire Suppression 
+Automatic Fire Detection 
+δ n1 
+δ n2 
+δ n3 
+δ n4 
+δ n5 
+0,61 
+0,87 or 0,73 
+0,87 
+1,0 0,87 0,7 
+Work 
+Fire 
+Brigade 
+Off Site 
+Fire 
+Brigade 
+Safe 
+Access 
+Routes 
+Fire 
+Fighting 
+Devices 
+Smoke 
+Exhaust 
+System 
+δ n10 
+Manual Fire Suppression 
+δ n6 
+δ n7 
+δ n8 
+δ n9 
+0,61    or    0,78 
+0,9 or 1 
+1,5 
+1,0 
+1,5 
+1,0 
+1,5 
+k
+f
+ni
+q
+q
+d
+f
+q
+m
+q
+,
+2
+1
+,
+.
+.
+.
+.
+∏
+=
+δ
+δ
+δ
+Definition of the fire 
+ 
+
+=== p098 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+98 
+98 
+  
+Definition of the fire 
+ 
+
+=== p099 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+99 
+99 
+  
+Results for 0.8m windows 
+ 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+20
+40
+60
+80
+100
+120
+Time [min]
+Hot Zone
+Analysis Name: 
+Gas Temperature
+
+=== p100 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+100 
+100 
+  
+Results for 0.8m windows  
+ 
+0.0
+50.0
+100.0
+150.0
+200.0
+250.0
+300.0
+350.0
+400.0
+0
+20
+40
+60
+80
+100
+120
+Time [min]
+Oxygen Mass
+Analysis Name: 
+Oxygen Mass
+
+=== p101 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+101 
+101 
+  
+Results for IPE450 
+ 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+20
+40
+60
+80
+100
+120
+Time [min]
+Hot Zone
+Steel
+Analysis Name: 
+Steel Temperature
+
+=== p102 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+102 
+Opening Factors Ex. 2 
+ 
+102 
+
+=== p103 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+103 
+103 
+  
+Results for 1.5m windows 
+ 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+20
+40
+60
+80
+100
+120
+Time [min]
+Hot Zone
+Analysis Name: 
+Gas Temperature
+
+=== p104 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+104 
+104 
+  
+Results for 1.5m windows  
+ 
+0.0
+50.0
+100.0
+150.0
+200.0
+250.0
+300.0
+350.0
+400.0
+0
+20
+40
+60
+80
+100
+120
+Time [min]
+Oxygen Mass
+Analysis Name: 
+Oxygen Mass
+
+=== p105 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+105 
+105 
+  
+Results for IPE450 
+ 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+0
+20
+40
+60
+80
+100
+120
+Time [min]
+Hot Zone
+Steel
+Analysis Name: 
+Steel Temperature
+
+=== p106 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+106 
+Opening Factors Ex. 3 
+ 
+106 
+
+=== p107 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+107 
+107 
+  
+Results for full windows 
+ 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+0
+20
+40
+60
+80
+100
+120
+Time [min]
+Hot Zone
+Analysis Name: 
+Gas Temperature
+
+=== p108 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+108 
+108 
+  
+Results for full windows  
+ 
+50.0
+100.0
+150.0
+200.0
+250.0
+300.0
+350.0
+400.0
+0
+20
+40
+60
+80
+100
+120
+Time [min]
+Oxygen Mass
+Analysis Name: 
+Oxygen Mass
+
+=== p109 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+109 
+109 
+  
+Results for IPE450 
+ 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+0
+20
+40
+60
+80
+100
+120
+Time [min]
+Hot Zone
+Steel
+Analysis Name: 
+Steel Temperature
+
+=== p110 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+110 
+Fire resistance assessment of 
+steel structures 
+ 
+Worked examples of EN1991-1-2 
+ 
+Fire part of Eurocode 1 : Localised Fire 
+
+=== p111 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+111 
+111 
+Hasemi method for localised fires 
+EN 1991-1-2 : 2002; Annex C 
+Horizontal length on the ceiling: 
+Non-dimensional parameters: 
+Virtual vertical coordinate: 
+Heat flux: 
+Net Heat flux: 
+
+=== p112 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+112 
+Car park Auchan, 
+Luxembourg 
+Underground 
+car park 
+ 
+H = 2.7 m 
+ 
+r = 0.0 m 
+ 
+D = 2.0 m 
+ 
+IPE 550 
+Building: 
+ 
+Type: 
+ 
+ 
+Height: 
+ 
+Horizontal distance from flame axis to beam: 
+ 
+Diameter of flame: 
+ 
+Steel Beam: 
+Localised fire 
+Parameters 
+
+=== p113 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+113 
+Localised fire 
+Static system and section of the beam 
+
+=== p114 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+114 
+114 
+Diameter of the fire:  
+ 
+D 
+= 
+2.0 m 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Vertical distance between fire source and ceiling: 
+ 
+ 
+ 
+ 
+ 
+ 
+H 
+= 
+2.7 m 
+Horizontal distance between beam and flame axis: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+r 
+= 
+0.0 m 
+Emissivity of the fire: 
+ 
+εf 
+= 
+1.0 
+Configuration factor: 
+ 
+Φ 
+= 
+1.0 
+Stephan Boltzmann constant: 
+σ 
+= 
+5.67 · 10-8 
+W/m2K4 
+Coefficient of the heat transfer: 
+αc 
+= 
+25.0 W/m² 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Steel profile:  
+ 
+IPE 550 
+ 
+Section factor: 
+ 
+Am/V = 
+140.1/m 
+Unit mass: 
+ 
+ρa 
+= 
+7850 kg/m³ 
+Surface emissivity: 
+εm 
+= 
+0.7 
+ 
+Localised fire 
+Hypothesis 
+
+=== p115 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+115 
+Curve of the rate of heat release of one car 
+Localised fire 
+Rate of Heat Release 
+From ECSC project: Development of design rules 
+for steel structures subjected to natural fires in 
+closed car parks. 
+
+=== p116 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+116 
+if Lr ≥ H     ⇒ Model A has to be used 
+if Lr < H     ⇒ Model B has to be used 
+Localised fire 
+Flame Length 
+2 5
+2 5
+1.02
+0.0148
+2.04
+0.0148
+f
+L
+D
+Q
+Q
+= −
+⋅
++
+⋅
+= −
++
+⋅
+
+=== p117 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+117 
+117 
+1st case:  
+The flame is not impacting the ceiling 
+ 
+The net heat flux is calculated according to Section 3.1 of EN 
+1991-1-2. 
+( )
+(
+)
+( )
+(
+)
+(
+)
+( )
+(
+)
+( )
+(
+)
+(
+)
+4
+4
+4
+4
+8
+273
+273
+     
+25.0
+3.969 10
+273
+273
+net
+c
+m
+m
+f
+m
+z
+z
+m
+m
+z
+z
+h
+α
+θ
+θ
+ε
+ε
+σ
+θ
+θ
+θ
+θ
+θ
+θ
+−
+
+
+=
+⋅
+−
++ Φ ⋅
+⋅
+⋅
+⋅
++
+−
++
+
+
+
+
+
+
+=
+⋅
+−
++
+⋅
+⋅
++
+−
++
+
+
+
+
+
+
+=== p118 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+118 
+118 
+1st case:  
+The flame is not impacting the ceiling 
+The gas temperature is calculated to: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+where: 
+z  
+is the height along the flame axis (2.7 m) 
+z0  
+is the virtual origin of the axis [m] 
+( )
+(
+)
+(
+)
+(
+)
+(
+)
+2 3
+5 3
+0
+5 3
+2 3
+2 5
+20
+0.25
+0.8
+900 °C
+     
+20
+0.25
+0.8
+4.74
+0.0052
+900 °C
+z
+Q
+z
+z
+Q
+Q
+θ
+−
+−
+=
++
+⋅
+⋅
+⋅
+−
+≤
+=
++
+⋅
+⋅
+⋅
+−
+⋅
+≤
+2 5
+2 5
+0
+1.02
+0.0052
+2.04
+0.0052
+z
+D
+Q
+Q
+= −
+⋅
++
+⋅
+= −
++
+⋅
+
+=== p119 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+119 
+119 
+2nd case:  
+The flame is impacting the ceiling 
+Net heat flux, if the flame is impacting the ceiling, is given by: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+4
+4
+4
+4
+8
+20
+273
+293
+     
+25.0
+20
+3.969 10
+273
+293
+net
+c
+m
+m
+f
+m
+m
+m
+h
+h
+h
+α
+θ
+ε
+ε
+σ
+θ
+θ
+θ
+−
+=
+−
+⋅
+−
+−Φ ⋅
+⋅
+⋅
+⋅
++
+−
+=
+−
+⋅
+−
+−
+⋅
+⋅
++
+−
+
+
+
+
+=== p120 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+120 
+120 
+2nd case:  
+The flame is impacting the ceiling 
+    The heat flux depends on the parameter y. For different 
+dimensions of y, different equations for determination of the 
+heat flux have to be used. 
+ 
+ 
+if y ≤ 0.30: 
+ 
+ 
+ 
+if 0.30 < y < 1.0: 
+ 
+ 
+ 
+if  y ≥ 1.0: 
+ 
+ 
+ 
+where: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+100,000
+h =
+
+136,300
+121,000
+h
+y
+=
+−
+⋅
+
+3.7
+15,000
+h
+y−
+=
+⋅
+
+'
+2.7
+'
+'
+2.7
+'
+h
+h
+r
+H
+z
+z
+y
+L
+H
+z
+L
+z
++
++
++
+=
+=
++
++
++
++
+
+=== p121 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+121 
+2nd case:  
+The flame is impacting the ceiling 
+The horizontal flame length is calculated by: 
+ 
+ 
+where: 
+ 
+ 
+The vertical position of the virtual heat source is 
+determined by: 
+ 
+if QD* < 1.0: 
+ 
+if QD* ≥ 1.0: 
+ 
+where: 
+'
+2.7
+'
+'
+2.7
+'
+h
+h
+r
+H
+z
+z
+y
+L
+H
+z
+L
+z
++
++
++
+=
+=
++
++
++
++
+(
+)
+(
+)
+(
+)
+(
+)
+0.33
+0.33
+*
+*
+2.9
+7.83
+2.7
+h
+H
+H
+L
+H
+Q
+H
+Q
+=
+⋅
+⋅
+−
+=
+⋅
+−
+(
+)
+(
+)
+*
+6
+2.5
+6
+2.5
+1.11 10
+1.11 10
+2.7
+H
+Q
+Q
+H
+Q
+=
+⋅
+⋅
+=
+⋅
+⋅
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+(
+)
+2 5
+2 3
+2 5
+2 3
+*
+*
+*
+*
+'
+2.4
+4.8
+D
+D
+D
+D
+z
+D
+Q
+Q
+Q
+Q
+=
+⋅
+⋅
+−
+=
+⋅
+−
+(
+)
+(
+)
+(
+)
+(
+)
+2 5
+2 5
+*
+*
+'
+2.4
+1.0
+4.8 1.0
+D
+D
+z
+D
+Q
+Q
+=
+⋅
+⋅
+−
+=
+⋅
+−
+(
+)
+(
+)
+*
+6
+2.5
+6
+2.5
+1.11 10
+1.11 10
+2.0
+D
+Q
+Q
+D
+Q
+=
+⋅
+⋅
+=
+⋅
+⋅
+
+=== p122 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+122 
+Temperature-time curve for the unprotected steel beam: 
+θ
+θ
+=
+=
+a,max
+,max
+   
+770 °C
+at t
+31.07 min
+Localised fire 
+Steel temperatures 
+2
+,
+1.78 10
+m
+a t
+m
+sh
+net
+m
+net
+a
+a
+a
+A
+V
+k
+h
+t
+h
+c
+c
+θ
+θ
+θ
+ρ
+−
+⋅
+=
++
+⋅
+⋅
+⋅∆=
++
+⋅
+⋅
+
+
+
+=== p123 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+123 
+Temperature-time curve for the unprotected steel beam: 
+θ
+θ
+=
+=
+a,max
+,max
+   
+770 °C
+at t
+31.07 min
+Localised fire 
+Steel temperatures 
+2
+,
+1.78 10
+m
+a t
+m
+sh
+net
+m
+net
+a
+a
+a
+A
+V
+k
+h
+t
+h
+c
+c
+θ
+θ
+θ
+ρ
+−
+⋅
+=
++
+⋅
+⋅
+⋅∆=
++
+⋅
+⋅
+
+
+
+=== p124 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+124 
+Excel Spreadsheet 
+Capafi 
+
+=== p125 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+125 
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+550
+600
+650
+700
+750
+800
+850
+0
+600
+1200
+1800
+2400
+3000
+3600
+4200
+4800
+5400
+6000
+6600
+7200
+Axis Title
+Axis Title
+Chart Title
+Pos 1
+Pos 2
+Pos 3
+Pos 4
+Pos 5
+Excel Spreadsheet 
+Capafi 
+
+=== p126 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+126 
+Worked examples of EN1991-1-2 
+ 
+Example of Application of buildings  
+calculated with  
+Natural Fire Safety Concept 
+
+=== p127 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+127 
+Braun Building in Crissier 
+Production of Medical Material 
+Switzerland 
+
+=== p128 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+128 
+BOBST Building in Lausanne 
+Offices + Production 
+Switzerland 
+
+=== p129 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+129 
+Congress centre of EPFL in Lausanne 
+Crédit Suisse / HRS / Richter-Dahl&Rocha 
+Switzerland 
+
+=== p130 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+130 
+France 
+© EADS Airbus 
+
+=== p131 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+131 
+France 
+Car park of Toulouse Blagnac Airport 
+
+=== p132 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+132 
+Greich Office Building in Liège 
+Belgium 
+
+=== p133 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+133 
+BARREIRO RETAIL PARK  
+Portugal 
+
+=== p134 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+134 
+Exhibition Center 
+Portugal 
+
+=== p135 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+135 
+IKEA shopping center in Lefkosia 
+Cyprus 
+
+=== p136 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+136 
+Heron Tower – Arup Fire London 
+United Kingdom 
+
+=== p137 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+137 
+Fonds du Logement, 17 rue de Hollerich à Luxembourg Ville 
+Shopping centre 
+Residential 
+Luxembourg 
+
+=== p138 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+138 
+Chambre de Commerce Luxembourg 
+Office Building 
+Luxembourg 
+
+=== p139 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+139 
+Dexia-Bil in Esch sur Alzette 
+Office Building 
+Luxembourg 
+
+=== p140 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+140 
+ArcelorMittal Office Building in Esch sur Alzette 
+Luxembourg 
+
+=== p141 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+141 
+ArcelorMittal Office Building in Esch sur Alzette 
+Luxembourg 
+
+=== p142 ===
+Workshop ‘Structural Fire Design of Buildings according to the Eurocodes’ – Brussels, 27-28 November 2012 
+142 
+142 
+Thank you for your attention 
+… QUESTIONS? 

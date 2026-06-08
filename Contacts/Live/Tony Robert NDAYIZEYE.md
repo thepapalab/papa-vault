@@ -17,6 +17,7 @@ tags: [tstr, structural, str-team, l6, junior]
 
 ## Hierarchy
 - **Level:** 6 — Junior
+- Role : Geotechnical Engineer
 
 ## Notes
 

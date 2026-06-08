@@ -17,6 +17,8 @@ tags: [tlni, lines]
 
 ## Hierarchy
 - **Reports to:** [[Sébastien WTORECK]]
+- Role : Engineer Lines
+- Level 8
 
 ## Notes
 

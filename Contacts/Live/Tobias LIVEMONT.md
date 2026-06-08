@@ -17,7 +17,7 @@ tags: [tstr, structural]
 
 ## Hierarchy
 - **Reports to:** [[Isabelle HEMERYCK]]
-
+- Role : CAD (Drafter)
 ## Notes
 
 ## Last Contact

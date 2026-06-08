@@ -21,6 +21,7 @@ tags:
 - **Email:** Eric.SACRE@tucrail.be
 - **Mobile:** +32 476202173
 - **Department:** Project Delivery (T-PJD)
+- Senior Construction Contract Manager
 
 ## Projects
 - **234403 Luttre** — Contract Manager (desicion maker)

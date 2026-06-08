@@ -17,6 +17,8 @@ tags: [tpjd, project]
 
 ## Hierarchy
 - **Reports to:** [[Sara VAN LOOCK]]
+- Project manager
+- Level: Expert
 
 ## Projects
 - **P785334 Lessines** — [[00 — Overview|Overview]]

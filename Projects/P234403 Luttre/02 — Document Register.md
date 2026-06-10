@@ -14,7 +14,7 @@ updated: 2026-06-04
 
 # P234403 — Document Register
 
-Inventory of all project documents. No status flags or issues — those belong in [[03 — Open Points]].
+Inventory of all project documents. No status flags or issues — those belong in [[Projects/P234403 Luttre/03 — Open Points]].
 
 ---
 
@@ -90,4 +90,4 @@ Inventory of all project documents. No status flags or issues — those belong i
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/P234403 Luttre/00 — Overview]] · [[Projects/P234403 Luttre/03 — Open Points]]

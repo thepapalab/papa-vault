@@ -44,11 +44,11 @@ In the context of the capacity saturation declaration at Brussels-Midi station, 
 
 ## Current Blocages
 
-No formal blocages — prefeasibility phase. See [[03 — Open Points]] for pending actions.
+No formal blocages — prefeasibility phase. See [[Projects/P312202 PX L96N/03 — Open Points]] for pending actions.
 
 ## Current Situation
 
-All 9 TUC RAIL actions and 4 I-CBE.35 actions tracked in [[03 — Open Points]]. Hard deadline 24/06/2026. Cost references from Bart De Pauw expected this week. François Lapy not yet contacted.
+All 9 TUC RAIL actions and 4 I-CBE.35 actions tracked in [[Projects/P312202 PX L96N/03 — Open Points]]. Hard deadline 24/06/2026. Cost references from Bart De Pauw expected this week. François Lapy not yet contacted.
 
 ## Key Milestones
 
@@ -61,10 +61,10 @@ All 9 TUC RAIL actions and 4 I-CBE.35 actions tracked in [[03 — Open Points]].
 
 ## Navigation
 
-- [[01 — History]] — Factual chronological record
-- [[02 — Document Register]] — Reference projects, study deliverables
-- [[03 — Open Points]] — Pending actions TUC RAIL + I-CBE.35
-- [[04 — Strategic Context]] — Project framing, vigilance points, communication protocol
+- [[Projects/P312202 PX L96N/01 — History]] — Factual chronological record
+- [[Projects/P312202 PX L96N/02 — Document Register]] — Reference projects, study deliverables
+- [[Projects/P312202 PX L96N/03 — Open Points]] — Pending actions TUC RAIL + I-CBE.35
+- [[Projects/P312202 PX L96N/04 — Strategic Context]] — Project framing, vigilance points, communication protocol
 - [[05 — Journal]] — Meeting records and dated entries
 - [[Projects/P312202 PX L96N/06 — Technical Reviews]] — Variant analysis, structural zones, cost estimation methodology
 

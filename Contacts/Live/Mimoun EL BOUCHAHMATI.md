@@ -17,9 +17,10 @@ tags: [tstr, structural, site-inspector]
 
 ## Hierarchy
 - **Reports to:** [[Isabelle HEMERYCK]]
+-  Site inspector
 
 ## Projects
-- **P785334 Lessines** — [[00 — Overview|Overview]] — Site Inspector
+- **P785334 Lessines** — [[Projects/P522001 Cuesmes/00 — Overview|Overview]] — Site Inspector
 
 ## Notes
 

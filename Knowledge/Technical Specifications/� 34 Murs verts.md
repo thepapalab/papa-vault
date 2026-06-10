@@ -1,0 +1,297 @@
+# � 34 : Murs verts
+
+Le pr�sent article d�finit d'une part, les murs verts � classiques �  sans
+
+caract�ristiques acoustiques particuli�res et d'autre part, les  murs  verts
+
+� absorbants � dont les caract�ristiques acoustiques sont pr�sent�es au � 3
+
+ci-apr�s.
+
+1. DESCRIPTION
+
+Les murs verts sont constitu�s d'�l�ments  en  b�ton  arm�  pr�fabriqu�s  et
+
+embo�t�s de mani�re � former une ossature tridimensionnelle  alv�olaire.  La
+
+forme de ces �l�ments est telle qu'un bon embo�tement est obtenu par  simple
+
+pose sans faire appel � des techniques particuli�res d'assemblage.
+
+Les  �l�ments  pr�fabriqu�s  sont  empil�s  et  imbriqu�s  entre  eux   avec
+
+insertion d'une feuille de caoutchouc  r�sistant  aux  diverses  actions  et
+
+d�formations dues au type de structure et aux charges ext�rieures.
+
+Les  mat�riaux  et  assemblages  ainsi  que  les  accessoires  doivent  �tre
+
+insensibles aux actions  chimiques  et  organiques  de  m�me  qu'aux  agents
+
+m�t�orologiques (ensoleillement, intemp�ries et gel).
+
+En vue frontale, la surface apparente de b�ton ne d�passe pas  70  %  de  la
+
+surface totale du mur.
+
+Le vide compris entre les diff�rents  �l�ments  est  remblay�  au  moyen  de
+
+terres susceptibles d'�tre compact�es � 95 % OPN (voir � 2.2. ci-apr�s).
+
+La zone frontale destin�e � �tre plant�e est remblay�e au  moyen  de  terres
+
+v�g�tales (substrat) sur une profondeur minimale de 25 cm mesur�e  �  partir
+
+de la face du parement.
+
+Les alv�oles sont  ensuite  garnies  d'un  ensemble  diversifi�  de  plantes
+
+appropri�es,  y  compris  des  arbrisseaux  r�sistant  aux  intemp�ries   et
+
+assurant une couverture de feuillage d'aspect et  de  tons  vari�s  tout  au
+
+long de l'ann�e.
+
+Les murs verts sont conformes � la norme produit  EN  14388  (marquage  CE),
+
+qui englobe les performances acoustiques (EN  1793),  les  performances  non
+
+acoustiques (EN 1794) et les performances � long terme (EN 14389).
+
+2-1. BETON ARME
+
+B�ton de classe C 40/50
+
+Armatures BE 400 S ou BE  500  S  dont  la  densit�  minimale  des  �l�ments
+
+pr�fabriqu�s est �gale � 50 kg/m�.
+
+Les terres de remblai � mettre en ?uvre entre les �l�ments  pr�fabriqu�s  et
+
+� l'arri�re du mur sont fournies par l'adjudicataire et sont constitu�es  de
+
+sols sableux, sables peu limoneux  et  sables  peu  argileux  r�pondant  aux
+
+crit�res du paragraphe C.1.2. "Sols pour remblais"  du  cahier  des  charges
+
+CCT 2000.
+
+Ces terres seront compact�es � 95 % OPN par couches de 30 cm maximum.
+
+2-3. Substrat
+
+Le substrat � mettre en  ?uvre  pour  les  plantations  sera  compos�  comme
+
+suit :
+
+1/3 de tourbe horticole blonde ;
+
+2/3 de terre arable r�pondant aux prescriptions d�crites ci-apr�s ;
+
+A cette composition  du  substrat,  on  ajoutera  un  m�lange  de  polym�res
+
+hydrophiles (poudre  et  granul�s),  destin�  �  augmenter  la  capacit�  de
+
+r�tention d'eau du substrat. Ce m�lange de polym�res sera homologu�  par  le
+
+Minist�re  de  l'Agriculture  et  employ�  selon  les  doses  et   modalit�s
+
+recommand�es par le fabricant.
+
+La terre arable utilis�e dans la composition  du  substrat  doit  satisfaire
+
+aux exigences �nonc�es ci-dessous (terre v�g�tale) :
+
+D�finition de la terre v�g�tale
+
+Par terre v�g�tale, il faut  comprendre  un  sol  qui  doit  satisfaire  aux
+
+exigences suivantes avant que les amendements y soient ajout�s.
+
+La texture de la terre v�g�tale contient du point de vue granulom�trique :
+
+maximum 82,5 % de sable ;
+
+maximum 25 % d'argile ;
+
+une proportion de limon variant entre 15 et 85 %.
+
+Cela signifie que les textures du  sol  "argileux  lourd"  ou  "sableux"  ne
+
+peuvent �tre accept�es.
+
+v�g�tale est refus�e et remplac�e aux frais de l'adjudicataire,  par  de  la
+
+terre qui satisfait aux exigences mentionn�es.
+
+La teneur en humus varie selon la texture et contient au minimum :
+
+sol limono ou argilo-sableux : 4,3 % ;
+
+sol sablo-limoneux           : 2,6 % ;
+
+sol argileux                 : 3,4 %.
+
+La teneur en humus de la terre v�g�tale  est  d�termin�e  selon  la  m�thode
+
+WALKEY-BLACK.
+
+Si l'analyse de l'humus r�v�le un �cart  inf�rieur  �  1  %,  la  diff�rence
+
+pourra �tre compens�e par un apport de 100 L de tourbe horticole par  m�  de
+
+terre et 10 kg d'engrais organique contenant au moins 5N, 6P, 7K.
+
+La tourbe et la terre seront intimement m�lang�es.
+
+Si l'analyse r�v�le un �cart de plus  de  1  %,  la  terre  est  refus�e  et
+
+remplac�e  aux  frais  de  l'adjudicataire  par  la   terre   conforme   aux
+
+prescriptions.
+
+L'acidit� de la terre v�g�tale varie et doit se situer, pour  le  pH  (H2O),
+
+dans les zones optimales suivantes :
+
+sol limono ou argilo-sableux : 5,5 - 6,4 ;
+
+sol sablo-limoneux           : 5,9 - 7,2 ;
+
+sol limoneux                 : 6,5 - 7,6 ;
+
+sol argileux                 : 6,5 - 8,0.
+
+Si l'acidit� s'�carte vers le bas jusqu'� 1 unit� pH, cet  �cart  doit  �tre
+
+corrig� par une quantit� d�termin�e de valeur neutralisante correspondant  �
+
+Ces  quantit�s  compensatoires  de  la  valeur  neutralisante  doivent  �tre
+
+livr�es sous forme de chaux agricole hydrat�e.
+
+La quantit� de valeur neutralisante par hectare en compensation  de  l'�cart
+
+de pH de 1 s'�l�ve, par 0,1 unit� pH � :
+
+260 kg - sol limono et argilo-sableux ;
+
+325 kg - sol sablo-limoneux ;
+
+350 kg - sol limoneux ;
+
+400 kg - sol argileux.
+
+Un �cart n�gatif sup�rieur � 1 unit� de pH est refus�.
+
+La terre v�g�tale � livrer ne  peut  contenir  ni  pierres,  ni  racines  ou
+
+autres d�chets, ni aucun �l�ment phytotoxique.
+
+Le non-respect de cette exigence entra�ne le refus de la terre.
+
+La  prise  d'�chantillons  doit  avoir  lieu  contradictoirement   lors   de
+
+l'�pandage  de  la  terre  v�g�tale  et  avant  l'apport   d'un   quelconque
+
+amendement.
+
+La quantit� de terre de l'�chantillon doit repr�senter  le  plus  fid�lement
+
+Au total, un �chantillon de + 3 kg doit �tre  pr�lev�  et  divis�  en  trois
+
+parties  �gales  dont  l'une  reste  �  la  disposition   du   fonctionnaire
+
+dirigeant, une autre � la disposition de l'adjudicataire et  une  autre  est
+
+analys�e.
+
+L'analyse doit avoir lieu dans un laboratoire agr��.
+
+Pour les terrains en place, le nombre de pr�l�vements est de 20 par  hectare
+
+dans les trente premiers centim�tres du sol.
+
+Pour les terres mises en stock, le nombre de pr�l�vements est de 20 par  100
+
+m�.
+
+L'�chantillon � envoyer  pour  l'analyse  au  laboratoire  est  constitu�  �
+
+partir de 20 pr�l�vements apr�s m�lange homog�ne et quartage.
+
+2-4. Essences � utiliser pour plantations
+
+L'adjudicataire  assurera  la  v�g�talisation  du  mur  avec   des   plantes
+
+grimpantes depuis la base du mur et retombantes depuis son sommet.
+
+Les essences suivantes sont utilis�es (sauf en cas d'indications  contraires
+
+du m�tr�) :
+
+�pine-vinette : berberis ;
+
+millepertuis : hypericum;
+
+rosiers sarmenteux ;
+
+vigne vierge ;
+
+symphorine ;
+
+lyciet ;
+
+renou�e.
+
+L'adjudicataire garantit la reprise des plantations et proc�de apr�s  un  an
+
+au remplacement des plants morts.
+
+Les caract�ristiques d'absorption acoustique du mur vert sont  �valu�es  par
+
+un  laboratoire  agr��  selon  la  norme  CEN/TS/1793-5  � Dispositifs  de
+
+r�duction  du  bruit  du  trafic  routier  -   M�thode   d'essai   pour   la
+
+d�termination de la performance acoustique -  Partie  4 :  Caract�ristiques
+
+intrins�ques relatives aux valeurs in situ de la r�flexion acoustique et  de
+
+l'isolation aux bruits a�riens �.
+
+L'indice d'�valuation de la performance de  r�flexion  acoustique  DLRI  est
+
+obtenu en pond�rant les indices de r�flexion individuels suivant le  spectre
+
+sonore d�fini dans la norme EN 1793-3 � Partie 3 : Spectre sonore normalis�
+
+de la circulation �. Cet indice est d�fini par la formule suivante :
+
+[pic]
+
+O�     Lj :   valeur,  par  tiers  d'octave,  du  niveau   de   r�f�rence,
+
+correspondant au spectre sonore  normalis�  de  la  circulation,
+
+pour la bande j (suivant EN 1793-3) ;
+
+RIj :      indice de r�flexion pour la  bande  de  tiers  d'octave  j
+
+d�fini dans CEN/TS/1793-5.
+
+De plus, cet  indice  est  �galement  �valu�  en  utilisant  le  spectre  de
+
+pond�ration TGV (selon la NBN S 01-009) repris ci-dessous :
+
+Fr�quence [Hz]2002503154005006008001000Lj TGV-20.4-18.7-17.7-17.2-15.9-13.7-11.4-9.6Fr�quence [Hz]1250160020002500315040005000Lj TGV-9.5-9.4-9.6-8.3-9.4-12.7-17.7
+
+Pour les murs verts absorbants, cet indice doit s'�lever au minimum � 5 dB en spectre routier et � 6 dB en spectre TGV.
+
+Aucune caract�ristique acoustique n'est demand�e pour les murs verts classiques.
+
+Les �l�ments constitutifs des murs verts (type et dimensions) doivent �tre �tudi�s et d�finis par l'adjudicataire qui remettra une note de calculs justificative � l'approbation du fonctionnaire dirigeant.
+
+Les frais d'�tudes, de certification ainsi que toutes les prestations d�crites ci-dessus sont � inclure dans les prix unitaires du m�tr�.
+
+Code de mesurage : Le volume de murs verts (b�ton pr�fabriqu� + remplissage) port� en compte au m�tr� correspond au volume repr�sent� sur les plans d�pos�s (poids volumique moyen : 19 kN/m�). Les suppl�ments en volume, propres � la g�om�trie m�me des �l�ments utilis�s, ne seront pas port�s en compte.

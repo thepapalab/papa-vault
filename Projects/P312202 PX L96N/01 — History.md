@@ -28,4 +28,4 @@ Short factual record. Reverse chronological. No reasoning — only what happened
 
 *Entries are never deleted or edited after writing. History is append-only.*
 
-Links: [[00 — Overview]] · [[05 — Journal]]
+Links: [[Projects/P312202 PX L96N/00 — Overview]] · [[05 — Journal]]

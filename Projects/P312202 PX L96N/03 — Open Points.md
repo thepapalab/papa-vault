@@ -97,4 +97,4 @@ Selected variant + associated cost estimate.
 
 ---
 
-Links: [[00 — Overview]] · [[Projects/P312202 PX L96N/06 — Technical Reviews]] · [[05 — Journal]]
+Links: [[Projects/P312202 PX L96N/00 — Overview]] · [[Projects/P312202 PX L96N/06 — Technical Reviews]] · [[05 — Journal]]

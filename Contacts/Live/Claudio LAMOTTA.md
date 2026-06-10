@@ -19,7 +19,9 @@ tags: [tstr, structural, str-team]
 ## Projects
 - **Luttre 234403** — Site leader
 
-Site leader
+## Hierarchy
+- **Reports to:** [[Isabelle HEMERYCK]]
+- Role: Site leader
 
 ## Notes
 

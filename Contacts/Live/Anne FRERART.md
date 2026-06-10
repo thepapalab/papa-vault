@@ -17,11 +17,12 @@ tags: [tstr, structural, str-team, senior, l8]
 
 ## Hierarchy
 - **Reports to:** [[François LAPY]]
+- Role: Senior Design Engineer
 - **Level:** 8 — Senior
 
 ## Projects Involved
 
-- **P785334 Lessines** — [[00 — Overview|Overview]] — Verificator (Level 2)
+- **P785334 Lessines** — [[Projects/P522001 Cuesmes/00 — Overview|Overview]] — Verificator (Level 2)
 
 ## Notes
 

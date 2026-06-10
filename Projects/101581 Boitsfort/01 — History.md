@@ -8,16 +8,23 @@ role: Ingénieur structures — revue technique bardage ventilé
 client: Infrabel
 contractor: Equans / De Raedt Ivan / Etanco-Marcovis
 status: active
-tags: [P101581, boitsfort, history]
-updated: 2026-06-04
+tags:
+  - P101581
+  - boitsfort
+  - history
+updated: 2026-06-09
 ---
 
 # P101581 — History
+
 
 Short factual record. Reverse chronological. No reasoning — only what happened and when.
 
 ---
 
+- 2026-06-09 — Nicolas drafts position for the meeting (not yet sent): available 18/06 & 19/06; FR/EN only, Dutch needs translation. Holds TF-2100 refusal and TF-2101 accepté-avec-remarques; remarks framed as CSC/Eurocode compliance, not administration.
+- 2026-06-09 — Raphaëlle replies internally: available 15/06 (≥10h), 18/06, 19/06; questions need for a visio since outstanding administration is already clear in writing.
+- 2026-06-08 — Equans (Tim Witvoet) requests a (preferably live) meeting, calls certain remarks "buitensporig" (excessive). Lists three further items for a complete dossier: adapted/new plans all buildings, re-sealing of gevelfolie perforations at NU5, druipneus above ventilation grilles.
 - 2026-06-04 — Vault restructured to standard 00–06 format per _Projects_Rules.md.
 - 2026-06-04 — Six blocking findings (A–F) synthesized in [[Projects/101581 Boitsfort/06 — Technical Reviews]]. Formal response to Equans in preparation.
 - 2026-05-04 — TF-2100 v4.0, TF-2101 v2.0, UP-4044 v2.0 received via Hermes. Technical review initiated by Nicolas.
@@ -31,4 +38,4 @@ Short factual record. Reverse chronological. No reasoning — only what happened
 
 *Entries are never deleted or edited after writing. History is append-only.*
 
-Links: [[00 — Overview]] · [[05 — Journal]]
+Links: [[Projects/101581 Boitsfort/00 — Overview]] · [[05 — Journal]]

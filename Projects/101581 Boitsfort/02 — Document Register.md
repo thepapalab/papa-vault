@@ -8,13 +8,19 @@ role: Ingénieur structures — revue technique bardage ventilé
 client: Infrabel
 contractor: Equans / De Raedt Ivan / Etanco-Marcovis
 status: active
-tags: [P101581, boitsfort, documents, hermes, register]
-updated: 2026-06-04
+tags:
+  - P101581
+  - boitsfort
+  - documents
+  - hermes
+  - register
+updated: 2026-06-09
 ---
 
 # P101581 — Document Register
 
-Inventory of all project documents. No status flags or issues here — those belong in [[03 — Open Points]].
+
+Inventory of all project documents. No status flags or issues here — those belong in [[Projects/101581 Boitsfort/03 — Open Points]].
 
 Drawings location: `P:\P101\41_Project_581\06_Drawings_last_contractual_version_CDL`
 
@@ -38,6 +44,9 @@ Drawings location: `P:\P101\41_Project_581\06_Drawings_last_contractual_version_
 | **Marcovis rekennota project-specific** | High | Project-specific note (if 12/05/2026 version exists distinct from 12/05/2025 template) |
 | **ETA 19/0245** | BLOCKING | FM-X3 10/10×80 plug product approval |
 | **Marcovis system approval post-DIBt** | High | Confirmation after DIBt Z-9.1-897 expiry (23 July 2025) |
+| **Adapted / new gevelplannen (all 11 buildings)** | High | Promised by Equans 08/06/2026 — edge zones, spacings, openings (supersedes/merges with gevelplannen + IP3371 below) |
+| **Gevelfolie re-waterproofing detail (NU5)** | High | Promised by Equans 08/06/2026 — re-seal perforations from April workmanship defects (Open Point I) |
+| **Druipneus detail above ventilation grilles** | High | Promised by Equans 08/06/2026 — drip edge above vents (Open Point J) |
 | **TF isolant mur** | Medium | Wall insulation — referenced in UP-4044 |
 | **TF clous isolant** | Medium | Insulation nails |
 | **TF film façade** | Medium | Façade film |
@@ -89,8 +98,11 @@ Drawings location: `P:\P101\41_Project_581\06_Drawings_last_contractual_version_
 | ETA 19/0245 for FM-X3 plug | — | — | Outstanding |
 | Missing TFs (wall insulation, etc.) | Implied in UP-4044 | — | Outstanding |
 | Gevelplannen & IP3371 details | — | — | Outstanding |
+| Adapted / new plans all buildings | 08/06/2026 (Equans) | — | Outstanding |
+| Gevelfolie re-waterproofing detail (NU5) | 08/06/2026 (Equans) | — | Outstanding |
+| Druipneus detail above ventilation grilles | 08/06/2026 (Equans) | — | Outstanding |
 | As-built concrete class & AAC type | — | — | Outstanding |
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/101581 Boitsfort/00 — Overview]] · [[Projects/101581 Boitsfort/03 — Open Points]]

@@ -78,4 +78,4 @@ These positions are technically founded, team-validated, and must not be reopene
 ---
 
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/P785334 Lessines/00 — Overview]] · [[Projects/P785334 Lessines/03 — Open Points]]

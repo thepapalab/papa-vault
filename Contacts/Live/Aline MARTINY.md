@@ -17,9 +17,10 @@ tags: [tpjd, administrative]
 
 ## Hierarchy
 - **Reports to:** [[Sara VAN LOOCK]]
+- Role: Administrator
 
 ## Projects
-- **P785334 Lessines** — [[00 — Overview|Overview]] — Administrative
+- **P785334 Lessines** — [[Projects/P522001 Cuesmes/00 — Overview|Overview]] — Administrative
 
 ## Notes
 

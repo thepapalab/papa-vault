@@ -1,0 +1,19 @@
+---
+titre: CONTRACT OFFICER
+tags: [fonction, TUC-RAIL]
+type: description-de-fonction
+---
+
+# CONTRACT OFFICER
+
+> Prendre en charge la rédaction, le suivi et le contrôle des contrats des marchés publics, dans le respect des règles et procédures en vigueur afin de conclure des contrats qui répondent aux exigences de qualité et d'efficacité de l'organisation. Veiller au respect de la législation, de la réglementation et des systèmes de management concernant la qualité, le bien-être, la sécurité et la protection de l'environnement.
+
+## Critères différenciateurs par niveau
+
+| Domaine | NIVEAU 6 | NIVEAU 7 |
+| --- | --- | --- |
+| DIPLÔME ET EXPÉRIENCE | Master 1-3 ans d'expérience (ou équivalent par expérience). | Production<br>- Rédiger et assurer le suivi des contrats de services et de fournitures en tenant compte des orientations du management et de la réglementation en vigueur.<br>- Rédiger les contrats de façon complète et structurée dans le respect des procédures de gestion et des priorités fixées, deadlines et engagements.<br>- Appliquer le contrôle des risques lors de la rédaction des contrats.<br>- Procéder aux négociations nécessaires pour aboutir à un contrat optimal pour les différentes parties.<br>- Assurer le suivi et le contrôle de l’exécution du contrat.<br>- Agir de manière proactive en support du Fonctionnaire Dirigeant.<br>- Procéder à une évaluation permanente des contrats en cours.<br>- Mettre en oeuvre et diffuser les bonnes pratiques en matière d'achats durables.<br>- Etc. |
+| ACTIVITÉS DANS LA DISCIPLINE | Offrir de l'input et traduire dans le cahier des charges les prescriptions techniques ou<br>contractuelles à faire respecter par les entrepreneurs et/ou fournisseurs compte tenu de<br>la règlementation en vigueur. | Communication<br>- Engager et Maintenir la communication entre les différentes parties concernées de façon claire et efficace.<br>- Prendre les initiatives nécessaires pour contacter les stakeholders afin d’obtenir les informations nécessaires à la gestion des dossiers/contrats.<br>- Entretenir des contacts réguliers avec les différentes parties internes (ex: Program Manager, Design Engineer) et/ou externes concernées et les opérateurs économiques.<br>- Informer le Coordinator et/ou Manager des dossiers/contrats complexes et l’avertir en cas de problème.<br>- Etc. |
+| INNOVATION CONSEILS ET RECOMMANDATIONS | Intègrer les conseils et recommandations sur des questions liées à la matière.<br>Proposer proactivement des pistes d'amélioration concernant les procédures et<br>processus d'application dans son domaine d'activité. | Planning & Reporting<br>- Réaliser le planning individuel et collectif de production dans les délais et les standards imposés.<br>- Assurer les reportings et synthèses vers les divers responsables.<br>- Répondre aux demandes formulées dans les délais attendus.<br>- Rapporter toute dérive par rapport aux deadlines et aux exigences imposées.<br>- Assurer le suivi des heures assignées par projet pour en garantir la rentabilité.<br>- Etc. |
+| RELATIONS AVEC LES MEMBRES DE L'ÉQUIPE | Apporter un soutien aux collègues. | Se tenir à jour<br>Se tenir constamment informé des évolutions et développements dans son domaine de spécialité, la législation, la réglementation et les systèmes de management concernant la<br>qualité, le bien-être, la sécurité et la protection de l'environnement.<br>Maintenir à jour ses connaissances en fonction des évolutions en offrant un service qui repose en permanence sur des connaissances actualisées. |
+| CONTACT AVEC LES STAKEHOLDERS | Être un interlocuteur pour la matière et donner des conseils ciblés aux clients sur base de<br>son expertise ainsi que collaborer avec d'éventuels intervenants externes. | Master 3-5 ans d'expérience (ou équivalent par expérience). |

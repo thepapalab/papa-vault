@@ -1,0 +1,543 @@
+# Parach�vement  des  terrains :  terre
+
+ARTICLE TECHNIQUE  N�  2.7 -  Parach�vement  des  terrains :  terre
+
+v�g�tale et ensemencements
+
+Par terre v�g�tale, il faut  comprendre  un  sol  qui  doit  satisfaire  aux
+
+exigences suivantes avant que les amendements y soient ajout�s.
+
+La texture de la terre v�g�tale contient du point de vue granulom�trique :
+
+maximum 82,5 % de sable ;
+
+maximum 25 % d'argile ;
+
+une proportion de limon variant entre 15 et 85 %.
+
+Cela signifie que les textures du  sol  "argileux  lourd"  ou  "sableux"  ne
+
+peuvent �tre accept�es.
+
+v�g�tale est refus�e et remplac�e aux frais de l'adjudicataire,  par  de  la
+
+terre qui satisfait aux exigences mentionn�es.
+
+La teneur en humus varie selon la texture et contient au minimum :
+
+sol limono ou argilo-sableux : 4,3 % ;
+
+sol sablo-limoneux           : 2,6 % ;
+
+sol argileux                 : 3,4 %.
+
+La teneur en humus de la terre v�g�tale  est  d�termin�e  selon  la  m�thode
+
+WALKEY-BLACK.
+
+Si l'analyse de l'humus r�v�le un �cart  inf�rieur  �  1  %,  la  diff�rence
+
+pourra �tre compens�e par un apport de 100 L de tourbe horticole par  m�  de
+
+terre et 10 kg d'engrais organique contenant au moins 5N, 6P, 7K.
+
+La tourbe et la terre v�g�tale seront intimement m�lang�es.
+
+Si l'analyse r�v�le un �cart de plus  de  1  %,  la  terre  est  refus�e  et
+
+remplac�e  aux  frais  de  l'adjudicataire  par  la   terre   conforme   aux
+
+prescriptions.
+
+L'acidit� de la terre v�g�tale varie et doit se situer, pour  le  pH  (H2O),
+
+dans les zones optimales suivantes :
+
+sol limono ou argilo-sableux : 5,5 - 6,4 ;
+
+sol sablo-limoneux           : 5,9 - 7,2 ;
+
+sol limoneux                 : 6,5 - 7,6 ;
+
+sol argileux                 : 6,5 - 8,0.
+
+Si l'acidit� s'�carte vers le bas jusqu'� 1 unit� pH, cet  �cart  doit  �tre
+
+corrig� par une quantit� d�termin�e de valeur neutralisante correspondant  �
+
+Ces  quantit�s  compensatoires  de  la  valeur  neutralisante  doivent  �tre
+
+livr�es sous forme de chaux agricole hydrat�e.
+
+La quantit� de valeur neutralisante par hectare en compensation  de  l'�cart
+
+de pH de 1 s'�l�ve, par 0,1 unit� pH � :
+
+260 kg - sol limono et argilo-sableux ;
+
+325 kg - sol sablo-limoneux ;
+
+350 kg - sol limoneux ;
+
+400 kg - sol argileux.
+
+Un �cart n�gatif sup�rieur � 1 unit� de pH est refus�.
+
+La terre v�g�tale � livrer doit satisfaire  aux  exigences  mentionn�es  ci-
+
+dessus. De plus, elle ne peut contenir ni  pierres,  ni  racines  ou  autres
+
+d�chets, ni aucun �l�ment phytotoxique. Le  non-respect  de  cette  exigence
+
+entra�ne le refus de la terre.
+
+La  prise  d'�chantillons  doit  avoir  lieu  contradictoirement   lors   de
+
+l'�pandage  de  la  terre  v�g�tale  et  avant  l'apport   d'un   quelconque
+
+amendement.
+
+La quantit� de terre de l'�chantillon doit repr�senter  le  plus  fid�lement
+
+Au total, un �chantillon de + 3 kg doit �tre  pr�lev�  et  divis�  en  trois
+
+parties  �gales  dont  l'une  reste  �  la  disposition   du   fonctionnaire
+
+dirigeant, une autre � la disposition de l'adjudicataire et  une  autre  est
+
+analys�e. L'analyse doit avoir lieu dans un laboratoire agr��.
+
+Pour les terrains en place, le nombre de pr�l�vements est de 20 par  hectare
+
+dans les trente premiers centim�tres  du  sol.  Pour  les  terres  mises  en
+
+stock, le nombre de pr�l�vements est de  20  par  100  m�.  L'�chantillon  �
+
+envoyer  pour  l'analyse  au  laboratoire  est  constitu�  �  partir  de  20
+
+pr�l�vements apr�s m�lange homog�ne et quartage. Le poids  de  ceux-ci  peut
+
+Les terres v�g�tales proviennent soit du d�capage des  zones  (voir  article
+
+technique  Terrassements),  soit  de  la  fourniture   de   l'adjudicataire.
+
+G�n�ralement la terre v�g�tale excav�e est entass�e entre temps. La  hauteur
+
+de ces tas ne peut d�passer 3 m. Ces tas de terre v�g�tale ne  peuvent  �tre
+
+compact�e,  mais  doivent  �tre  profil�  suivant  une  surface  nette  afin
+
+d'�viter toute eau de pluie stagnante.
+
+Pour pr�venir les perturbations de la structure, le mat�riau  ne  peut  �tre
+
+trait� par temps de pluie, et aussi peu que  possible  �tre  mont�  par  des
+
+engins de chantier pour l'�pandage.
+
+Avant tout �pandage, l'adjudicataire informe le fonctionnaire  dirigeant  de
+
+l'origine des terres qu'il compte utiliser et sollicite son approbation.
+
+Tous les talus de terrassement en mat�riaux meubles ou  de  merlons  doivent
+
+�tre  rev�tus  de  terre  v�g�tale,  sauf  d�rogation  stipul�e  au  dossier
+
+d'adjudication ou sur ordre du fonctionnaire dirigeant.
+
+Les  rev�tements  en  terre  v�g�tale  sont  ex�cut�s  dans  les  conditions
+
+suivantes :
+
+les talus sont, au pr�alable, stri�s  ou  griff�s  horizontalement  ou  bien
+
+munis de dispositifs sp�ciaux, tels que grillages, fascines, etc.,  destin�s
+
+� les fixer ;
+
+la terre v�g�tale  doit  �tre  bris�e  tr�s  menue,  purg�e  avec  soin  des
+
+pierres, racines et herbes avant son �pandage ; sa teneur en eau doit  �tre
+
+compatible avec sa r�utilisation ;
+
+au fur et � mesure de cet �pandage, la terre v�g�tale doit  �tre  l�g�rement
+
+compact�e (terrains horizontaux ou terrains faiblement  inclin�s).  Sur  les
+
+talus, la terre v�g�tale doit �tre r�pandue si possible  avec  un  bulldozer
+
+et bien de telle mani�re qu'� la fin du travail  il  subsiste  des  rainures
+
+horizontales sur la terre  v�g�tale  plac�e  (donc  le  dernier  passage  du
+
+bulldozer se d�roule perpendiculairement au talus). Les rainures  verticales
+
+provoquent l'affouillement de la terre v�g�tales (et  de  la  semence).  Les
+
+talus laiss�s lisses compliquent les  travaux  d'ensemencement  et  ont  une
+
+influence n�gative sur la fixation du m�lange de semence.  Dans  ce  cas  de
+
+figure, il peut �tre n�cessaire d'augmenter  le  dosage  d'�mulsion  fixante
+
+(voir ensemencement hydraulique). Tous les suppl�ments pour  le  reprofilage
+
+de la  terre  v�g�tale  r�pandue,  l'augmentation  de  la  dose  d'�mulsions
+
+fixantes, le r�ensemencement etc.... sont � charge de l'adjudicataire.
+
+Le rev�tement, apr�s tassement, ne doit pas avoir une  �paisseur  inf�rieure
+
+� dix centim�tres (10 cm), mesur�s perpendiculairement au talus.  En  aucun
+
+cas, cette �paisseur ne doit  d�passer  vingt  centim�tres  (20  cm).  Toute
+
+sur�paisseur doit �tre �vacu�e. La  non-observation  de  cette  prescription
+
+risque de cr�er des glissements de talus dont la reprise  est  �  charge  de
+
+l'adjudicataire.
+
+L'ex�cution des rev�tements en  terre  v�g�tale  est  suspendue  pendant  la
+
+pluie et n'est reprise qu'avec l'autorisation du fonctionnaire dirigeant.
+
+3. ENSEMENCEMENTS
+
+Les surfaces planes, les talus et les quarts de c�nes jouxtant les  ouvrages
+
+feront l'objet de travaux d'ensemencement tel que d�crit ci apr�s.
+
+Des plantations sp�cifiques sont susceptibles  d'�tre  r�alis�es  localement
+
+dans le cadre d'une entreprise s�par�e.
+
+Sauf prescriptions particuli�res, le gazonnement des talus et  des  terrains
+
+se fera par ensemencement.
+
+Cet ensemencement se fera de mani�re  traditionnelle  ou  hydraulique  selon
+
+les modalit�s  de  mise  en  ?uvre  d�crites  ci-apr�s.  Sauf  prescriptions
+
+particuli�res, l'adjudicataire  choisira  la  technique  d'ensemencement  la
+
+plus ad�quate en fonction des conditions locales,  notamment  la  pente  des
+
+terrains  �  ensemencer,  pour  autant  qu'il  garantisse  la  r�ussite  des
+
+ensemencements.
+
+3.1. Ensemencement traditionnel
+
+Les gazonnements par semis seront ex�cut�s sur une couche  d'environ  15  cm
+
+d'�paisseur moyenne de terre v�g�tale provenant des d�capages (voir  article
+
+technique � Terrassements �). La mise en ?uvre de la  terre  v�g�tale  est
+
+comprise dans un poste s�par� du m�tr�.
+
+Un apport de 500 kg/ha d'engrais 18/3/3 est pr�vu dans le cadre des  travaux
+
+d'ensemencement.
+
+La  chaux  et  les  amendements  calcaires  sont  r�pandus   avant   labour.
+
+L'�pandage est effectu� m�caniquement et aussi  r�guli�rement  que  possible
+
+sur toute la surface � traiter.
+
+Les racines de toutes les plantes jug�es ind�sirables par  le  fonctionnaire
+
+dirigeant sont arrach�es et extirp�es. Le sol est b�ch� ou labour�  sur  une
+
+profondeur de 20 cm au moins, de fa�on � enfouir  la  couche  sup�rieure  du
+
+terrain et le fumier �ventuel et � relier la couche de  terre  v�g�tale  aux
+
+terres moins propres � la culture.
+
+Les engrais  organiques  ou  chimiques  et  les  amendements  sont  m�lang�s
+
+uniform�ment � la  couche  superficielle  par  des  extirpages  crois�s.  Le
+
+disquage ou fraisage peut �tre admis.
+
+Les hersages et roulages visant au finissage de la pr�paration du  sol  sont
+
+ex�cut�s imm�diatement avant le semis jusqu'� obtention, en  surface,  d'une
+
+terre fine r�guli�rement nivel�e.
+
+La surface �  ensemencer  est  d�barrass�e  des  mottes,  mauvaises  herbes,
+
+d�bris de toute esp�ce et pierrailles de plus de 3 cm de diam�tre.
+
+En aucun cas, les surfaces � ensemencer ne peuvent �tre travaill�es  lorsque
+
+la terre est gel�e ou d�tremp�e.  L'ensemencement  est  effectu�  par  temps
+
+calme, � la vol�e ou m�caniquement,  de  fa�on  �  obtenir  une  r�partition
+
+uniforme des diverses esp�ces et vari�t�s prescrites.
+
+Les semences sont l�g�rement recouvertes de terre.
+
+Le semis est cylindr� au moyen d'un rouleau conforme au � 3.3.2.ci  apr�s ;
+
+les bords sont dam�s au battoir. Cette op�ration ne peut �tre  r�alis�e  que
+
+lorsque le sol n'adh�re pas au rouleau ou au battoir.
+
+Ces  travaux  font  l'objet  du  poste  � Engazonnement  par  ensemencement
+
+traditionnel (semis) �.
+
+3.2. Ensemencement hydraulique
+
+L'engazonnement par ensemencement hydraulique consiste  �  r�pandre  sur  la
+
+surface � engazonner, au moyen d'un canon hydraulique, un  liquide  plus  ou
+
+moins �pais compos� d'eau, de  semences,  d'un  am�liorateur  de  sol,  d'un
+
+fixateur et d'un engrais ainsi que, le  cas  �ch�ant,  d'un  amendement.  La
+
+fourniture des mati�res et les doses � utiliser sont les suivantes :
+
+M�langes de semence et quantit�s :
+
+. Voir paragraphe 3.3.7
+
+Amendement organique et engrais :
+
+. Un m�lange actif rapidement de  fumier  organique  -  chimique  avec  18%
+
+d'azote, dont 5% d'azote li� organique ;
+
+. Formule : 20/3/3 ;
+
+. Quantit� : 500 kg/ha.
+
+Tout autre produit propos� par l'adjudicataire est  soumis  �  l'approbation
+
+du fonctionnaire dirigeant.
+
+Paillis (ou Mulch) :
+
+.  Constitu�  d'une  quantit�  correcte  des  petites  �corces  tri�es  par
+
+longueur, r�alis�e par une vapeur aseptique. Le paillis ne peut  contenir
+
+des constituants susceptibles de nuire � la v�g�tation ;
+
+. Quantit� : min 1350 kg/ha.
+
+Tout autre produit propos� par l'adjudicataire est  soumis  �  l'approbation
+
+du fonctionnaire dirigeant.
+
+Fixateur :
+
+. A base de psylium ou d'un autre produit adapt� biod�gradable ;
+
+. Quantit� : � adapter en fonction du gradient d'inclinaison du talus et de
+
+la teneur en eau de la terre v�g�tale � ensemencer : min. 10 kg/ha  pour
+
+une inclinaison faible jusqu'� min. 50 kg/ha pour un talus 6/4 ;
+
+. En p�riode humide, un suppl�ment d'un polym�re  non  toxique  adapt�  est
+
+recommand�.
+
+Globalement,  l'adjudicataire  soumet  �  l'approbation   du   fonctionnaire
+
+dirigeant la  composition  du  liquide  (composants  et  densit�)  qui  sera
+
+projet� et garantit la r�ussite des travaux d'ensemencement.
+
+3.3. Clauses communes aux deux types d'ensemencement
+
+3.3.1. EPOQUE
+
+Les travaux d'ensemencement sont ex�cut�s  quand  le  temps  le  permet,  au
+
+printemps ou avant fin septembre, sauf pour la luzerne qui doit  �tre  sem�e
+
+� la mi-avril et quand la temp�rature de l'air  est  de  +  8�  C  au  moins
+
+(temp�rature mesur�e sous abri le matin � 1,50 m du sol).
+
+Le fonctionnaire dirigeant peut imposer des  dates  situ�es  en  dehors  des
+
+�poques fix�es ci-dessus, entre autres, en vue de  lutter  contre  l'�rosion
+
+superficielle (travaux de terrassement comportant le profilage  et  la  mise
+
+en ?uvre des terres v�g�tales).
+
+S'il  ne  peut  assurer  cet  ensemencement  imm�diatement,  l'adjudicataire
+
+prendra les mesures utiles pour garantir la stabilit�  des  talus  notamment
+
+par projection de fixateurs et de stabilisateurs  de  sols  ou  la  pose  de
+
+treillis anti-�rosion.
+
+L'adjudicataire garde la responsabilit� de  la  venue  du  gazon  et  de  la
+
+stabilit� du talus.
+
+3.3.2. ROULAGE
+
+Les roulages sont destin�s � provoquer le tallage  du  gazon,  l'�galisation
+
+et le tassement du terrain. Un cylindrage au moins, �  l'aide  d'un  rouleau
+
+ayant un nombre pair de segments et pesant  environ  150  kg  par  m�tre  de
+
+longueur de jante, est effectu� apr�s la premi�re coupe de l'herbe.
+
+3.3.3. COUPE DE L'HERBE
+
+La coupe de l'herbe a pour but de ramener la hauteur du tapis herbeux �  une
+
+hauteur de 5 cm. Apr�s la coupe, le gazon pr�sente un aspect propre  et  une
+
+hauteur uniforme. Le produit des coupes est r�tel� et imm�diatement �vacu�.
+
+Dans l'entreprise d'�tablissement  de  gazon  (gazonnement  par  plaques  ou
+
+ensemencement) sont comprises dans les prix remis.
+
+Les coupes d'installation ont lieu lorsque  le  tapis  herbeux  atteint  une
+
+hauteur de 10 cm au minimum et 15 cm au maximum. Les coupes sont  pratiqu�es
+
+de mani�re � ne pas arracher les jeunes plantes.
+
+3.3.3.2. COUPES D'ENTRETIEN
+
+Les  coupes  d'entretien  (2)  concernent  des   surfaces   engazonn�es   ou
+
+ensemenc�es depuis plus de six mois. La premi�re  intervient  avant  la  fin
+
+juin.  Elles  concernent  les  surfaces  d�sign�es  par   le   fonctionnaire
+
+dirigeant et font l'objet d'un poste s�par� du m�tr� : � Coupes d'entretien
+
+(2 coupes) �. La r�mun�ration au m�tre carr�  englobe  les  deux  coupes  �
+
+pr�voir sur chaque m�tre carr� ensemenc�.
+
+Le fumier, les engrais et amendements sont r�partis en fonction des  besoins
+
+locaux.
+
+Jusqu'� la seconde coupe d'installation des ensemencements,  l'adjudicataire
+
+proc�de r�guli�rement, avant leur floraison,  �  l'enl�vement  des  v�g�taux
+
+nuisibles, qui croissent  dans  les  surfaces  de  gazon ;  il  �vacue  les
+
+d�chets, dans les 48 heures, vers une d�charge de classe appropri�e.
+
+Apr�s cette seconde coupe, la destruction ou la  lutte  contre  des  animaux
+
+susceptibles de nuire aux ensemencements, sont � charge de  l'adjudicataire.
+
+L'adjudicataire  effectue,  �  cet  effet,   toutes   les   prestations   et
+
+fournitures n�cessaires. Les proc�d�s � mettre en ?uvre  �  titre  pr�ventif
+
+ou de destruction sont soumis � l'agr�ment  du  fonctionnaire  dirigeant  et
+
+sont conformes � la l�gislation en vigueur en  la  mati�re.  L'adjudicataire
+
+garde l'enti�re responsabilit� de leur emploi.
+
+3.3.6. MAINTENANCE
+
+L'adjudicataire prend toutes les mesures voulues pour �viter  l'�rosion  des
+
+surfaces gazonn�es et ensemenc�es.
+
+Les rigoles, coul�es, orni�res  ou  autres  d�nivellations,  provoqu�es  par
+
+l'�rosion  ou  par  toute  autre  raison,  sont  combl�es  imm�diatement  et
+
+gazonn�es ou ensemenc�es � nouveau.
+
+Toute la parcelle ou partie de parcelle dont la lev�e ou  la  reprise  n'est
+
+pas satisfaisante dans un d�lai de 30 jours � compter de la  date  du  semis
+
+ou de la pose des gazons, est ensemenc�e ou gazonn�e � nouveau aussit�t  que
+
+l'�poque et les conditions climatiques le  permettent.  L'adjudicataire  est
+
+tenu de retraiter � ses frais, avec le m�lange  prescrit,  les  emplacements
+
+o� la lev�e n'est pas r�guli�re, quelle que soit l'origine de ces lacunes.
+
+Les m�langes sont faits avec grand soin de mani�re � les rendre homog�nes.
+
+La qualit� du m�lange de semences doit respecter les exigences suivantes :
+
+Puret� : le m�lange de semence est constitu� de min. 95 % (% en  poids)  de
+
+sable pure ;
+
+Pouvoir germinateur (apr�s 14 jours) min. 90 % (max. 10 %  germes  anormales
+
+et de semences mortes)
+
+Sur  demande  du  fonctionnaire  dirigeant,  les  r�sultats  d'analyse  d'un
+
+laboratoire reconnu doivent �tre fournis afin  de  v�rifier  si  le  m�lange
+
+satisfait aux exigences.
+
+Le m�lange des semences est constitu� d'esp�ces et de vari�t�s  parfaitement
+
+appropri�es et adapt�es � la nature du terrain auquel elles sont destin�es.
+
+D'autres m�langes de semences comme  les  types  de  composition  ci-dessous
+
+doivent �tre pr�sent�s au fonctionnaire dirigeant pour approbation.
+
+La composition ordinaire pour l'ensemencement est la suivante :
+
+24. 20 % Poa pratensis (P�turin des pr�s) ;
+
+26. 15 % Agrostis tenuis (Agrostis commun) ;
+
+Ce m�lange est sem� � une densit� de 200 kg/ha.
+
+Pour l'obtention d'un gazon fleuri, la composition type du  m�lange  est  la
+
+suivante :
+
+31. Gramin�es de base (70%)            Quantit�s
+
+37. L�gumineuses de base (10%)
+
+40. Dicotyl�es (20%)
+
+------
+
+2 kg/are   ou 200 kg/ha
+
+La fourniture des semences r�pond  aux  conditions  l�gales  fix�es  par  la
+
+l�gislation en vigueur en la mati�re. La garantie  du  service  Mat�riel  de
+
+Reproduction  du  Minist�re  des  Classes  Moyennes  et   de   l'Agriculture
+
+accompagne chaque livraison.
+
+Pas d'application.

@@ -44,7 +44,7 @@ Deficiencies are presented as **compliance requirements per CSC / PTR CE01**, no
 
 ## "Announced ≠ Delivered"
 
-Track document commitments separately from actual delivery. See [[02 — Document Register]] / "Announced ≠ Delivered" tracker.
+Track document commitments separately from actual delivery. See [[Projects/101581 Boitsfort/02 — Document Register]] / "Announced ≠ Delivered" tracker.
 
 ---
 
@@ -113,4 +113,4 @@ Concise, action-list format. Topics: concrete verification, AAC specification, a
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/101581 Boitsfort/00 — Overview]] · [[Projects/101581 Boitsfort/03 — Open Points]]

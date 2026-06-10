@@ -139,7 +139,7 @@ With reduced lever arm d', M_Rd = A_s × f_yd × d' is reduced by the ratio d'/d
 
 ### Status
 
-Stop-work order issued 17/02/2026. Any submission including Zone 2 elements must demonstrate structural stability with reduced lever arms. See [[03 — Open Points]] NC-1.
+Stop-work order issued 17/02/2026. Any submission including Zone 2 elements must demonstrate structural stability with reduced lever arms. See [[Projects/P785334 Lessines/03 — Open Points]] NC-1.
 
 ---
 
@@ -173,7 +173,7 @@ Double application results in a squared safety factor — unconservatively desig
 
 ## HERMES Dossier Review — 04/06/2026 (inventory NCs)
 
-Inventory-level findings on the 163-document dossier. Review strategy, effort estimate, and element priority are in [[03 — Open Points]] (NC-D).
+Inventory-level findings on the 163-document dossier. Review strategy, effort estimate, and element priority are in [[Projects/P785334 Lessines/03 — Open Points]] (NC-D).
 
 - **NC-D1:** XLSX bordereaux without corresponding PDF (EF30, EF31&32) — cannot be approved.
 - **NC-D2:** Index inconsistencies between coffrage and ferraillage plans (Él. 30: EC.B/EF.A; Él. 124, 125: EC.A/EF.0) — ferraillage potentially based on obsolete geometry.
@@ -183,4 +183,4 @@ Inventory-level findings on the 163-document dossier. Review strategy, effort es
 
 ---
 
-Links: [[00 — Overview]] · [[02 — Document Register]] · [[03 — Open Points]]
+Links: [[Projects/P785334 Lessines/00 — Overview]] · [[Projects/P785334 Lessines/02 — Document Register]] · [[Projects/P785334 Lessines/03 — Open Points]]

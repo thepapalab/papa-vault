@@ -98,10 +98,10 @@ Structure executed. CTL of 01–03/05/2026 completed. Current phase: documentati
 
 ## Navigation
 
-- [[01 — History]] — Factual chronological record
-- [[02 — Document Register]] — HERMES tracking, statuses
-- [[03 — Open Points]] — Non-conformities and standing orders
-- [[04 — Strategic Context]] — Positions, communication strategy, normative framework
+- [[Projects/P785334 Lessines/01 — History]] — Factual chronological record
+- [[Projects/P785334 Lessines/02 — Document Register]] — HERMES tracking, statuses
+- [[Projects/P785334 Lessines/03 — Open Points]] — Non-conformities and standing orders
+- [[Projects/P785334 Lessines/04 — Strategic Context]] — Positions, communication strategy, normative framework
 - [[05 — Technical Reviews]] — Design decisions, concept evolution, technical notes
 
 ---

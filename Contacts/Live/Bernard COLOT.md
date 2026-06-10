@@ -17,9 +17,10 @@ tags: [tqhs, safety, css-r]
 
 ## Hierarchy
 - **Reports to:** [[Ilse FESTJENS]]
+- Role : QHSE Engineer
 
 ## Projects
-- **P785334 Lessines** — [[00 — Overview|Overview]] — Safety Coordinator (CSS-R)
+- **P785334 Lessines** — [[Projects/P522001 Cuesmes/00 — Overview|Overview]] — Safety Coordinator (CSS-R)
 
 ## Notes
 

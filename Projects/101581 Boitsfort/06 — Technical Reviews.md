@@ -143,4 +143,4 @@ Same T-STR team (Raphaëlle, Nicolas, Claudio) — same approach: contractor-dri
 
 ---
 
-Links: [[00 — Overview]] · [[02 — Document Register]] · [[03 — Open Points]]
+Links: [[Projects/101581 Boitsfort/00 — Overview]] · [[Projects/101581 Boitsfort/02 — Document Register]] · [[Projects/101581 Boitsfort/03 — Open Points]]

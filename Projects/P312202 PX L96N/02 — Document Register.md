@@ -14,7 +14,7 @@ updated: 2026-06-04
 
 # P312202 — Document Register
 
-Inventory of all project documents — to quickly quantify volume and confirm what exists. No status, issues, or flags here — those belong in [[03 — Open Points]].
+Inventory of all project documents — to quickly quantify volume and confirm what exists. No status, issues, or flags here — those belong in [[Projects/P312202 PX L96N/03 — Open Points]].
 
 ---
 
@@ -51,4 +51,4 @@ Inventory of all project documents — to quickly quantify volume and confirm wh
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/P312202 PX L96N/00 — Overview]] · [[Projects/P312202 PX L96N/03 — Open Points]]

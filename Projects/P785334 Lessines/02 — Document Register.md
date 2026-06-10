@@ -18,7 +18,7 @@ All structural documents submitted via HERMES (project ref.: `FUWP785334-1102355
 
 Status legend: 🔴 Refused · 🟡 Awaiting resubmission · 🟢 Approved · ⚫ Missing (never submitted)
 
-No status flags or issues here — those belong in [[03 — Open Points]].
+No status flags or issues here — those belong in [[Projects/P785334 Lessines/03 — Open Points]].
 
 ---
 
@@ -79,7 +79,7 @@ No status flags or issues here — those belong in [[03 — Open Points]].
 
 ## HERMES Dossier — 04/06/2026 (163 documents)
 
-Inventory folded into [[03 — Open Points]] (NC-D) and [[05 — Technical Reviews]]. Composition:
+Inventory folded into [[Projects/P785334 Lessines/03 — Open Points]] (NC-D) and [[05 — Technical Reviews]]. Composition:
 - 34 coffrage plans (EC*.pdf)
 - 65 ferraillage plans (EF*.pdf)
 - 63 steel schedules (XLSX — format non-compliant, not formally reviewable)
@@ -90,4 +90,4 @@ Inventory folded into [[03 — Open Points]] (NC-D) and [[05 — Technical Revie
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/P785334 Lessines/00 — Overview]] · [[Projects/P785334 Lessines/03 — Open Points]]

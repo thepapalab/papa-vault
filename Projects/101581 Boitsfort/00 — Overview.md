@@ -1,6 +1,6 @@
 ---
 title: 00 — Overview
-project: P101581 Boitsfort Bardage
+project: Execution d' un bardage
 project_number: P101581
 location: Boitsfort (Brussels), Station, Line 161
 phase: suivi d'exécution
@@ -8,7 +8,14 @@ role: Ingénieur structures — revue technique bardage ventilé
 client: Infrabel
 contractor: Equans / De Raedt Ivan / Etanco-Marcovis
 status: active
-tags: [P101581, boitsfort, bardage, cladding, marcovis-eisys, ventilated-facade, non-conformite]
+tags:
+  - P101581
+  - boitsfort
+  - bardage
+  - cladding
+  - marcovis-eisys
+  - ventilated-facade
+  - non-conformite
 updated: 2026-06-04
 ---
 
@@ -55,11 +62,11 @@ Ventilated timber cladding (Marcovis Eisys A4 screw system + lattage 70×45 C18 
 - [F] Substrate grade unknown — Equans/Raphaël Verraghen — BLOCKING
 - [NC03] Workmanship non-conformities — Equans/De Raedt — BLOCKING
 
-See [[03 — Open Points]] for full detail and closure criteria.
+See [[Projects/101581 Boitsfort/03 — Open Points]] for full detail and closure criteria.
 
 ## Current Situation
 
-Formal technical response being drafted by Nicolas. All six structural blocages (A–F) documented with problem/exigence pairs and closure criteria. Pending actions tracked in [[03 — Open Points]]. Works restart gated on submission of TF-2100 v4.1 addressing findings A–F AND NC03 workmanship procedure revision.
+Formal technical response being drafted by Nicolas. All six structural blocages (A–F) documented with problem/exigence pairs and closure criteria. Pending actions tracked in [[Projects/101581 Boitsfort/03 — Open Points]]. Works restart gated on submission of TF-2100 v4.1 addressing findings A–F AND NC03 workmanship procedure revision.
 
 ## Contractual Phasing
 
@@ -73,10 +80,10 @@ Formal technical response being drafted by Nicolas. All six structural blocages 
 
 ## Navigation
 
-- [[01 — History]] — Factual chronological record
-- [[02 — Document Register]] — Hermes submissions, statuses, outstanding TFs
-- [[03 — Open Points]] — Structural blocages A–F, NC03, closure criteria
-- [[04 — Strategic Context]] — Argument discipline, communication protocol, normative framework
+- [[Projects/101581 Boitsfort/01 — History]] — Factual chronological record
+- [[Projects/101581 Boitsfort/02 — Document Register]] — Hermes submissions, statuses, outstanding TFs
+- [[Projects/101581 Boitsfort/03 — Open Points]] — Structural blocages A–F, NC03, closure criteria
+- [[Projects/101581 Boitsfort/04 — Strategic Context]] — Argument discipline, communication protocol, normative framework
 - [[05 — Journal]] — Dated log of events and actions
 - [[Projects/101581 Boitsfort/06 — Technical Reviews]] — Design phases, findings analysis with reasoning
 

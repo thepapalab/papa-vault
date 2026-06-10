@@ -68,9 +68,9 @@ Dated entries. Most recent at top.
 - TUC RAIL requests clarification on tracks 913, 921, 922.
 
 **Actions agreed:**
-- I-CBE.35: utility of tracks 921, 922, 913 + utility of 96D (if *faisceau M* becomes international) — CBE-1 to CBE-4 in [[03 — Open Points]]
-- TUC RAIL: site risks in risk analysis + L96/L96N impacts in report — TR-1 to TR-9 in [[03 — Open Points]]
+- I-CBE.35: utility of tracks 921, 922, 913 + utility of 96D (if *faisceau M* becomes international) — CBE-1 to CBE-4 in [[Projects/P312202 PX L96N/03 — Open Points]]
+- TUC RAIL: site risks in risk analysis + L96/L96N impacts in report — TR-1 to TR-9 in [[Projects/P312202 PX L96N/03 — Open Points]]
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/P312202 PX L96N/00 — Overview]] · [[Projects/P312202 PX L96N/03 — Open Points]]

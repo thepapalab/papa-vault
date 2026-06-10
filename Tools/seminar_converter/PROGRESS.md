@@ -12,18 +12,18 @@ Status legend: ⬜ pending · 🟡 in-progress · ✅ done · ⏭️ skipped.
 
 ## Folder roll-up
 
-| Folder | Output | Assets | Chapters done | Status |
-|---|---|---|---|---|
-| EC0 — ΕΝ 1990 (εξαχθέν από EC1 source) | Seminar-Notes/EC0 | ✅ | 2 / 2 | ✅ |
-| EC1 — Βάσεις σχεδιασμού και Γενικές δράσεις | Seminar-Notes/EC1 | ✅ | 6 / 6 | ✅ |
-| EC2 — Κατασκευές από Οπλισμένο Σκυρόδεμα | EC2-Concrete/Seminar-Notes-Penelis | ✅ | 1 / 4 | 🟡 |
-| EC3 — Μεταλλικές Κατασκευές | Seminar-Notes/EC3 | ⬜ | 0 / 1 | ⬜ |
-| EC4 — Σύμμικτες Κατασκευές | Seminar-Notes/EC4 | ⬜ | 0 / 2 | ⬜ |
-| EC5 — Ξύλινες Κατασκευές | Seminar-Notes/EC5 | ⬜ | 0 / 5 | ⬜ |
-| EC6 — Τοιχοποιΐα | Seminar-Notes/EC6 | ⬜ | 0 / 4 | ⬜ |
-| EC7 — Γεωτεχνικός Σχεδιασμός | Seminar-Notes/EC7 | ✅ | 5 / 5 | ✅ |
-| EC8 — Αντισεισμικός Σχεδιασμός | Seminar-Notes/EC8 | ⬜ | 0 / 2 | ⬜ |
-| EC9 — Κατασκευές από Αλουμίνιο | Seminar-Notes/EC9 | ⬜ | 0 / 1 | ⬜ |
+| Folder                                      | Output                             | Assets | Chapters done | Status |
+| ------------------------------------------- | ---------------------------------- | ------ | ------------- | ------ |
+| EC0 — ΕΝ 1990 (εξαχθέν από EC1 source)      | Seminar-Notes/EC0                  | ✅      | 2 / 2         | ✅      |
+| EC1 — Βάσεις σχεδιασμού και Γενικές δράσεις | Seminar-Notes/EC1                  | ✅      | 6 / 6         | ✅      |
+| EC2 — Κατασκευές από Οπλισμένο Σκυρόδεμα    | EC2-Concrete/Seminar-Notes-Penelis | ✅      | 1 / 4         | 🟡     |
+| EC3 — Μεταλλικές Κατασκευές                 | Seminar-Notes/EC3                  | ⬜      | 0 / 1         | ⬜      |
+| EC4 — Σύμμικτες Κατασκευές                  | Seminar-Notes/EC4                  | ⬜      | 0 / 2         | ⬜      |
+| EC5 — Ξύλινες Κατασκευές                    | Seminar-Notes/EC5                  | ⬜      | 0 / 5         | ⬜      |
+| EC6 — Τοιχοποιΐα                            | Seminar-Notes/EC6                  | ⬜      | 0 / 4         | ⬜      |
+| EC7 — Γεωτεχνικός Σχεδιασμός                | Seminar-Notes/EC7                  | ✅      | 5 / 5         | ✅      |
+| EC8 — Αντισεισμικός Σχεδιασμός              | Seminar-Notes/EC8                  | ⬜      | 0 / 2         | ⬜      |
+| EC9 — Κατασκευές από Αλουμίνιο              | Seminar-Notes/EC9                  | ⬜      | 0 / 1         | ⬜      |
 
 (Chapter counts exclude duplicate / superseded PDFs; finalise per folder after
 running `build_assets.py`.)

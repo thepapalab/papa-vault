@@ -1,0 +1,699 @@
+# Fouilles
+
+ARTICLE TECHNIQUE : Fouilles
+
+1 Mesures g�n�rales
+
+L'adjudicataire ne peut pas  commencer  le  creusement  ou  le  remblai  des
+
+fouilles, sans avoir obtenu pr�alablement  la  permission  du  fonctionnaire
+
+dirigeant.
+
+L'adjudicataire prend � ses  frais  toutes  les  mesures  n�cessaires,  pour
+
+conserver � sec aussi bien les fouilles  que  les  mat�riaux  de  remblayage
+
+quelque soient les conditions m�t�orologiques.  Eventuellement,  il  peut  y
+
+avoir des postes pr�vus pour l'abaissement du niveau d'eau.
+
+Les  travaux  de  fouilles  faisant  l'objet  du  pr�sent   march�   peuvent
+
+comprendre :
+
+Le creusement des fouilles avec stockage provisoire  en  tas  s�par�s  et/ou
+
+�vacuation (partielle) des mat�riaux excav�s;
+
+tous  les  moyens  d'ex�cution  (amen�e,  entretien  et  le   cas   �ch�ant,
+
+l'enl�vement syst�matique d'�ventuels blindages,  �tan�onnement,  ainsi  que
+
+l'�puisement de la fouille, rabattement de la  nappe,  d�viation  des  eaux,
+
+etc.);
+
+le remplissage en couches avec  du  mat�riel  et  des  mat�riaux  appropri�s
+
+suivant les coupes types des  documents  d'adjudication  et  l'ex�cution  de
+
+remblai m�thodiquement compact� suivant ce qui est repris plus bas dans  cet
+
+article technique;
+
+l'�vacuation de sols/terres exc�dentaires ou qui ne convient pas.
+
+2 Code de mesurage
+
+Les travaux de d�blais sont r�mun�r�s par des postes s�par�s  du  m�tr�.  On
+
+fait remarquer que les d�blais li�s aux ouvrages  hydrauliques  sont  repris
+
+dans le chapitre 3 du metr�.
+
+Les volumes � prendre en compte sont donc bas�s sur les profils  repris  sur
+
+plans.
+
+Toutefois,  si  l'adjudicataire   s'est   �cart�   de   la   g�om�trie   des
+
+terrassements d�finie aux documents d'ex�cution, le cube suppl�mentaire  des
+
+Ainsi, les surquantit�s r�sultant de l'ex�cution des pentes  de  talus  plus
+
+faibles que celles reprises sur plan ou r�sultant du creusement  de  fouille
+
+plus  large  ou  plus  profonde  que  pr�vu,  sans  l'accord  pr�alable   du
+
+fonctionnaire dirigeant, ne seront pas prises en compte.
+
+Un suppl�ment r�mun�re l'�vacuation en dehors du chantier des mat�riaux  non
+
+r�utilisables et/ou exc�dentaires vers une d�charge de classe appropri�e  ou
+
+une zone de r�utilisation � obtenir par l'adjudicataire.
+
+Pour des sols pollu�s, des suppl�ments sont  pr�vus  pour  l'�vacuation  des
+
+mat�riaux pollu�s vers un centre  de  traitement  agr�e  et/ou  l'�vacuation
+
+vers une d�charge agr�e de classe appropri�e
+
+Le b�chage des talus des fouilles, les d�blais s�l�ctifs et le  stockage  en
+
+tas  s�par�s  dans  une  zone  de  stockage  est  compris  dans   le   poste
+
+� excavation �.
+
+3 Creusement des fouilles
+
+La m�thode d'ex�cution doit �tre d�termin�e de mani�re � ce que  l'int�grit�
+
+structurelle des constructions avoisinantes ne soit pas perturb�e.  Sauf  si
+
+c'est  mentionn�  diff�remment  dans   le   metr�,   tous   les   blindages,
+
+�tanconnement, protections, palplanches et mesures de s�curit� sont  compris
+
+dans le prix pour l'excavation des terres.
+
+L'adjudicataire est responsable de tous les d�g�ts dus  �  des  instabilit�s
+
+des fouilles.
+
+L'adjudicataire doit soumettre au fonctionnaire dirigeant  pour  approbation
+
+les r�f�rences, l'�ge, le type et le nombre de pompe qu'il  souhaite  mettre
+
+pour l'�puisement des fouilles.
+
+Le terrain est creus�  de  mani�re  s�lective  duquel  la  couche  de  terre
+
+arable, les sols d'apport (remblais) et le sol en  place  et  �ventuellement
+
+terrains pollu�s sont diff�renci�s/distingu�, de telle mani�re  que  ceux-ci
+
+pourront �tre replac�s suivant le m�me type de couche de  sol  et  dans  des
+
+distances d�termin�es dans le code mentionn�e.
+
+4 Fond de fouille
+
+Avant d'amener des tuyaux, conduits, cables,... l'�tat du  fond  de  fouille
+
+doit �tre pr�sent� par l'adjudicataire au fonctionnaire dirigeant.
+
+Si l'adjudicataire creuse la fouille plus profonde que prescrit, sans  avoir
+
+obtenu avant une autorisation, le  niveau  pr�vu  ne  peut  pas  alors  �tre
+
+obtenu  par   simple   r�-remplissage   de   la   fouille.   Au   contraire,
+
+l'adjudicataire doit agrandir l'�paisseur de la  sous-fondation,  en  accord
+
+avec le fonctionnaire dirigeant. Dans ce  cas,  ni  le  volume  d'excavation
+
+suppl�mentaire, ni la sur�paisseur de la  sous-fondation  suppl�mentaire  ne
+
+sont pris en compte.
+
+Voir  Article  Technique  �Gestion  du  sol  et  des   d�chets :   aspects
+
+�cotechniques �.
+
+Voir � � Remarques sp�cifiques au projet �.
+
+Les mat�riaux extraits sont stock�s en tas s�par�s selon leur  nature et/ou
+
+le degr� de pollution. Dans la zone de stockage  des  mat�riaux  pollu�s  ou
+
+pr�sentant des indices de pollution, une membrane �tanche est  dispos�e  sur
+
+une assise profil�e de mani�re � permettre la r�cup�ration et le  traitement
+
+�ventuel de tout percolat potentiellement polluant. Le stock est  recouvert,
+
+� la fin de chaque journ�e de travail, par une membrane �tanche.
+
+Les mat�riaux sont d�charg�s, r�gal�s et nivel�s au bouteur en couches de  +
+
+1 m d'�paisseur. Ils doivent subir un compactage suffisant pour  assurer  la
+
+stabilit� du tas.
+
+L'adjudicataire est responsable de la mise en ?uvre et  de  la  gestion  des
+
+zones de d�p�t. Cette gestion comprend  �galement  l'entretien  du  drainage
+
+�ventuel, des acc�s, de la signalisation...
+
+Les  aspects  �cotechniques  sont  appronfondis  dans  l'article   technique
+
+"Gestion du sol et des d�chets : aspects �cotechniques".
+
+7 DESTINATION DES MATERIAUX
+
+Voir � � remarques sp�cifiques au projet �.
+
+1 Remblaiement des fouilles
+
+1 MATERIAUX DE REMBLAI
+
+1 Classification des sols
+
+En mati�re  de  terrassement,  toute  r�utilisation  de  sols  implique  une
+
+identification et une classification pr�alables  des  mat�riaux  rencontr�s.
+
+Celles-ci s'appuient sur la NF P 11-300 reprise par le Guide Technique LCPC-
+
+SETRA "R�alisation des remblais et des couches  de  forme",  septembre  1992
+
+qui s'applique � tous les sols.  Cette  classification  est  bas�e  sur  les
+
+caract�ristiques intrins�ques qui influent le plus sur leur  comportement  �
+
+la mise en ?uvre.
+
+Elle donne les r�gles � respecter pour obtenir  des  ouvrages  en  terre  de
+
+qualit�. Les prises d'�chantillons et essais de  laboratoire  n�cessaires  �
+
+cet effet sont pr�cis�s ci-apr�s dans cet article technique.
+
+Le tableau suivant, extrait de  la  norme,  pr�sente  le  syst�me  de  cette
+
+classification.
+
+EXTRAIT DE LA NORME NF P 11-300 : Tableau synoptique de classification des
+
+mat�riaux selon leur nature.
+
+[pic]*      Mat�riaux pour lesquels la mesure de l'Ip est � retenir comme
+
+base de classement. Pour les autres mat�riaux on utilisera la VBS.
+
+** C1 Mat�riaux roul�s et mat�riaux anguleux peu charpent�s (0/50 > 60 �
+
+80 %)
+
+C2     Mat�riaux anguleux tr�s charpent�s (0/50  60 � 80 %)
+
+|               | |              |Roches       |craie              |R1 |
+
+|               | |Roches        |             |Calcaires          |R2 |
+
+|MATERIAUX      | |              |Roches       |Marnes, argilites, |   |
+
+|               | |              |argileuses   |p�lites,...        |R3 |
+
+|ROCHEUX        | |S�dimentaires |Roches       |Gr�s, poudingues,  |   |
+
+|               | |              |siliceuses   |br�ches            |R4 |
+
+|               | |magmatiques et|gneiss, schistes m�tamorphiques  |R6 |
+
+|               | |              |et ardoisiers,...                |   |
+
+|               | |m�tamorphiques|                                 |   |
+
+|Mat�riaux      | |Sols organiques, sous-produits industriels      |F  |
+
+|particuliers   | |                                                |   |
+
+2 Identification des mat�riaux
+
+Afin de pr�ciser le  classement  des  mat�riaux  et  leur  aptitude  �  �tre
+
+r�utilis�s � partir de la NF P  11-300  et  du  Guide  Technique  LCPC-SETRA
+
+'R�alisation  des  remblais  et  des  couches  de  forme',   juillet   2000,
+
+l'adjudicataire doit proc�der  aux  essais  de  laboratoire  mentionn�s  ci-
+
+dessous.
+
+Ces essais sont r�alis�s � chaque changement de  nature  de  sols  ou  �  la
+
+demande du fonctionnaire dirigeant.
+
+Des �chantillons de sols � mettre en ?uvre dans les remblais  sont  pr�lev�s
+
+de mani�re contradictoire, le nombre d'�chantillon doit  �tre  tel  que  les
+
+essais soient repr�sentatif de l'ensemble des sols.  Ces  �chantillons  sont
+
+envoy�s dans un laboratoire agr�� pour  la  d�termination  du  type  de  sol
+
+suivant la classification donn�e ci-dessus.
+
+De chaque �chantillon, la moiti� de la masse est utilis�e  pour  l'ex�cution
+
+des essais, l'autre moiti� est conserv�e pour des contre-essais �ventuels.
+
+Les essais comprennent la d�termination des param�tres suivants :
+
+composition granulom�trique y compris,  pour  les  m�langes,  la  teneur  en
+
+�l�ments plus grands que 20 cm (normes NF P 94-056 et 057) ;
+
+teneur en mati�res organiques conventionnelles des sols  meubles  et  de  la
+
+fraction plus petite que 2 mm pour  les  m�langes  de  sols  meubles  et  de
+
+mat�riaux rocheux et pour les mat�riaux rocheux (norme NF P 94-055) ;
+
+teneur en eau naturelle (norme NF P 94-050) ;
+
+valeur au bleu de m�thyl�ne (norme NF P 94-068) ;
+
+teneur en eau optimale et densit�  maximale  d�duites  de  l'essai  Proctor,
+
+avec 5 points de mesure (norme NF P 94-093) ;
+
+Indice Portant Imm�diat (IPI) sur chaque point de mesure de l'essai  Proctor
+
+(norme NF P 94-078).
+
+Les mat�riaux ainsi identifi�s peuvent �tre mis en ?uvre  apr�s  approbation
+
+par  le  fonctionnaire  dirigeant   selon   les   conditions   d'utilisation
+
+recommand�es par l'annexe 2 du Guide Technique.
+
+Le m�tr� pr�voit �galement un poste  s�par�  pour  la  r�alisation  d'essais
+
+IPI. Une fois les mat�riaux identifi�s, des essais IPI peuvent �tre  r�alis�
+
+pour d�terminer si les sols, �  leur  teneur  en  eau  naturelle,   ont  une
+
+portance suffisante  pour �tre mis en ?uvre et  valider  que  le  niveau  de
+
+compactage requis devrait pouvoir �tre atteint.
+
+Les mat�riaux mis en ?uvre dans la couche de 1,50 m d'�paisseur  en  dessous
+
+de la surface de la plate-forme ne peuvent pas contenir d'�l�ments  dont  la
+
+plus grande dimension est sup�rieure � 10 cm.  En  dessous  de  ce  niveau,
+
+cette plus grande dimension est de maximum 2/3 de l'�paisseur de  la  couche
+
+mise en ?uvre, avec un maximum de 30cm.
+
+3 Produits pouvant etre mis en ?uvre dans les remblais
+
+Exigences g�otechniques
+
+Les mat�riaux de remblai proviennent :
+
+. De l'excavation des fouilles;
+
+. D'autres zone de d�blai/excavation du chantier;
+
+. Materiaux mis � la disposition par INFRABEL sur une zone de stockage  sur
+
+ou proche du chantier;
+
+. D'un apport ext�rieur (sols fournis par l'adjudicataire)
+
+Si n�cessaire, l'adjudicataire  fournit  et  met  en  ?uvre  un  mat�riau
+
+d'apport pour remblai m�thodiquement  compact�.Ce  mat�riau  consiste  en
+
+limon peu plastique, limon peu plastique  sableux,  sable  peu  argileux,
+
+sable peu limoneux ou sable, selon les sp�cifications du RW  99-2004  (ou
+
+du CCT 2000 pour Bruxelles). Ces mat�riaux peuvent provenir de  carri�res
+
+et/ou emprunts locaux situ�s en dehors des emprises du projet.
+
+L'apport de d�chets industriels (cat�gorie F  de  la  classification  des
+
+mat�riaux) en ce compris tout mat�riau � provenir  de  sites  industriels
+
+d�saffect�s ou de terrils li�s � d'anciennes exploitations  mini�res  est
+
+rigoureusement interdit.
+
+L'utilisation de produits de d�molition d'apport ext�rieur est interdite.
+
+Dans tous les cas, les mat�riaux de remblais sont propos�s  �  l'agr�ment
+
+du fonctionnaire dirigeant, avec, � l'appui de  la  demande,  un  dossier
+
+technique d�taill�. Par type de mat�riau, le dossier  est  constitu�  des
+
+r�sultats d'au moins 3 s�ries d'essais repr�sentatives et  r�centes.  Les
+
+essais comprennent la d�termination des param�tres d�crits ci-dessus.
+
+L'attention de l'adjudicataire est attir�e sur le fait que les  mat�riaux
+
+qu'il fournit �tant r�put�s "pr�ts � l'emploi", il doit les livrer �  une
+
+teneur en eau proche de l'optimum Proctor (�tat hydrique  moyen  m).  Les
+
+valeurs IPI de ces sols livr�s � cette teneur en  eau  naturelle  doivent
+
+�tre de min. 10% pour les sables grossiers ou moyennement  grossiers,  et
+
+de min. 15% pour les sols limoneux,  sables  fins  et  sables  faiblement
+
+argileux ou limoneux.
+
+Exigences environnementales
+
+Voir  article  technique  "Gestion  du  sol  et  des   d�chets :   aspects
+
+�cotechniques" de la partie 4 du cahier de charge.
+
+2 Ex�cution des remblais
+
+Les niveaux de qualit� de compactage � obtenir  pour  les  remblais  est  au
+
+minimum un niveau de compactage q4- (? 95%OPN).  En  fonction  des  cas,  un
+
+niveau de compactage sup�rieur est impos� : q3 (98.5%OPN)  et  q2  (97%OPM).
+
+Sous r�serve de cas sp�cifiques, on distingue 3 cas disctincts:
+
+Cas 1: fouilles en zones vertes:
+
+[pic]
+
+Cas 2: fouilles en zones avec chargement limit�:
+
+[pic]
+
+Cas 3: fouilles en zones de routes ou voies de chemin de fer
+
+[pic]
+
+Pour atteindre ces niveau de compactage, les tableaux ci-dessous(*)  doivent
+
+�tre utilis�s. Ces tableaux reprennent  les  modalit�s  de  compactage  pour
+
+diff�rents engins de  compactage  pour  une  large  gamme  de  mat�riaux  de
+
+compactage class�s suivant  �7.1.1  plus  haut.  En  annexe  �  cet  article
+
+technique,  la classification des engins de  compactage  les  plus  courants
+
+pour le remblayage de fouilles est pr�sent�e.
+
+On attire l'attention que ces tableaux sont donn�s � titre indicatif.  Il  y
+
+a lieu d'atteindre les qualit�s de compactage  impos�.  Certaines  modalit�s
+
+pourrait �tre modifi�es si  la  qualit�  de  compactage  impos�e  n'est  pas
+
+atteinte. Si d'autres engins de compactage sont utilis�s, ils  doivent  �tre
+
+soumis pr�alablement �  l'approbation  du  fonctionnaire  dirigeant  et  les
+
+modalit�s de compactage doivent �tre d�termin�es sur  base  d'essais.  C'est
+
+�galement valable pour l'utilisation de mat�riaux de compactage  autres  que
+
+ceux repris dans les tableaux.
+
+(*) Source: Guide Technique - Remblayage  des  tranch�es  et  r�fection  des
+
+chauss�es - LCPC/SETRA
+
+[pic][pic][pic]
+
+3 ESSAIS DE CONTR�LE
+
+Le controle du niveau de compactage a lieu, de pr�f�rence, avec  des  essais
+
+au p�n�trom�tre dynamique PANDA (sauf mention contraire). Cependant,  si  la
+
+duret� de certains �l�ments du remblai ne le permet pas,  des  essais  �  la
+
+plaque sont r�alis�s.
+
+Les  essais  de  contr�le  doivent  pouvoir  �tre  ex�cut�s  sur  ordre   du
+
+fonctionnaire dirigeant end�ans les 24 heures. L'ensemble des r�sultats  des
+
+essais doit �tre transmis  au  fonctionnaire  dirigeant  quotidiennement  et
+
+aussi vite  que  possible,  en  tous  cas,  dans  les  24h  qui  suivent  la
+
+r�alisation des essais.
+
+Pour pouvoir �valuer le mieux possible les r�sultats, le  rapport  contient,
+
+� c�t� des r�sultats d'essais, au moins les donn�es suivantes :  la  nature
+
+du mat�riau sur lequel est r�alis� l'essai (par ex.du sable,  du  limon,  de
+
+l'empierrement 0/80 pour la couche de forme,...lors  d'un  essai  PANDA,  la
+
+classification fran�aise  doit  �tre  reprise  dans  les  graphiques) ;  la
+
+localisation de l'essai (sch�ma), le niveau duquel l'essai est  r�alis�,  le
+
+niveau de remblai qui a �t� test� (par  ex.  apr�s  2m  de  remblai,  niveau
+
+d'assise de la couche de forme, ...), le niveau de compactage prescrit  dans
+
+le cahier des charges (q4, q3, q2).
+
+Les prix remis doivent tenir compte des d�lais  mentionn�s  ici  dessus  (la
+
+mise � disposition des v�hicules et chauffeur pour le transport, la  mise  �
+
+disposition du laboratoire, les heures  d'attente,  ...).  Si  le  m�tr�  ne
+
+pr�voit pas de poste s�par�, les essais de contr�les sont  consid�r�s  comme
+
+faisant  partie  des  essais  de  contr�le.  L'adjudicataire  montre   qu'il
+
+travaille en conformit� avec les sp�cifications  du  CSC  en  ex�cutant  des
+
+essais de contr�le sur chaque niveau de compactage. Un  minimum  d'un  essai
+
+tous les 10m, sur  chaque  niveau  de  compactage,  doit  �tre  r�alis�.  Le
+
+fonctionnaire dirigeant peut demander des essais suppl�mentaires.
+
+1  Essais � la plaque belge (200cm� ou 750cm�)
+
+Le contr�le par essais � la plaque est  ex�cut�  selon  le  mode  op�ratoire
+
+50.01 des m�thodes d'essais de l'ex. Minist�re belge des Travaux  Publics  -
+
+Administration des routes, avec d�termination des modules M1 et M2  et  avec
+
+une plaque de 750 cm� pour des mat�riaux sableux et des empierrements  avec
+
+un Dmax sup�rieur � 40 mm. Pour les autres mat�riaux,  et  si  les  remblais
+
+sont r�alis�s en fines couches (?30cm), ce qui est  le  cas  la  plupart  du
+
+temps pour le remblaiement de  fouilles  (avec  du  mat�riel  de  compactage
+
+l�ger), une plaque de 200cm� doit �tre utilis�e.
+
+Les valeurs � obtenir sont reprises ci-dessous :
+
+. Q4 :
+
+o M1 ? 11MPa
+
+o M2/M1 ? 3.0
+
+. Q3:
+
+o M1 ? 17MPa
+
+o M2/M1 ? 2.5
+
+Les essais � la plaque o�  seul  le  premier  cycle  a  �t�  r�alis�  seront
+
+refus�s.
+
+Cet essai est effectu�,  pour  chaque  couche  remblay�e.  Le  fonctionnaire
+
+dirigeant indique pour chaque couche remblay�e les emplacements o� un  essai
+
+doit �tre r�alis�.
+
+2  Essais au p�n�trom�tre dynamique PANDA
+
+Le contr�le du compactage est r�alis�  au  moyen  d'essais  au  p�n�trom�tre
+
+dynamique PANDA gr�ce auquel le degr� de compactage peut �tre  d�termin�  en
+
+fonction du type de sol selon la classification  du  Guide  Technique  LCPC-
+
+SETRA.
+
+L'interpr�tation des r�sultats d'essai est faite sur la base du tableau  ci-
+
+dessous � Anomalies selon LCPC Chauss�es d�pendances 117 :
+
+|Anomalies   |Caract�ristiques                            |Conformit�   |
+
+|aucune      |toutes les valeurs se situent au-dessus de  |conforme     |
+
+|            |la valeur limite                            |             |
+
+|            |toutes les epaisseurs des couches satisfont |             |
+
+|            |aux prescriptions                           |             |
+
+|1           |toutes les valeurs se situent au-dessus de  |acceptable   |
+
+|            |la valeur limite                            |pour remblai |
+
+|            |l'epaisseur d'une couche est superieure de  |             |
+
+|            |plus de 20% a la valeur prescrite           |             |
+
+|2           |chaque valeur est superieure a la valeur    |acceptable   |
+
+|            |limite moins l'ecart entre la valeur limite |pour remblai |
+
+|            |et la valeur de reference                   |             |
+
+|            |(et) les valeurs sont, sur au moins 70% de  |             |
+
+|            |la profondeur totale sonde, superieures a la|             |
+
+|            |valeur limite                               |             |
+
+|3           |il y a au moins une valeur inferieure a la  |non          |
+
+|            |valeur limite moins l'ecart entre la valeur |acceptable   |
+
+|            |limite et la valeur de reference            |pour remblai |
+
+|            |(ou) les valeurs sont, sur 30 a 50% de la   |             |
+
+|            |profondeur totale sondee, inferieures a la  |             |
+
+|            |valeur limite                               |             |
+
+|4           |les valeurs sont inferieures a la valeur    |non          |
+
+|            |limite sur plus de 50% de la profondeur     |acceptable   |
+
+|            |totale sondee                               |pour remblai |
+
+O� :
+
+Valeur de r�f�rence = niveau de  compactage  vis�  (ligne  la  plus  �
+
+droite)
+
+Valeur limite = limite de refus (ligne la plus � gauche)
+
+L'interpr�tation selon le  tableau  ci-dessus  n'est  possible  que  si  les
+
+courbes sont dessin�es avec  une  �chelle  logarithmique.  Cette  �valuation
+
+doit �tre faite pour chaque couche o� un  autre  niveau  de  compactage  est
+
+requis.
+
+Cet essai dont �tre r�alis� � raison d'au moins 1 essai par 1000 m�  de  sol
+
+compact�.
+
+2 Remarques sp�cifiques au projet
+
+Au niveau de certaines fouilles seront plac�s un conducteur en  cuivre,  des
+
+tuyaux,.... Pour le contr�le de la qualit� du remblai, il faudra  veiller  �
+
+ne pas les endommager. Sans rep�res qui permettent  de  s'assurer  qu'on  se
+
+situe � une distance suffisante, il  faut  �viter  la  r�alisation  d'essais
+
+PANDA. L'adjudicataire est responsable de tout dommage caus� par les  essais
+
+de contr�le.
+
+Pour le remblai de la partie de  la  fouille  principale  (fouille  pour  la
+
+r�alisation des caves du b�timent), il est pr�vu de r�utilser, en  priorit�,
+
+les sols issus de l'excavation de la fouille principale entre la surface  et
+
+1m de profondeur et le sol  excav�  au  niveau  du  bassin  d'orage  (terres
+
+d�passant la norme TNC, voir AT "gestion du sol et  des  d�chets :  aspects
+
+ecotechniques �). Le poste � excavations � comprend le stockage des d�blais
+
+en tas  s�par�s  (tas  avec  terres  destin�es  �  �tre  utilis�es  pour  le
+
+remblayage et tas destin� � �tre �vacu�). S'il  est  impossible  d'atteindre
+
+un  niveau  de  compactage  suffisant  avec  une  partie  de  ces  sols,  le
+
+fonctionnaire dirigeant doit en �tre inform� directement.
+
+Les talus de contour de la fouille principale (fouille pour  la  r�alisation
+
+des caves du batiment) doivent �tre recouverts de b�ches. La  fourniture  et
+
+le placement de ces b�ches est compris dan le prix des excavations.
+
+Pour les fouilles ponctuelles, pour lesquelles ni sout�nement, ni talus  6/4
+
+avec b�chage n'est pr�vu, il est obligatoire de combler la fouille dans  les
+
+24h qui suivent le creusement de la fouille.
+
+|Type PV ("Petit Vibrant")                        |
+
+|     |15         |12.5           |                |
+
+|     |           |17.5           |                |
+
+|CLASSIFICATIE TRILPLATEN  |
+
+|("Plaques Vivrantes")     |
+
+|Klasse   |Belasting Mg/S   |
+
+|         |[kPa]            |
+
+|PQ1      |Mg/S < 6         |
+
+|PQ2      |6 ? Mg/S < 10    |
+
+|PQ3      |10 ? Mg/S < 15   |
+
+|PQ4      |Mg/S ? 15        |
+
+|("Pilonneuses")                                |
+
+|         |        |        |        |        |        |

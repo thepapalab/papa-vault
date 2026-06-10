@@ -91,7 +91,7 @@ Remove track 910 → deviate B-L96 via B-96D + provisional connection from south
 
 ## Accessibility for Equipment
 
-Point raised at 24/05 meeting: accessibility of machines, specifically pile drivers. Required interruptions (*coupures*) for each variant must be evaluated (TR-4 in [[03 — Open Points]]).
+Point raised at 24/05 meeting: accessibility of machines, specifically pile drivers. Required interruptions (*coupures*) for each variant must be evaluated (TR-4 in [[Projects/P312202 PX L96N/03 — Open Points]]).
 
 ---
 
@@ -119,7 +119,7 @@ Point raised at 24/05 meeting: accessibility of machines, specifically pile driv
 
 ### François Lapy — Similar Zone B Project
 
-François Lapy (TUC RAIL) completed a project very similar to Zone B (~20 m span box girder), used by Laurent as example. Can provide specifics on 20 m span box girders. **Must be contacted** (TR-8 in [[03 — Open Points]]).
+François Lapy (TUC RAIL) completed a project very similar to Zone B (~20 m span box girder), used by Laurent as example. Can provide specifics on 20 m span box girders. **Must be contacted** (TR-8 in [[Projects/P312202 PX L96N/03 — Open Points]]).
 
 ### Quantities to Produce
 
@@ -130,4 +130,4 @@ François Lapy (TUC RAIL) completed a project very similar to Zone B (~20 m span
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/P312202 PX L96N/00 — Overview]] · [[Projects/P312202 PX L96N/03 — Open Points]]

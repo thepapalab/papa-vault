@@ -36,10 +36,10 @@ Key phases and decisions. Forward chronological. Updated when a milestone is rea
 
 Complete record of all actions, communications, reviews, and meetings. Reverse chronological. Append only — entries are never edited or deleted.
 
-- 2026-06-05 — HERMES dossier review folded into standard files (NC-D in [[03 — Open Points]], inventory NCs in [[05 — Technical Reviews]]); working file `P785334_HERMES_DOSSIER_REVIEW_20260604.md` and its README exception entry deleted per vault structure rule (no standalone working files).
+- 2026-06-05 — HERMES dossier review folded into standard files (NC-D in [[Projects/P785334 Lessines/03 — Open Points]], inventory NCs in [[05 — Technical Reviews]]); working file `P785334_HERMES_DOSSIER_REVIEW_20260604.md` and its README exception entry deleted per vault structure rule (no standalone working files).
 - 2026-06-05 — ISO audit preparation meeting. Required: Ternest Nico (no response), Sacré Eric (accepted), Taffah Youssef (accepted), Van Huynegem Vincent (no response), Sellier Damien (accepted), Hemeryck Isabelle (accepted). Optional: Lapy François (accepted), Papalabros Nicolas (accepted).
 - 2026-06-04 16:12 — Email received from Sacré Eric: request for quick approval of 100+ HERMES documents. Response to Nicolas's email of 2026-05-29.
-- 2026-06-04 — HERMES dossier (163 documents, ZIP) received via Sacré Eric. Review initiated by Nicolas. Inventory and strategy recorded in [[03 — Open Points]] (NC-D).
+- 2026-06-04 — HERMES dossier (163 documents, ZIP) received via Sacré Eric. Review initiated by Nicolas. Inventory and strategy recorded in [[Projects/P785334 Lessines/03 — Open Points]] (NC-D).
 - 2026-05-29 16:01 — Email sent by Papalabros Nicolas: proposal to organize the HERMES review approach ahead of formal response.
 - 2026-05-11 — Partial deadline 1 started (20 calendar days): demolition provisional footbridge, PMR access signage, as-built phase 1.
 - 2026-05-01 — CTL realized. CSV in place, Ath side. Disconnection: 3 days (reduced from 9 planned). CSV received for passenger operations.
@@ -67,4 +67,4 @@ Complete record of all actions, communications, reviews, and meetings. Reverse c
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/P785334 Lessines/00 — Overview]] · [[Projects/P785334 Lessines/03 — Open Points]]

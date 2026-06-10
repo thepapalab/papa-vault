@@ -22,7 +22,7 @@ tags: [tstr, structural]
 ## Notes
 
 
-- **P785334 Lessines** — [[00 — Overview|Overview]]
+- **P785334 Lessines** — [[Projects/P522001 Cuesmes/00 — Overview|Overview]]
 
 ## Last Contact
 Date:

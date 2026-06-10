@@ -1,0 +1,409 @@
+# �22 : Gabions.
+
+I-1.   GENERALITES
+
+Les gabions sont compos�s d'un treillis d'acier � mailles  hexagonales  dont
+
+le diam�tre des fils est repris ci-apr�s.
+
+Gabions cloisonn�s  pr�sentant  la  forme  d'un  parall�l�pip�de  rectangle,
+
+r�alis�s  au  moyen  d'un  treillis  m�tallique  galvanis�  et  remplis   de
+
+mat�riaux rocheux de calibre minimum 90/150 (mat�riau homog�ne,  non  g�lif,
+
+non �volutif).
+
+La maille du treillis est adapt�e aux dimensions du contenu.
+
+L'enveloppe est tiss�e d'une seule pi�ce et les bords sont renforc�s par  un
+
+fil de lisi�re entrelac� ou nou� suivant le cas.  Chaque gabion  est  divis�
+
+int�rieurement par une ou des cloisons en treillis du m�me type de  fa�on  �
+
+limiter les volumes d'un seul tenant � 1 m�.
+
+Des fils de renfort sont plac�s sur la face avant �  raison  d'un  fil  tous
+
+les 50 cm dans les deux sens.  Les �l�ments pos�s c�t� � c�te sont  attach�s
+
+les uns aux autres avec du fils � ligaturer tous les 50 cm.
+
+I-2.    FORME ET DIMENSIONS
+
+Les gabions ont une forme de poutre avec :
+
+-     longueur:  1,50 / 2,00 / 3,00 / 4,00 / 5,00 m
+
+-     largeur:   0,50 / 1,00 / 2,00 / 3,00 m
+
+-     �paisseur: 0,30 / 0,50 / 1,00 m
+
+Sauf stipulation contraire au m�tr� r�capitulatif, uniquement des  longueurs
+
+de 2 � 4 m et des largeurs de 1 m sont admises.
+
+Seulement pour des largeurs de 2 � 3 m les couvercles peuvent  �tre  fournis
+
+s�par�ment.
+
+Les gabions sont divis�s en cellules  par  des  cloisons  plac�es  tous  les
+
+soixante centim�tres. Les cloisons et les rives sont tiss�es  avec  le  m�me
+
+type de maille que l'enveloppe, � savoir 80 x 110.
+
+Elles  sont  fix�es  d'un  c�t�  sur  toute  leur  longueur  �  la  base  de
+
+l'enveloppe. Les liaisons ou torsions des mailles hexagonales  tiss�es  sont
+
+form�es en tournant chaque paire de fils deux tours  complets  l'une  autour
+
+de l'autre, de fa�on � cr�er une  triple  torsion.  L'enveloppe  est  tiss�e
+
+d'une seule pi�ce, des fils de renforcement �tant tiss�s aux endroits o�  le
+
+pliage doit se faire lors de la mise en place des gabions. Le traitement  du
+
+tissu se fait perpendiculairement au sens du tissage.
+
+Les tol�rances de maille sont:
+
+I-3.    QUALITE DE L'ACIER
+
+Il s'agit d'un fil lisse en acier avec  une  teneur  basse  en  carbone,  de
+
+l'alliage suivant:
+
+% C  = max. 0,10
+
+% Mn = 0,25 � 0,60
+
+% P  = max 0,040
+
+% S  = max 0,050
+
+La r�sistance � la traction caract�ristique garantie est  au  moins  de  380
+
+N/mm� et au maximum de 600 N/mm�.
+
+L'allongement � la rupture sera au moins de 10 %.
+
+Le fil est prot�g�  contre  la  corrosion  par  galvanisation  �  chaud.  La
+
+quantit� de zinc par m� de surface du fil est indiqu�e au  tableau  suivant.
+
+Le zinc utilis� est pur � 99,99 %.
+
+|Diam�tre   |Tol�rance  |Application  |Poids du    |R�sistance �|
+
+|nominal du |(DIN 177)  |             |zinc (DIN   |la traction |
+
+|ou         |           |renforcement |            |            |
+
+|4,20       |           |lisi�re      |            |            |
+
+Si les gabions doivent �tre plastifi�s, l'�paisseur  de  PVC  chaud  extrud�
+
+est au moins de 0,4 mm, tant pour le fil�, le fil de ligature que le fil  de
+
+renforcement.
+
+I-5.    ESSAIS
+
+Les  essais  suivants  doivent  �tre  effectu�s  par   et   aux   frais   de
+
+l'adjudicataire  dans  un  laboratoire  reconnu  (si  l'adjudicataire   peut
+
+pr�senter des  r�sultats  d'essais  r�cents  sur  une  production  semblable
+
+r�alis�e avec le m�me produit, ceux-ci peuvent �tre accept�s) :
+
+1) Essai au brouillard salin (Salt-spray test)
+
+La chape de zinc du fil lourdement galvanis� r�siste � un "Salt-spray  test"
+
+de 200 heures, comme d�crit au ASTM B117.
+
+Solution de NaCl: 5 % - Temp�rature 35� C.
+
+2) Adh�rence de la couche de zinc
+
+La chape de zinc ne peut pas s'�cailler,  se  fissurer  ou  �tre  endommag�e
+
+lors de l'enroulement  du  fil  autour  d'un  mandrin  cylindrique  avec  un
+
+diam�tre �gal au  diam�tre  du  fil  et  avec  au  moins  huit  enroulements
+
+jointifs par �chantillon de fil.
+
+L'enroulement de l'�chantillon d'essai se fait � une vitesse maximale de  15
+
+tours/min.
+
+3) Poids du zinc
+
+Le poids du zinc est d�termin� suivant la  m�thode  gazom�trique.  Ce  n'est
+
+que pour  des  cas  limites  que  la  m�thode  gravim�trique  est  employ�e,
+
+conform�ment au ASTM.  A.90   sur  une  longueur  d'�chantillon  de  600  mm
+
+(minimum absolu de 300 mm).
+
+4) Epaisseur
+
+Le diam�tre du fil est mesur� avec une pr�cision de 0,01 mm  au  moyen  d'un
+
+microm�tre.
+
+5) R�sistance � la traction du fil
+
+A d�terminer en effectuant l'essai de traction sur  un  �chantillon  de  fil
+
+jusqu'� la rupture. La longueur de l'�chantillon entre les  bornes  sera  au
+
+moins de 150 mm.  La  vitesse  de  formation  pendant  l'essai  doit  rester
+
+constante et ne peut � aucun moment d�passer les  50  mm/min.  Les  ruptures
+
+dans les bornes ne sont pas compt�es.
+
+6) Allongement � la rupture
+
+A d�terminer par l'essai de traction sur une longueur de 100  mm  entre  les
+
+rep�res comme d�crit ci-dessus.
+
+L'augmentation de la longueur  de  mesure  est  d�termin�e  en  appareillant
+
+soigneusement les extr�mit�s cass�es de l'essai de traction et  en  mesurant
+
+exactement la distance entre les rep�res. Quand la  rupture  se  fait  entre
+
+les rep�res, l'essai est consid�r� comme valable si la valeur  indiqu�e  est
+
+atteinte.
+
+7) R�sistance et �lasticit� de la maille
+
+Les valeurs minimales s'�l�vent � :
+
+35000 N dans le sens longitudinal - allongement 12 %
+
+9000 N dans le sens transversal - allongement 25 %
+
+Ces tests sont effectu�s dans le sens du tissage ou le sens longitudinal  et
+
+dans le sens transversal, sur un morceau de treillis de 100 x 100 cm.
+
+L'encastrement se fait entre deux t�les d'acier avec  feutre.  Au  moyen  de
+
+deux v�rins hydrauliques, une traction graduellement croissante est  exerc�e
+
+sur le treillis.
+
+Pour certains paliers de charge, l'allongement du  treillis  est  mesur�  en
+
+m�me temps.
+
+8) Solidit� des torsions
+
+Le treillis est tiss�  de  telle  fa�on  que  les  mailles  ne  peuvent  pas
+
+effiler. Cela est d�montr� en coupant pr�alablement un fil dans  le  panneau
+
+du treillis lors de l'ex�cution d'un test de chargement.
+
+I-6.    CERTIFICAT D'ORIGINE
+
+Les certificats d'origine fournis par l'adjudicataire reprennent :
+
+les caract�ristiques des fils utilis�s;
+
+les caract�ristiques du treillis tiss� ;
+
+les caract�ristiques du mat�riau rocheux utilis�  pour  le  remplissage  des
+
+gabions.
+
+Les gabions peuvent �tre fournis pli�s.
+
+La quantit� totale � fournir constitue un  lot.  Par  lot  le  fonctionnaire
+
+pr�l�ve trois �chantillons  au  hasard  sur  le  chantier.  Le  premier  est
+
+destin� aux essais, les deux autres  sont  destin�s  aux  �ventuels  contre-
+
+essais.
+
+EMPIERREMENT
+
+Sauf  indications  contraires  dans  ce  qui  suit,  les  prescriptions  des
+
+paragraphes 1.1 � 1.8 sont d'application pour ce type de gabions  �galement.
+
+Elles sont � compl�ter par celles de  l'article  technique  � prescriptions
+
+assainissement � ; article 361 � Mat�riaux �.
+
+- Pour le gabion servant de drainage dans la plate-forme  (voir  plans),  le
+
+calibre du mat�riau rocheux sera 31.5/50 mm (mat�riau homog�ne,  non  g�lif,
+
+non �volutif). Les mailles du treillis d'acier seront adapt�es  en  fonction
+
+de cette exigence.
+
+- Le gabion servant de drainage dans la plate-forme devra �tre  enrob�  d'un
+
+g�otextile filtrant selon l'article technique � G�osynth�tiques �  et  les
+
+plans d�pos�s.
+
+III-1.        GENERALITES
+
+Il  s'agit  de  panneaux  m�talliques  �lectrosoud�s  remplis  de   mat�riau
+
+pierreux, homog�ne, non g�lif, non �volutif avec une  granulom�trie  adapt�e
+
+(p. ex. 85 � 150 mm pour une maille de 75 * 75 mm et 60 � 120  mm  pour  une
+
+maille de 50 * 100 mm). La teinte de ce mat�riau  doit  �tre  uniforme  (ton
+
+gris).  L'approvisionnement  et  le  remplissage  de  ces   mat�riaux   peut
+
+s'effectuer m�caniquement,  mais  les  faces  vues  doivent  �tre  arrang�es
+
+manuellement, afin d'obtenir un parement soign� et rang�.
+
+Les dimensions des panneaux  doivent  �tre  des  multiples  d'un  nombre  de
+
+mailles augment�s du diam�tre des fils correspondants.
+
+L'�paisseur du parement correspond aux indications des plans d�pos�s.
+
+La hauteur des panneaux doit �tre limit�e �  +/-  75  cm,  afin  de  pouvoir
+
+ranger manuellement le parement  de  mani�re  soign�e.  Les  fils  verticaux
+
+seront dispos�s � l'ext�rieur des panneaux.
+
+La granulom�trie du mat�riau de remplissage est telle, que  la  plus  petite
+
+dimension des pierres exc�de de min. 5  cm  la  plus  grande  dimension  des
+
+mailles. Le mat�riau doit correspondre aux stipulations de la DIN 18.918.
+
+Les panneaux doivent �tre dispos�s suivant un plan de calepinage  �  �tablir
+
+par l'adjudicataire. Les d�coupes des panneaux et leur adaptation sur  place
+
+ne sont admises qu'� titre exceptionnel et ceci apr�s concertation  avec  le
+
+fonctionnaire dirigeant.
+
+La construction du parement s'effectue de bas en haut. Pour  cela,  il  y  a
+
+lieu de pr�voir une assise  horizontale.  L'�tude  des  supports  inf�rieurs
+
+(assise horizontale) et l'adaptation de ceux-ci aux dimensions des  panneaux
+
+est comprise dans le poste du m�tr� � R�alisation d'un support de  parement
+
+en b�ton arm� en forme d'escalier �.
+
+Le  premier  panneau  doit  �tre  fix�  (ancr�)  m�caniquement  au   support
+
+inf�rieur (au minimum 3 fixations en acier inoxydable par m�tre lin�aire).
+
+Afin d'assurer la stabilit� d'ensemble des parois, il  y  a  lieu  de  fixer
+
+celles-ci � la structure en b�ton arm�  au  moyen  d'un  syst�me  adapt�  en
+
+acier inoxydable (rails, chevilles, boulons, distanceurs  ....).  Il  faudra
+
+pr�voir au minimum 4 points de fixation par m�  et  par  panneau.  Tous  les
+
+panneaux ayant des ar�tes communes doivent �tre fix�s les uns aux  autres  �
+
+raison de +/- un point de fixation tous les 10 � 15 cm.
+
+L'�tude des syst�mes de pose et de fixation est � soumettre �  l'approbation
+
+du fonctionnaire dirigeant.
+
+Le remplissage s'effectue apr�s la fixation des panneaux au support.
+
+L'ensemble des panneaux doit �tre rigide et ind�formable.
+
+III-3.        ACIER
+
+Il s'agit d'un fil de diam�tre min. de 4.5 mm (pour une maille de 50  *  100
+
+mm) � 5.5 mm (pour une maille de 75 * 75 mm).
+
+La r�sistance caract�ristique � la traction des fils, ainsi  que  de  toutes
+
+les autres pi�ces m�talliques, est de min. 600 N/mm�.
+
+L'allongement � la rupture est sup�rieur � 10 %.
+
+Les fils et les panneaux sont  conformes  aux  stipulations  des  normes  EN
+
+10223-4 (mailles, r�sistance) et EN 10218-2 classe  T1  (tol�rance  sur  les
+
+dimensions des fils).
+
+Les  fils  d'acier  des  panneaux  sont  obligatoirement  prot�g�s  par   un
+
+rev�tement d'un alliage eutectique de zinc (+/-  95%)  et  d'aluminium  (+/-
+
+5%) (Zn95Al5) � raison de min. 350 g/m�. Cette protection doit r�pondre  aux
+
+Le rev�tement de protection plastifi� n'est pas admis.
+
+III-5.        REFERENCES
+
+L'adjudicataire doit indiquer le  nom  et  l'adresse  du  sous-traitant  qui
+
+r�alisera les panneaux et les  mettra  en  oeuvre.  Ce  sous-traitant  devra
+
+pouvoir pr�senter des r�f�rences pour des r�alisations similaires.
+
+III-6.        ESSAIS
+
+Les  essais  suivants  doivent  �tre  effectu�s  par   et   aux   frais   de
+
+l'adjudicataire dans un laboratoire reconnu :
+
+1) Essai au brouillard salin (Salt-spray test)
+
+La protection du fil (description voir ci-dessus) r�siste �  un  "Salt-spray
+
+test" de 1000 heures, comme d�crit au ASTM B117 et/ou � la DIN 50021-SS.
+
+Solution de NaCl: 5 % - Temp�rature 35� C.
+
+Les essais 2) � 7) correspondent aux essais prescrits au paragraphe  1.5  du
+
+pr�sent article.
+
+8) Contr�le des soudures
+
+Les  soudures  doivent  s'effectuer  et   �tre   r�ceptionn�es   selon   les
+
+prescriptions du paragraphe 30.2.3.12.4 du fascicule 30.2. Les frais  de  la
+
+r�ception sont � charge de l'adjudicataire.
+
+Les postes du m�tr� r�mun�rent la fourniture et la mise  en  ?uvre  de  tous
+
+les �l�ments d�crits au pr�sent article, ainsi que toutes  les  �tudes,  les
+
+plans et les essais devant �tre  pr�sent�s  par  l'adjudicataire.  Tous  les
+
+moyens d'ex�cution (�chafaudages, blindages  etc.)  sont  compris  dans  les
+
+prix remis de la soumission.

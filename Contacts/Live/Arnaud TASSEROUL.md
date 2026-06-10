@@ -17,6 +17,7 @@ tags: [tlni, lines]
 
 ## Hierarchy
 - **Reports to:** [[Sébastien WTORECK]]
+- Role : Design Engineer Lines
 
 
 ## Projects Involved

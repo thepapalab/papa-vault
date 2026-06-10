@@ -8,11 +8,17 @@ role: Ingénieur structures — revue technique bardage ventilé
 client: Infrabel
 contractor: Equans / De Raedt Ivan / Etanco-Marcovis
 status: active
-tags: [P101581, boitsfort, blocages, NC, issues]
-updated: 2026-06-04
+tags:
+  - P101581
+  - boitsfort
+  - blocages
+  - NC
+  - issues
+updated: 2026-06-09
 ---
 
 # P101581 — Open Points
+
 
 ## Summary
 
@@ -26,6 +32,8 @@ updated: 2026-06-04
 | **F** | Substrate grade unknown | Equans/Raphaël Verraghen | BLOCKING |
 | **G** | TF-022 vD alignment (internal, De Raedt) | De Raedt | NON-BLOCKING |
 | **H** | Project-specific Marcovis NdC — clarification needed | Equans/Etanco | NON-BLOCKING |
+| **I** | Gevelfolie perforations at NU5 — re-waterproofing | Equans/De Raedt | OPEN (raised by Equans) |
+| **J** | Druipneus above ventilation grilles | Equans/De Raedt | OPEN (raised by Equans) |
 | **NC03** | Workmanship non-conformities | Equans/De Raedt | BLOCKING |
 
 ---
@@ -124,6 +132,41 @@ updated: 2026-06-04
 
 ---
 
+### I — Gevelfolie perforations at NU5 (OPEN — raised by Equans)
+
+**Problem:** During the April workmanship issues the façade film (gevelfolie) at NU5 was perforated (random support holes). Equans (email 08/06/2026) acknowledges a technical solution is needed to make these perforations watertight again. Site / watertightness item, not a structural blocage, but tied to NC03 and to restart authorization.
+
+**Exigence:** UP-4044 (watertightness of the façade film), CSC §07.04 ventilated-cavity build-up
+
+**Responsible:** Equans / De Raedt
+
+**Closure requires:** Technical proposal for re-sealing the gevelfolie perforations at NU5, to be reviewed before cladding is reinstated.
+
+---
+
+### J — Druipneus above ventilation grilles (OPEN — raised by Equans)
+
+**Problem:** Equans (email 08/06/2026) proposes to provide a technical detail for a druipneus (drip edge) above the ventilation grilles. Detailing item to confirm water is shed clear of the grilles and the cavity.
+
+**Exigence:** UP-4044 / detail drawings; CSC §07.04 ventilation provisions (perforated L-profile, 10 mm/m openings, insect mesh)
+
+**Responsible:** Equans / De Raedt
+
+**Closure requires:** Drip-edge detail above ventilation grilles submitted and checked against the ventilation/water-shedding requirements; to appear on the adapted gevelplannen / IP3371.
+
+---
+
+## Meeting Request (Equans, 08/06/2026)
+
+Equans asked for a (preferably live) expert meeting to align on the remaining administration for TF-2100 and TF-2101, calling some remarks "buitensporig" (excessive). Proposed dates: 15/06 (≥10h), 18/06, 19/06.
+
+- Raphaëlle: available all three; questions whether a visio is needed since the outstanding items are already written down.
+- Nicolas: available 18/06 & 19/06; FR/EN only (translation needed if NL); position unchanged — remarks are CSC/Eurocode compliance requirements, not administrative formalities. Burden of proof stays with the contractor.
+
+Date to be confirmed. See [[05 — Journal]] entry 09/06/2026.
+
+---
+
 ## Workmanship Non-Conformity (NC03, April 2026)
 
 **NC03 (Remco Desmet/CCM, transmitted by Raphaëlle, April 2026):**
@@ -141,4 +184,4 @@ updated: 2026-06-04
 
 ---
 
-Links: [[00 — Overview]] · [[02 — Document Register]] · [[05 — Journal]]
+Links: [[Projects/101581 Boitsfort/00 — Overview]] · [[Projects/101581 Boitsfort/02 — Document Register]] · [[05 — Journal]]

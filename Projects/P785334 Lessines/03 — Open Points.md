@@ -115,7 +115,7 @@ If next submission still lacks internal verifier visa and remarks traceability r
 
 ---
 
-## Closed Items (pending move to [[01 — History]])
+## Closed Items (pending move to [[Projects/P785334 Lessines/01 — History]])
 
 | ID   | Description                       | Closed reason                                                      |
 | ---- | --------------------------------- | ------------------------------------------------------------------ |
@@ -130,4 +130,4 @@ If next submission still lacks internal verifier visa and remarks traceability r
 
 ---
 
-Links: [[00 — Overview]] · [[02 — Document Register]] · [[05 — Technical Reviews]]
+Links: [[Projects/P785334 Lessines/00 — Overview]] · [[Projects/P785334 Lessines/02 — Document Register]] · [[05 — Technical Reviews]]

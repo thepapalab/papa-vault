@@ -130,4 +130,4 @@ WKF120 bracket + SKR8100 works in solid RC field conditions. Edge conditions (ri
 
 ---
 
-Links: [[00 — Overview]] · [[02 — Document Register]] · [[03 — Open Points]]
+Links: [[Projects/P234403 Luttre/00 — Overview]] · [[Projects/P234403 Luttre/02 — Document Register]] · [[Projects/P234403 Luttre/03 — Open Points]]

@@ -107,4 +107,4 @@ TUC Rail appointed as engineering bureau for P234403 Luttre traction substation.
 
 ---
 
-Links: [[00 — Overview]] · [[02 — Document Register]] · [[03 — Open Points]]
+Links: [[Projects/P234403 Luttre/00 — Overview]] · [[Projects/P234403 Luttre/02 — Document Register]] · [[Projects/P234403 Luttre/03 — Open Points]]

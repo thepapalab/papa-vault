@@ -106,4 +106,4 @@ WKF120 bracket + SKR8100 anchor works in solid RC slab field conditions (ETA 20/
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/P234403 Luttre/00 — Overview]] · [[Projects/P234403 Luttre/03 — Open Points]]

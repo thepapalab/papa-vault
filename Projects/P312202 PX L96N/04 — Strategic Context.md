@@ -66,4 +66,4 @@ No formal normative design at this stage. For future detailed design:
 
 ---
 
-Links: [[00 — Overview]] · [[03 — Open Points]]
+Links: [[Projects/P312202 PX L96N/00 — Overview]] · [[Projects/P312202 PX L96N/03 — Open Points]]

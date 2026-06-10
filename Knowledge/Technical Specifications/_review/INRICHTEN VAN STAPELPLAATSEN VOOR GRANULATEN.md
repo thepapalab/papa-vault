@@ -1,0 +1,5 @@
+# INRICHTEN VAN STAPELPLAATSEN VOOR GRANULATEN
+
+Omheining:
+
+Verwijderen:

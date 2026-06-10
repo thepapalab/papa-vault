@@ -29,7 +29,7 @@ tags:
 
 ## Notes
 
-**Projects:** [[00 — Overview|P785334 Lessines]] — CCM / signing authority on all formal HERMES correspondence. Copy before any external send.
+**Projects:** [[Projects/P522001 Cuesmes/00 — Overview|P785334 Lessines]] — CCM / signing authority on all formal HERMES correspondence. Copy before any external send.
 
 ## Last Contact
 Date:

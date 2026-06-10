@@ -44,7 +44,7 @@ Team Manager from 01/01/2026. Scope: Design Engineers Structures FR, Geotechnics
 
 - **P101 WP329 Ottignies** — verifier role; integral frame bridge, deflection, LM71
 - **P103 Escalier Est** — retaining wall + staircase EC2
-- **P785334 Lessines** — [[00 — Overview|Overview]] — CSV + platform raising; team manager oversight
+- **P785334 Lessines** — [[Projects/P522001 Cuesmes/00 — Overview|Overview]] — CSV + platform raising; team manager oversight
 - **P103310** — Revit model workflow
 
 ## Work Style

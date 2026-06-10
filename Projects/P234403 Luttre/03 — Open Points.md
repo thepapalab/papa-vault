@@ -183,4 +183,4 @@ updated: 2026-06-04
 
 ---
 
-Links: [[00 — Overview]] · [[02 — Document Register]] · [[05 — Journal]]
+Links: [[Projects/P234403 Luttre/00 — Overview]] · [[Projects/P234403 Luttre/02 — Document Register]] · [[05 — Journal]]

@@ -52,7 +52,7 @@ New traction substation housing electrical equipment for lines 117 (Luttre/Brain
 - [B1–B6] TFO roof — demountable, wind tableau, sheeting ELS, section change, auvent note, wind ref — BEM — BLOCKING
 - [C1–C3] Bardage B03 — SKR8100 edge calc, EXE plans, FT 36 — Charpente Habitat — BLOCKING
 
-See [[03 — Open Points]] for full 15-item detail with closure criteria.
+See [[Projects/P234403 Luttre/03 — Open Points]] for full 15-item detail with closure criteria.
 
 ## Current Situation
 
@@ -71,10 +71,10 @@ Nicolas responses S16 (radiers) drafted; S18 (TFO) in preparation. Charpente Hab
 
 ## Navigation
 
-- [[01 — History]] — Factual chronological record
-- [[02 — Document Register]] — BEM/DW submissions, plan register, outstanding documents
-- [[03 — Open Points]] — All 15 blocking items with closure criteria
-- [[04 — Strategic Context]] — Kz strategy, argument discipline, communication protocol
+- [[Projects/P234403 Luttre/01 — History]] — Factual chronological record
+- [[Projects/P234403 Luttre/02 — Document Register]] — BEM/DW submissions, plan register, outstanding documents
+- [[Projects/P234403 Luttre/03 — Open Points]] — All 15 blocking items with closure criteria
+- [[Projects/P234403 Luttre/04 — Strategic Context]] — Kz strategy, argument discipline, communication protocol
 - [[05 — Journal]] — Dated log of events and actions
 - [[Projects/P234403 Luttre/06 — Technical Reviews]] — Design phases, as-built findings with reasoning
 
